@@ -7,7 +7,7 @@
 <!-- Twitch -->
  <tr>
     <td>
-        <a href="https://www.twitch.tv/ariabelmonde"><img src="img/twitch-icon.png" height="20"> - Twitch</a>
+        <a href="https://www.twitch.tv/ariabelmonde"><img src="img/twitch-icon.png" height="20" text-decoration="none"> - Twitch</a>
     </td>
  </tr>
 <!-- Website -->
