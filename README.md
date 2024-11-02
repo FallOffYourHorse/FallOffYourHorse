@@ -19,7 +19,7 @@
 </table>
 
 ### About Me
-Hey, nice to meet you. I'm Thiha Tun. I go by Aria Belmonde online! I'm currently attending NAIT as a student in the Digital Media and Information Technology program, specifically in the Web Design and Development stream!
+Hey, nice to meet you. I'm Thiha Tun, but I go by Aria Belmonde online! I'm currently attending NAIT as a student in the Digital Media and Information Technology program, specifically in the Web Design and Development stream!
 
 
 You can reach out to me through one of these methods!
