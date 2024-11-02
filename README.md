@@ -7,13 +7,13 @@
 <!-- Twitch -->
  <tr>
     <td>
-        <a href="https://www.twitch.tv/ariabelmonde"><img src="img/twitch-icon.png" height="13"> Twitch</a>
+        <a href="https://www.twitch.tv/ariabelmonde"><img src="img/twitch-icon.png" height="20"> Twitch</a>
     </td>
  </tr>
 <!-- Website -->
  <tr>
     <td>
-        <a href="https://www.ariabelmonde.ca/"><img src="img/profile-icon.png" height="13"> My Web Portolio</a>
+        <a href="https://www.ariabelmonde.ca/"><img src="img/profile-icon.png" height="20"> My Web Portolio</a>
     </td>
  </tr>
 </table>
