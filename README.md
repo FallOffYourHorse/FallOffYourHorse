@@ -38,7 +38,7 @@ You can reach out to me through one of these methods!
 
 ![](https://komarev.com/ghpvc/?username=FallOffYourHorse&color=8b0000)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/206236479016534017)](https://discord.com/users/206236479016534017)
+<div align="right">[![Discord Presence](https://lanyard.cnrad.dev/api/206236479016534017)](https://discord.com/users/206236479016534017)</div>
 
 ### Hobbies
 I love anime, manga, and video games! 
