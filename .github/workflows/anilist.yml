@@ -15,4 +15,4 @@ jobs:
         uses: pxseu/anilist-readme@senpai # latest version
         with:
           user_id: 359165 # or
-          user_name: JeanneDarcAlter
+          # user_name: JeanneDarcAlter
