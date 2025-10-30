@@ -4,7 +4,10 @@ on:
     # Runs every hour
     - cron: "0 * * * *"
   workflow_dispatch: # for manual debuging
-
+  
+permissions:
+  contents: write
+  
 jobs:
   update-readme-with-anilist:
     name: Update this repo's README with latest AniList activites
@@ -16,3 +19,6 @@ jobs:
         with:
           user_id: 359165 # or
           #user_name: JeanneDarcAlter
+          timezone: America/Edmonton
+          preferred_language: english
+          max_post_count: 5
