@@ -28,6 +28,8 @@ You can reach out to me through one of these methods!
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/206236479016534017)
 [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ariabelmonde)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/206236479016534017)](https://discord.com/users/206236479016534017)
+
 ### Some Stats
 <details>
   <summary>📊 Some stats of me</summary>
@@ -37,8 +39,6 @@ You can reach out to me through one of these methods!
 </details>
 
 ![](https://komarev.com/ghpvc/?username=FallOffYourHorse&color=8b0000)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/206236479016534017)](https://discord.com/users/206236479016534017)
 
 ### Hobbies
 I love anime, manga, and video games! 
