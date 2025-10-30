@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: AniList readme workflow
-        uses: pxseu/anilist-readme@latest # latest version
+        uses: pxseu/anilist-readme@v1.4.3 # latest version
         with:
           user_id: 359165 # or
           # user_name: JeanneDarcAlter
