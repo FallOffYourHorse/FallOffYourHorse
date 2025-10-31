@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (17:27 31 October 2025)
 -   📖 Read chapter 173 of [Pick Me Up](https://anilist.co/manga/159441) (05:51 30 October 2025)
 -   📖 Read chapter 76 - 93 of [Karina's Last Days](https://anilist.co/manga/142253) (05:46 30 October 2025)
 -   📖 Read chapter 76 - 79 of [Karina's Last Days](https://anilist.co/manga/142253) (05:00 30 October 2025)
 -   📖 Read chapter 81 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (04:34 30 October 2025)
--   📖 Read chapter 124 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (04:26 30 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
