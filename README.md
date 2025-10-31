@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 27 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (20:10 31 October 2025)
+-   📖 Read chapter 105 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (21:10 31 October 2025)
+-   📖 Read chapter 33 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (21:04 31 October 2025)
+-   📖 Read chapter 26 - 33 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (21:01 31 October 2025)
 -   📖 Read chapter 51 of [Synced for Pleasure](https://anilist.co/manga/187194) (20:01 31 October 2025)
 -   📖 Read chapter 62 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (18:31 31 October 2025)
--   📖 Read chapter 7 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (17:27 31 October 2025)
--   📖 Read chapter 173 of [Pick Me Up](https://anilist.co/manga/159441) (05:51 30 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
