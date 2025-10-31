@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 - 35 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (23:03 31 October 2025)
 -   📖 Read chapter 100 - 106 of [I've Become a True Villainess](https://anilist.co/manga/159442) (21:43 31 October 2025)
 -   📖 Read chapter 213 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (21:23 31 October 2025)
 -   📖 Read chapter 34 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (21:18 31 October 2025)
 -   📖 Read chapter 105 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (21:10 31 October 2025)
--   📖 Read chapter 33 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (21:04 31 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
