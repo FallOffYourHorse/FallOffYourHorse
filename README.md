@@ -13,7 +13,7 @@
 <!-- Website -->
  <tr>
     <td>
-        <a href="https://www.ariabelmonde.ca/"><img src="img/profile-icon.png" height="20">My Web Portolio</a>
+        <a href="https://www.ariabelmonde.ca/"><img src="img/profile-icon.png" height="20">My Website</a>
     </td>
  </tr>
 </table>
