@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 141 - 154 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (00:59 01 November 2025)
+-   📖 Read chapter 126 - 129 of [Who Made Me a Princess](https://anilist.co/manga/107521) (01:53 01 November 2025)
+-   📖 Read chapter 141 - 168 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (01:32 01 November 2025)
 -   📖 Read chapter 135 - 142 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (00:01 01 November 2025)
 -   📖 Read chapter 69 - 70 of [An Extra Stole the Male Leads](https://anilist.co/manga/176763) (23:27 31 October 2025)
 -   📖 Read chapter 26 - 37 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (23:18 31 October 2025)
--   📖 Read chapter 100 - 106 of [I've Become a True Villainess](https://anilist.co/manga/159442) (21:43 31 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
