@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Taida na Akujoku Kizoku ni Tensei Shita Ore, Scenario wo Bukkowa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta](https://anilist.co/manga/182970) (04:14 02 November 2025)
+-   📖 Plans to read [Taida na Akujoku Kizoku ni Tensei Shita Ore, Scenario wo Bukkowa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta](https://anilist.co/manga/182970) (03:52 02 November 2025)
 -   📖 Read chapter 33 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/manga/116062) (02:25 02 November 2025)
 -   📖 Read chapter 86 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (02:23 02 November 2025)
 -   📖 Read chapter 17 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (02:20 02 November 2025)
--   📖 Read chapter 105 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (02:19 02 November 2025)
--   📖 Read chapter 183 of [The Swordmaster's Son](https://anilist.co/manga/149332) (02:17 02 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
