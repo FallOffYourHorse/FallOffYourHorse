@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (20:06 02 November 2025)
 -   📖 Plans to read [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (05:19 02 November 2025)
 -   📖 Read chapter 78 - 79 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (04:30 02 November 2025)
 -   📖 Plans to read [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (04:30 02 November 2025)
 -   📖 Read chapter 25 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (04:29 02 November 2025)
--   📖 Plans to read [Skeleton Knight in Another World](https://anilist.co/manga/98900) (04:26 02 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
