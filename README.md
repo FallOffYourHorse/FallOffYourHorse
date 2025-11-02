@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Taida na Akujoku Kizoku ni Tensei Shita Ore, Scenario wo Bukkowa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta](https://anilist.co/manga/182970) (04:14 02 November 2025)
--   📖 Plans to read [Taida na Akujoku Kizoku ni Tensei Shita Ore, Scenario wo Bukkowa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta](https://anilist.co/manga/182970) (03:52 02 November 2025)
--   📖 Read chapter 33 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/manga/116062) (02:25 02 November 2025)
--   📖 Read chapter 86 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (02:23 02 November 2025)
--   📖 Read chapter 17 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (02:20 02 November 2025)
+-   📖 Read chapter 78 - 79 of [Kichiku Eiyuu](https://anilist.co/manga/139415) (04:30 02 November 2025)
+-   📖 Plans to read [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (04:30 02 November 2025)
+-   📖 Read chapter 25 of [The Cursed Sword Master’s Harem Life: By the Sword, For the Sword](https://anilist.co/manga/109170) (04:29 02 November 2025)
+-   📖 Plans to read [Skeleton Knight in Another World](https://anilist.co/manga/98900) (04:26 02 November 2025)
+-   📖 Read chapter 1 - 13 of [Taida na Akujoku Kizoku ni Tensei Shita Ore, Scenario wo Bukkowa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta](https://anilist.co/manga/182970) (04:25 02 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
