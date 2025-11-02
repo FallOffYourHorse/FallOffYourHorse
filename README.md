@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 149 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (06:36 01 November 2025)
--   📖 Read chapter 126 - 129 of [Who Made Me a Princess](https://anilist.co/manga/107521) (01:53 01 November 2025)
--   📖 Read chapter 141 - 168 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (01:32 01 November 2025)
--   📖 Read chapter 135 - 142 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (00:01 01 November 2025)
--   📖 Read chapter 69 - 70 of [An Extra Stole the Male Leads](https://anilist.co/manga/176763) (23:27 31 October 2025)
+-   📖 Read chapter 33 of [I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too](https://anilist.co/manga/116062) (02:25 02 November 2025)
+-   📖 Read chapter 86 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (02:23 02 November 2025)
+-   📖 Read chapter 17 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (02:20 02 November 2025)
+-   📖 Read chapter 105 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (02:19 02 November 2025)
+-   📖 Read chapter 183 of [The Swordmaster's Son](https://anilist.co/manga/149332) (02:17 02 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
