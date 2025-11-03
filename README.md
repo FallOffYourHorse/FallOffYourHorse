@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 117 of [The New Gate](https://anilist.co/manga/85978) (04:40 03 November 2025)
 -   📖 Read chapter 106 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (03:17 03 November 2025)
 -   📖 Read chapter 60 of [Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.](https://anilist.co/manga/131140) (03:17 03 November 2025)
 -   📖 Read chapter 52 of [Synced for Pleasure](https://anilist.co/manga/187194) (01:52 03 November 2025)
 -   📖 Read chapter 58 - 59 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (01:48 03 November 2025)
--   📖 Read chapter 137 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:42 03 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
