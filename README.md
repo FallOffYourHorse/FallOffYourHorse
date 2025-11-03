@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 of [Synced for Pleasure](https://anilist.co/manga/187194) (01:52 03 November 2025)
+-   📖 Read chapter 58 - 59 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (01:48 03 November 2025)
+-   📖 Read chapter 137 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:42 03 November 2025)
+-   📖 Read chapter 41 - 42 of [Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin](https://anilist.co/manga/111101) (01:19 03 November 2025)
 -   📖 Read chapter 42 of [Imaizumi Brings All the Gals to His House](https://anilist.co/manga/143028) (22:37 02 November 2025)
--   📖 Read chapter 103 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (22:33 02 November 2025)
--   📖 Read chapter 125 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (22:30 02 November 2025)
--   📖 Read chapter 32 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (20:06 02 November 2025)
--   📖 Plans to read [Tou no Kanri wo Shite Miyou](https://anilist.co/manga/103736) (05:19 02 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
