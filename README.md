@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 106 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (03:17 03 November 2025)
+-   📖 Read chapter 60 of [Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.](https://anilist.co/manga/131140) (03:17 03 November 2025)
 -   📖 Read chapter 52 of [Synced for Pleasure](https://anilist.co/manga/187194) (01:52 03 November 2025)
 -   📖 Read chapter 58 - 59 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (01:48 03 November 2025)
 -   📖 Read chapter 137 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:42 03 November 2025)
--   📖 Read chapter 41 - 42 of [Hazure Skill: The Guild Member with a Worthless Skill Is Actually a Legendary Assassin](https://anilist.co/manga/111101) (01:19 03 November 2025)
--   📖 Read chapter 42 of [Imaizumi Brings All the Gals to His House](https://anilist.co/manga/143028) (22:37 02 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
