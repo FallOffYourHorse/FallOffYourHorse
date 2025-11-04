@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 10 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (06:08 04 November 2025)
+-   📖 Plans to read [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (05:32 04 November 2025)
+-   📖 Read chapter 66 of [Chillin’ in Another World with Level 2 Super Cheat Powers](https://anilist.co/manga/107120) (05:29 04 November 2025)
 -   📖 Plans to read [Last Boss-tachi no Kakushi Ko: Maoujou ni Tensei Shita Moto Sachiku Programmer wa Jiyuu Kimama ni "Magic Code" Kaihatsu Suru](https://anilist.co/manga/182266) (05:07 04 November 2025)
 -   📖 Read chapter 99 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:59 04 November 2025)
--   📖 Read chapter 75 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (04:54 04 November 2025)
--   📖 Read chapter 164 of [Saving My Sweetheart](https://anilist.co/manga/131772) (04:51 04 November 2025)
--   📖 Read chapter 33 of [Gyogwaseo Daesin Yeeonseo Ilseumnida](https://anilist.co/manga/195458) (04:39 04 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
