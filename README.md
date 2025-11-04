@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 117 of [The New Gate](https://anilist.co/manga/85978) (04:40 03 November 2025)
--   📖 Read chapter 106 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (03:17 03 November 2025)
--   📖 Read chapter 60 of [Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.](https://anilist.co/manga/131140) (03:17 03 November 2025)
--   📖 Read chapter 52 of [Synced for Pleasure](https://anilist.co/manga/187194) (01:52 03 November 2025)
--   📖 Read chapter 58 - 59 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (01:48 03 November 2025)
+-   📖 Plans to read [Last Boss-tachi no Kakushi Ko: Maoujou ni Tensei Shita Moto Sachiku Programmer wa Jiyuu Kimama ni "Magic Code" Kaihatsu Suru](https://anilist.co/manga/182266) (05:07 04 November 2025)
+-   📖 Read chapter 99 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:59 04 November 2025)
+-   📖 Read chapter 75 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (04:54 04 November 2025)
+-   📖 Read chapter 164 of [Saving My Sweetheart](https://anilist.co/manga/131772) (04:51 04 November 2025)
+-   📖 Read chapter 33 of [Gyogwaseo Daesin Yeeonseo Ilseumnida](https://anilist.co/manga/195458) (04:39 04 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
