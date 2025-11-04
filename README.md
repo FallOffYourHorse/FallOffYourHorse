@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (06:08 04 November 2025)
+-   📖 Read chapter 1 - 19 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (06:45 04 November 2025)
 -   📖 Plans to read [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (05:32 04 November 2025)
 -   📖 Read chapter 66 of [Chillin’ in Another World with Level 2 Super Cheat Powers](https://anilist.co/manga/107120) (05:29 04 November 2025)
 -   📖 Plans to read [Last Boss-tachi no Kakushi Ko: Maoujou ni Tensei Shita Moto Sachiku Programmer wa Jiyuu Kimama ni "Magic Code" Kaihatsu Suru](https://anilist.co/manga/182266) (05:07 04 November 2025)
