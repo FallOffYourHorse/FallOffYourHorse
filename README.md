@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [New Saga](https://anilist.co/manga/85890) (01:11 05 November 2025)
 -   📖 Read chapter 21 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (00:12 05 November 2025)
 -   📖 Read chapter 67 - 79 of [Cleric of Decay](https://anilist.co/manga/167165) (19:36 04 November 2025)
 -   📖 Read chapter 1 - 19 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (06:45 04 November 2025)
 -   📖 Plans to read [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (05:32 04 November 2025)
--   📖 Read chapter 66 of [Chillin’ in Another World with Level 2 Super Cheat Powers](https://anilist.co/manga/107120) (05:29 04 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
