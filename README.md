@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 121 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:09 05 November 2025)
+-   📖 Read chapter 100 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (21:16 05 November 2025)
+-   📖 Read chapter 121 - 122 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:12 05 November 2025)
 -   📖 Read chapter 75 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (21:07 05 November 2025)
 -   📖 Read chapter 82 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (21:00 05 November 2025)
 -   📖 Read chapter 106 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (20:58 05 November 2025)
--   📖 Read chapter 143 of [The Infinite Mage](https://anilist.co/manga/159930) (20:53 05 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
