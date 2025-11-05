@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 22 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (19:01 05 November 2025)
--   📖 Plans to read [New Saga](https://anilist.co/manga/85890) (01:11 05 November 2025)
--   📖 Read chapter 21 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (00:12 05 November 2025)
--   📖 Read chapter 67 - 79 of [Cleric of Decay](https://anilist.co/manga/167165) (19:36 04 November 2025)
--   📖 Read chapter 1 - 19 of [Mujintou De Elf to Kyoudou Seikatsu](https://anilist.co/manga/109675) (06:45 04 November 2025)
+-   📖 Read chapter 121 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:09 05 November 2025)
+-   📖 Read chapter 75 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (21:07 05 November 2025)
+-   📖 Read chapter 82 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (21:00 05 November 2025)
+-   📖 Read chapter 106 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (20:58 05 November 2025)
+-   📖 Read chapter 143 of [The Infinite Mage](https://anilist.co/manga/159930) (20:53 05 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
