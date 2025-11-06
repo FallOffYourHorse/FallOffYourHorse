@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Completed [6-nin no Shinanai Shoujo to Kanarazu Shinu Unmei no Hito](https://anilist.co/manga/187127) (15:05 06 November 2025)
+-   📖 Read chapter 1 - 14 of [6-nin no Shinanai Shoujo to Kanarazu Shinu Unmei no Hito](https://anilist.co/manga/187127) (14:59 06 November 2025)
+-   📖 Plans to read [6-nin no Shinanai Shoujo to Kanarazu Shinu Unmei no Hito](https://anilist.co/manga/187127) (14:18 06 November 2025)
 -   📖 Read chapter 34 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (04:31 06 November 2025)
 -   📖 Read chapter 30 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (04:28 06 November 2025)
--   📖 Read chapter 10 of [Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai](https://anilist.co/manga/189757) (23:52 05 November 2025)
--   📖 Read chapter 100 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (21:16 05 November 2025)
--   📖 Read chapter 121 - 122 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:12 05 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
