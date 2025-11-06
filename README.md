@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 174 of [Pick Me Up](https://anilist.co/manga/159441) (15:54 06 November 2025)
+-   📖 Read chapter 35 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (15:47 06 November 2025)
+-   📖 Read chapter 143 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:44 06 November 2025)
+-   📖 Read chapter 23 of [Ane no Tomodachi ](https://anilist.co/manga/174315) (15:41 06 November 2025)
 -   📖 Completed [6-nin no Shinanai Shoujo to Kanarazu Shinu Unmei no Hito](https://anilist.co/manga/187127) (15:05 06 November 2025)
--   📖 Read chapter 1 - 14 of [6-nin no Shinanai Shoujo to Kanarazu Shinu Unmei no Hito](https://anilist.co/manga/187127) (14:59 06 November 2025)
--   📖 Plans to read [6-nin no Shinanai Shoujo to Kanarazu Shinu Unmei no Hito](https://anilist.co/manga/187127) (14:18 06 November 2025)
--   📖 Read chapter 34 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (04:31 06 November 2025)
--   📖 Read chapter 30 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (04:28 06 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
