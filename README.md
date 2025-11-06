@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (04:31 06 November 2025)
+-   📖 Read chapter 30 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (04:28 06 November 2025)
 -   📖 Read chapter 10 of [Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai](https://anilist.co/manga/189757) (23:52 05 November 2025)
 -   📖 Read chapter 100 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (21:16 05 November 2025)
 -   📖 Read chapter 121 - 122 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:12 05 November 2025)
--   📖 Read chapter 75 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (21:07 05 November 2025)
--   📖 Read chapter 82 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (21:00 05 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
