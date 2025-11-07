@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 of [God Bless You](https://anilist.co/manga/181017) (06:51 07 November 2025)
 -   📖 Read chapter 180 of [The Banished Court Magician Aims to Become the Strongest](https://anilist.co/manga/139976) (00:53 07 November 2025)
 -   📖 Read chapter 174 of [Pick Me Up](https://anilist.co/manga/159441) (15:54 06 November 2025)
 -   📖 Read chapter 35 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (15:47 06 November 2025)
 -   📖 Read chapter 143 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:44 06 November 2025)
--   📖 Read chapter 23 of [Ane no Tomodachi ](https://anilist.co/manga/174315) (15:41 06 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
