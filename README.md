@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 65 of [Cougar 101](https://anilist.co/manga/181012) (07:34 07 November 2025)
--   📖 Read chapter 65 of [Cougar 101](https://anilist.co/manga/181012) (07:34 07 November 2025)
--   📖 Read chapter 56 of [God Bless You](https://anilist.co/manga/181017) (06:51 07 November 2025)
--   📖 Read chapter 180 of [The Banished Court Magician Aims to Become the Strongest](https://anilist.co/manga/139976) (00:53 07 November 2025)
--   📖 Read chapter 174 of [Pick Me Up](https://anilist.co/manga/159441) (15:54 06 November 2025)
+-   📖 Read chapter 15 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (22:50 08 November 2025)
+-   📖 Read chapter 184 of [The Swordmaster's Son](https://anilist.co/manga/149332) (22:49 08 November 2025)
+-   📖 Read chapter 19 of [Wakaba Won’t Give Up!](https://anilist.co/manga/162092) (22:42 08 November 2025)
+-   📖 Read chapter 11 of [Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru](https://anilist.co/manga/161496) (22:41 08 November 2025)
+-   📖 Read chapter 63 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (22:39 08 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
