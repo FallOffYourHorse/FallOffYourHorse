@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 - 43 of [You Were Experienced, I Was Not: Our Dating Story](https://anilist.co/manga/144718) (03:05 10 November 2025)
+-   📖 Read chapter 64 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (02:56 10 November 2025)
 -   📖 Read chapter 230 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (22:58 09 November 2025)
 -   📖 Read chapter 138 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:56 09 November 2025)
 -   📖 Read chapter 137 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (20:40 09 November 2025)
--   📖 Read chapter 15 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (22:50 08 November 2025)
--   📖 Read chapter 184 of [The Swordmaster's Son](https://anilist.co/manga/149332) (22:49 08 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
