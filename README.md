@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 96 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:09 10 November 2025)
+-   📖 Read chapter 60 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (07:26 10 November 2025)
+-   📖 Read chapter 214 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (07:24 10 November 2025)
+-   📖 Read chapter 126 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (07:18 10 November 2025)
+-   📖 Read chapter 96 - 97 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:14 10 November 2025)
 -   📖 Read chapter 42 - 43 of [You Were Experienced, I Was Not: Our Dating Story](https://anilist.co/manga/144718) (03:05 10 November 2025)
--   📖 Read chapter 64 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (02:56 10 November 2025)
--   📖 Read chapter 230 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (22:58 09 November 2025)
--   📖 Read chapter 138 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:56 09 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
