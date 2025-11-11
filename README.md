@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 84 of [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (08:09 11 November 2025)
+-   📖 Read chapter 116 of [Returned by the King](https://anilist.co/manga/170724) (08:04 11 November 2025)
+-   📖 Read chapter 38 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (07:59 11 November 2025)
 -   📖 Read chapter 45 of [Akdangege Sarangbanneun Unmyeongimnida](https://anilist.co/manga/187140) (03:19 11 November 2025)
 -   📖 Read chapter 33 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (03:06 11 November 2025)
--   📖 Read chapter 104 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (20:56 10 November 2025)
--   📖 Read chapter 60 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (07:26 10 November 2025)
--   📖 Read chapter 214 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (07:24 10 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
