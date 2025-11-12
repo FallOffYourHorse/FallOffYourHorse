@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 189 - 190 of [Lady Chef Royale](https://anilist.co/manga/124966) (06:33 12 November 2025)
--   📖 Read chapter 53 of [Synced for Pleasure](https://anilist.co/manga/187194) (03:46 12 November 2025)
--   📖 Read chapter 76 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (03:43 12 November 2025)
--   📖 Read chapter 18 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (03:40 12 November 2025)
--   📖 Read chapter 125 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (03:40 12 November 2025)
+-   📖 Read chapter 107 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (20:49 12 November 2025)
+-   📖 Read chapter 101 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (20:45 12 November 2025)
+-   📖 Read chapter 57 of [God Bless You](https://anilist.co/manga/181017) (20:43 12 November 2025)
+-   📖 Read chapter 123 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (20:39 12 November 2025)
+-   📖 Read chapter 83 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (20:36 12 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
