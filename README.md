@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 84 of [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (08:09 11 November 2025)
--   📖 Read chapter 116 of [Returned by the King](https://anilist.co/manga/170724) (08:04 11 November 2025)
--   📖 Read chapter 38 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (07:59 11 November 2025)
--   📖 Read chapter 45 of [Akdangege Sarangbanneun Unmyeongimnida](https://anilist.co/manga/187140) (03:19 11 November 2025)
--   📖 Read chapter 33 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (03:06 11 November 2025)
+-   📖 Read chapter 18 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (03:40 12 November 2025)
+-   📖 Read chapter 125 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (03:40 12 November 2025)
+-   📖 Read chapter 144 of [The Infinite Mage](https://anilist.co/manga/159930) (03:36 12 November 2025)
+-   📖 Read chapter 31 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (03:24 12 November 2025)
+-   📖 Read chapter 44 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (03:24 12 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
