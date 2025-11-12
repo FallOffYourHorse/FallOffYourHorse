@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 189 of [Lady Chef Royale](https://anilist.co/manga/124966) (03:49 12 November 2025)
+-   📖 Read chapter 189 - 190 of [Lady Chef Royale](https://anilist.co/manga/124966) (06:33 12 November 2025)
 -   📖 Read chapter 53 of [Synced for Pleasure](https://anilist.co/manga/187194) (03:46 12 November 2025)
 -   📖 Read chapter 76 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (03:43 12 November 2025)
 -   📖 Read chapter 18 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (03:40 12 November 2025)
