@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 168 - 172 of [Hero Killer](https://anilist.co/manga/132093) (16:14 13 November 2025)
+-   📖 Read chapter 168 - 186 of [Hero Killer](https://anilist.co/manga/132093) (17:00 13 November 2025)
+-   📖 Read chapter 168 - 182 of [Hero Killer](https://anilist.co/manga/132093) (16:41 13 November 2025)
+-   📖 Read chapter 168 - 173 of [Hero Killer](https://anilist.co/manga/132093) (16:16 13 November 2025)
 -   📖 Read chapter 150 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (14:44 13 November 2025)
 -   📖 Read chapter 1 - 6 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (14:43 13 November 2025)
--   📖 Plans to read [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (14:38 13 November 2025)
--   📖 Read chapter 42 of [My gyaru wife's secrets](https://anilist.co/manga/169734) (08:33 13 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
