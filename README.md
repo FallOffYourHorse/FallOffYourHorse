@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 150 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (14:44 13 November 2025)
+-   📖 Read chapter 1 - 6 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (14:43 13 November 2025)
+-   📖 Plans to read [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (14:38 13 November 2025)
 -   📖 Read chapter 42 of [My gyaru wife's secrets](https://anilist.co/manga/169734) (08:33 13 November 2025)
 -   📖 Read chapter 175 of [Pick Me Up](https://anilist.co/manga/159441) (08:31 13 November 2025)
--   📖 Read chapter 119 - 153 of [How to Use a Returner](https://anilist.co/manga/141007) (06:11 13 November 2025)
--   📖 Read chapter 119 - 152 of [How to Use a Returner](https://anilist.co/manga/141007) (06:09 13 November 2025)
--   📖 Read chapter 119 - 137 of [How to Use a Returner](https://anilist.co/manga/141007) (05:16 13 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
