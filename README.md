@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 of [My gyaru wife's secrets](https://anilist.co/manga/169734) (08:33 13 November 2025)
+-   📖 Read chapter 175 of [Pick Me Up](https://anilist.co/manga/159441) (08:31 13 November 2025)
 -   📖 Read chapter 119 - 153 of [How to Use a Returner](https://anilist.co/manga/141007) (06:11 13 November 2025)
 -   📖 Read chapter 119 - 152 of [How to Use a Returner](https://anilist.co/manga/141007) (06:09 13 November 2025)
 -   📖 Read chapter 119 - 137 of [How to Use a Returner](https://anilist.co/manga/141007) (05:16 13 November 2025)
--   📖 Read chapter 107 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (20:49 12 November 2025)
--   📖 Read chapter 101 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (20:45 12 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
