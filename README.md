@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 114 of [Helmut](https://anilist.co/manga/154782) (03:55 14 November 2025)
+-   📖 Read chapter 64 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:52 14 November 2025)
 -   📖 Plans to read [WITCHRIV](https://anilist.co/manga/199999) (03:19 14 November 2025)
 -   📖 Read chapter 100 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:54 13 November 2025)
 -   📖 Read chapter 168 - 186 of [Hero Killer](https://anilist.co/manga/132093) (17:00 13 November 2025)
--   📖 Read chapter 168 - 182 of [Hero Killer](https://anilist.co/manga/132093) (16:41 13 November 2025)
--   📖 Read chapter 168 - 173 of [Hero Killer](https://anilist.co/manga/132093) (16:16 13 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
