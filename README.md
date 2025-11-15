@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 66 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (07:37 15 November 2025)
 -   📖 Read chapter 9 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (02:31 15 November 2025)
 -   📖 Read chapter 114 of [Helmut](https://anilist.co/manga/154782) (03:55 14 November 2025)
 -   📖 Read chapter 64 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:52 14 November 2025)
 -   📖 Plans to read [WITCHRIV](https://anilist.co/manga/199999) (03:19 14 November 2025)
--   📖 Read chapter 100 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:54 13 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
