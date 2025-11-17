@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 19 of [Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita](https://anilist.co/manga/183596) (06:43 17 November 2025)
--   📖 Plans to read [Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita](https://anilist.co/manga/183596) (05:50 17 November 2025)
--   📖 Read chapter 20 - 39 of [My Second Life is a Healing Life?](https://anilist.co/manga/177523) (02:45 17 November 2025)
--   📖 Read chapter 185 of [The Swordmaster's Son](https://anilist.co/manga/149332) (05:11 16 November 2025)
--   📖 Read chapter 61 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (04:35 16 November 2025)
+-   📖 Read chapter 55 of [Synced for Pleasure](https://anilist.co/manga/187194) (21:06 17 November 2025)
+-   📖 Read chapter 7 - 8 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (20:52 17 November 2025)
+-   📖 Read chapter 65 of [Dark Summoner to Dekiteiru](https://anilist.co/manga/157391) (20:49 17 November 2025)
+-   📖 Read chapter 144 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (20:42 17 November 2025)
+-   📖 Read chapter 46 of [Akdangege Sarangbanneun Unmyeongimnida](https://anilist.co/manga/187140) (20:35 17 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
