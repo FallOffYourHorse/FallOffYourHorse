@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita](https://anilist.co/manga/183596) (06:19 17 November 2025)
+-   📖 Plans to read [Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita](https://anilist.co/manga/183596) (05:50 17 November 2025)
 -   📖 Read chapter 20 - 39 of [My Second Life is a Healing Life?](https://anilist.co/manga/177523) (02:45 17 November 2025)
 -   📖 Read chapter 185 of [The Swordmaster's Son](https://anilist.co/manga/149332) (05:11 16 November 2025)
 -   📖 Read chapter 61 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (04:35 16 November 2025)
--   📖 Read chapter 98 of [I Killed the Main Player](https://anilist.co/manga/173020) (23:41 15 November 2025)
--   📖 Read chapter 215 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (23:36 15 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
