@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 20 - 38 of [My Second Life is a Healing Life?](https://anilist.co/manga/177523) (02:41 17 November 2025)
+-   📖 Read chapter 20 - 39 of [My Second Life is a Healing Life?](https://anilist.co/manga/177523) (02:45 17 November 2025)
 -   📖 Read chapter 185 of [The Swordmaster's Son](https://anilist.co/manga/149332) (05:11 16 November 2025)
 -   📖 Read chapter 61 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (04:35 16 November 2025)
 -   📖 Read chapter 98 of [I Killed the Main Player](https://anilist.co/manga/173020) (23:41 15 November 2025)
