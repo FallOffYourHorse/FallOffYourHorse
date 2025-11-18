@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (06:24 18 November 2025)
 -   📖 Read chapter 61 of [The Strongest Sage with the Weakest Crest](https://anilist.co/manga/99931) (05:54 18 November 2025)
 -   📖 Read chapter 34 of [Gyogwaseo Daesin Yeeonseo Ilseumnida](https://anilist.co/manga/195458) (05:47 18 November 2025)
 -   📖 Read chapter 55 of [Synced for Pleasure](https://anilist.co/manga/187194) (21:06 17 November 2025)
 -   📖 Read chapter 7 - 8 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (20:52 17 November 2025)
--   📖 Read chapter 65 of [Dark Summoner to Dekiteiru](https://anilist.co/manga/157391) (20:49 17 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
