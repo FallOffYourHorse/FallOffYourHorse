@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 32 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (06:24 18 November 2025)
--   📖 Read chapter 61 of [The Strongest Sage with the Weakest Crest](https://anilist.co/manga/99931) (05:54 18 November 2025)
--   📖 Read chapter 34 of [Gyogwaseo Daesin Yeeonseo Ilseumnida](https://anilist.co/manga/195458) (05:47 18 November 2025)
--   📖 Read chapter 55 of [Synced for Pleasure](https://anilist.co/manga/187194) (21:06 17 November 2025)
--   📖 Read chapter 7 - 8 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (20:52 17 November 2025)
+-   📖 Read chapter 10 - 12 of [Ore Igai Dare mo Saishu Dekinai Sozai nano ni "Sozai Saishuritsu ga Hikui" to Pawahara Suru Osananajimi Renkinjutsushi to Zetsuen Shita Senzoku Madoushi, Henkyou no Machi de Slow Life wo Okuritai.](https://anilist.co/manga/168187) (00:26 19 November 2025)
+-   📖 Read chapter 34 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (00:10 19 November 2025)
+-   📖 Read chapter 33 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (00:02 19 November 2025)
+-   📖 Read chapter 45 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (00:00 19 November 2025)
+-   📖 Read chapter 138 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (23:59 18 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
