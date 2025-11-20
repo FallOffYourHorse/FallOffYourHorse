@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 289 of [Omniscient Reader](https://anilist.co/manga/119257) (19:47 20 November 2025)
 -   📖 Read chapter 10 - 12 of [Ore Igai Dare mo Saishu Dekinai Sozai nano ni "Sozai Saishuritsu ga Hikui" to Pawahara Suru Osananajimi Renkinjutsushi to Zetsuen Shita Senzoku Madoushi, Henkyou no Machi de Slow Life wo Okuritai.](https://anilist.co/manga/168187) (00:26 19 November 2025)
 -   📖 Read chapter 34 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (00:10 19 November 2025)
 -   📖 Read chapter 33 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (00:02 19 November 2025)
 -   📖 Read chapter 45 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (00:00 19 November 2025)
--   📖 Read chapter 138 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (23:59 18 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
