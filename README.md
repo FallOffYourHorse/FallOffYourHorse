@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 176 of [Pick Me Up](https://anilist.co/manga/159441) (06:38 21 November 2025)
 -   📖 Read chapter 39 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (05:26 21 November 2025)
 -   📖 Read chapter 289 of [Omniscient Reader](https://anilist.co/manga/119257) (19:47 20 November 2025)
 -   📖 Read chapter 10 - 12 of [Ore Igai Dare mo Saishu Dekinai Sozai nano ni "Sozai Saishuritsu ga Hikui" to Pawahara Suru Osananajimi Renkinjutsushi to Zetsuen Shita Senzoku Madoushi, Henkyou no Machi de Slow Life wo Okuritai.](https://anilist.co/manga/168187) (00:26 19 November 2025)
 -   📖 Read chapter 34 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (00:10 19 November 2025)
--   📖 Read chapter 33 of ["Okaeri, Papa"](https://anilist.co/manga/154376) (00:02 19 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
