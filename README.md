@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 166 of [Saving My Sweetheart](https://anilist.co/manga/131772) (20:46 23 November 2025)
+-   📖 Read chapter 94 of [Karina's Last Days](https://anilist.co/manga/142253) (20:42 23 November 2025)
 -   📖 Read chapter 17 - 18 of [Mahoui Rex no Hentai Karute](https://anilist.co/manga/179902) (01:39 23 November 2025)
 -   📖 Read chapter 186 of [The Swordmaster's Son](https://anilist.co/manga/149332) (01:30 23 November 2025)
 -   📖 Read chapter 216 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (01:25 23 November 2025)
--   📖 Read chapter 37 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (01:22 23 November 2025)
--   📖 Read chapter 37 of [Saikyou no Maou ni Kitaerareta Yuusha, Isekai Kikansha-tachi no Gakuen de Musou Suru](https://anilist.co/manga/146597) (01:16 23 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
