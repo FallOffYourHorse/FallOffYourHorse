@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 139 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (23:25 22 November 2025)
+-   📖 Read chapter 67 - 70 of [The SSS-Ranker Returns](https://anilist.co/manga/153883) (23:22 22 November 2025)
 -   📖 Read chapter 102 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (20:15 21 November 2025)
 -   📖 Read chapter 24 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (20:12 21 November 2025)
 -   📖 Read chapter 36 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (20:03 21 November 2025)
--   📖 Read chapter 77 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (19:58 21 November 2025)
--   📖 Read chapter 176 of [Pick Me Up](https://anilist.co/manga/159441) (06:38 21 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
