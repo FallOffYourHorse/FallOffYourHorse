@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 36 of [Gyogwaseo Daesin Yeeonseo Ilseumnida](https://anilist.co/manga/195458) (05:13 24 November 2025)
--   📖 Read chapter 59 of [God Bless You](https://anilist.co/manga/181017) (05:03 24 November 2025)
--   📖 Read chapter 140 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:02 24 November 2025)
--   📖 Read chapter 128 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (04:52 24 November 2025)
--   📖 Read chapter 65 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (04:48 24 November 2025)
+-   📖 Read chapter 5 of [Isekai H Eiyuuden: Bishoujo Senshi-tachi wa Saikyou Gunshi no Mucha na Onegai ni Sakaraenai](https://anilist.co/manga/194499) (05:58 24 November 2025)
+-   📖 Read chapter 20 of [Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita](https://anilist.co/manga/183596) (05:27 24 November 2025)
+-   📖 Read chapter 9 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (05:26 24 November 2025)
+-   📖 Read chapter 118 of [The New Gate](https://anilist.co/manga/85978) (05:23 24 November 2025)
+-   📖 Read chapter 33 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (05:22 24 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
