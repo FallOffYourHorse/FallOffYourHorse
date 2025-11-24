@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyou Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (06:23 24 November 2025)
--   📖 Read chapter 5 of [Isekai H Eiyuuden: Bishoujo Senshi-tachi wa Saikyou Gunshi no Mucha na Onegai ni Sakaraenai](https://anilist.co/manga/194499) (05:58 24 November 2025)
--   📖 Read chapter 20 of [Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita](https://anilist.co/manga/183596) (05:27 24 November 2025)
--   📖 Read chapter 9 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (05:26 24 November 2025)
--   📖 Read chapter 118 of [The New Gate](https://anilist.co/manga/85978) (05:23 24 November 2025)
+-   📖 Read chapter 100 - 102 of [Record of Ragnarok](https://anilist.co/manga/107098) (22:07 24 November 2025)
+-   📖 Read chapter 16 of [Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://anilist.co/manga/182970) (21:36 24 November 2025)
+-   📖 Read chapter 182 of [The Banished Court Magician Aims to Become the Strongest](https://anilist.co/manga/139976) (21:34 24 November 2025)
+-   📖 Read chapter 62 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (21:30 24 November 2025)
+-   📖 Read chapter 102 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (21:25 24 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
