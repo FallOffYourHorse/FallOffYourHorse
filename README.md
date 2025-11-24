@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 9 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (04:26 24 November 2025)
--   📖 Read chapter 166 of [Saving My Sweetheart](https://anilist.co/manga/131772) (20:46 23 November 2025)
--   📖 Read chapter 94 of [Karina's Last Days](https://anilist.co/manga/142253) (20:42 23 November 2025)
--   📖 Read chapter 17 - 18 of [Mahoui Rex no Hentai Karute](https://anilist.co/manga/179902) (01:39 23 November 2025)
--   📖 Read chapter 186 of [The Swordmaster's Son](https://anilist.co/manga/149332) (01:30 23 November 2025)
+-   📖 Read chapter 36 of [Gyogwaseo Daesin Yeeonseo Ilseumnida](https://anilist.co/manga/195458) (05:13 24 November 2025)
+-   📖 Read chapter 59 of [God Bless You](https://anilist.co/manga/181017) (05:03 24 November 2025)
+-   📖 Read chapter 140 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:02 24 November 2025)
+-   📖 Read chapter 128 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (04:52 24 November 2025)
+-   📖 Read chapter 65 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (04:48 24 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
