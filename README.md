@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 100 - 102 of [Record of Ragnarok](https://anilist.co/manga/107098) (22:07 24 November 2025)
+-   📖 Read chapter 100 - 112 of [Record of Ragnarok](https://anilist.co/manga/107098) (22:48 24 November 2025)
 -   📖 Read chapter 16 of [Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://anilist.co/manga/182970) (21:36 24 November 2025)
 -   📖 Read chapter 182 of [The Banished Court Magician Aims to Become the Strongest](https://anilist.co/manga/139976) (21:34 24 November 2025)
 -   📖 Read chapter 62 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (21:30 24 November 2025)
