@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 85 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (06:36 25 November 2025)
--   📖 Read chapter 84 of [Tsukimichi: Moonlit Fantasy](https://anilist.co/manga/87225) (04:38 25 November 2025)
--   📖 Read chapter 100 - 112 of [Record of Ragnarok](https://anilist.co/manga/107098) (22:48 24 November 2025)
--   📖 Read chapter 16 of [Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://anilist.co/manga/182970) (21:36 24 November 2025)
--   📖 Read chapter 182 of [The Banished Court Magician Aims to Become the Strongest](https://anilist.co/manga/139976) (21:34 24 November 2025)
+-   📖 Read chapter 7 of [Kutabire Salarymen no Ore, 7-nenburi ni Saikai Shita Bishoujo JK to Dousei wo Hajimaru](https://anilist.co/manga/172691) (18:12 25 November 2025)
+-   📖 Read chapter 108 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (18:09 25 November 2025)
+-   📖 Read chapter 36 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (18:05 25 November 2025)
+-   📖 Read chapter 118 of [Returned by the King](https://anilist.co/manga/170724) (17:43 25 November 2025)
+-   📖 Read chapter 115 of [Helmut](https://anilist.co/manga/154782) (17:40 25 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
