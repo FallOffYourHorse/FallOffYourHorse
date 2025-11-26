@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 50 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (18:15 26 November 2025)
--   📖 Read chapter 146 of [The Infinite Mage](https://anilist.co/manga/159930) (01:57 26 November 2025)
--   📖 Read chapter 101 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (01:52 26 November 2025)
--   📖 Read chapter 7 of [Kutabire Salarymen no Ore, 7-nenburi ni Saikai Shita Bishoujo JK to Dousei wo Hajimaru](https://anilist.co/manga/172691) (18:12 25 November 2025)
--   📖 Read chapter 108 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (18:09 25 November 2025)
+-   📖 Read chapter 88 - 89 of [The Secret of House Francesca](https://anilist.co/manga/160150) (18:52 26 November 2025)
+-   📖 Read chapter 103 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (18:48 26 November 2025)
+-   📖 Read chapter 77 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (18:45 26 November 2025)
+-   📖 Read chapter 102 - 103 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (18:39 26 November 2025)
+-   📖 Read chapter 46 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (18:33 26 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
