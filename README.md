@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 143 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (21:01 26 November 2025)
+-   📖 Read chapter 156 - 157 of [How to Use a Returner](https://anilist.co/manga/141007) (22:09 26 November 2025)
+-   📖 Read chapter 50 - 51 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (21:58 26 November 2025)
+-   📖 Read chapter 143 - 154 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (21:54 26 November 2025)
 -   📖 Read chapter 88 - 89 of [The Secret of House Francesca](https://anilist.co/manga/160150) (18:52 26 November 2025)
 -   📖 Read chapter 103 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (18:48 26 November 2025)
--   📖 Read chapter 77 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (18:45 26 November 2025)
--   📖 Read chapter 102 - 103 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (18:39 26 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
