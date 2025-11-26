@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 146 of [The Infinite Mage](https://anilist.co/manga/159930) (01:57 26 November 2025)
+-   📖 Read chapter 101 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (01:52 26 November 2025)
 -   📖 Read chapter 7 of [Kutabire Salarymen no Ore, 7-nenburi ni Saikai Shita Bishoujo JK to Dousei wo Hajimaru](https://anilist.co/manga/172691) (18:12 25 November 2025)
 -   📖 Read chapter 108 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (18:09 25 November 2025)
 -   📖 Read chapter 36 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (18:05 25 November 2025)
--   📖 Read chapter 118 of [Returned by the King](https://anilist.co/manga/170724) (17:43 25 November 2025)
--   📖 Read chapter 115 of [Helmut](https://anilist.co/manga/154782) (17:40 25 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
