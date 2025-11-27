@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 158 - 159 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (17:34 27 November 2025)
+-   📖 Read chapter 106 - 109 of [Killer Gyeongchal](https://anilist.co/manga/165905) (17:25 27 November 2025)
+-   📖 Read chapter 52 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (17:14 27 November 2025)
 -   📖 Read chapter 156 - 163 of [How to Use a Returner](https://anilist.co/manga/141007) (00:29 27 November 2025)
 -   📖 Read chapter 177 of [Pick Me Up](https://anilist.co/manga/159441) (00:19 27 November 2025)
--   📖 Read chapter 143 - 157 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (00:16 27 November 2025)
--   📖 Read chapter 50 - 51 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (21:58 26 November 2025)
--   📖 Read chapter 88 - 89 of [The Secret of House Francesca](https://anilist.co/manga/160150) (18:52 26 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
