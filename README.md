@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 - 120 of [Am I Actually the Strongest?](https://anilist.co/manga/110769) (23:09 28 November 2025)
 -   📖 Read chapter 53 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:44 28 November 2025)
 -   📖 Read chapter 107 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (04:37 28 November 2025)
 -   📖 Read chapter 11 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (04:32 28 November 2025)
 -   📖 Read chapter 48 - 63 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (20:30 27 November 2025)
--   📖 Read chapter 99 - 100 of [I Killed the Main Player](https://anilist.co/manga/173020) (19:16 27 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
