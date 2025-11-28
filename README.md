@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (04:37 28 November 2025)
+-   📖 Read chapter 11 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (04:32 28 November 2025)
 -   📖 Read chapter 48 - 63 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (20:30 27 November 2025)
 -   📖 Read chapter 99 - 100 of [I Killed the Main Player](https://anilist.co/manga/173020) (19:16 27 November 2025)
 -   📖 Read chapter 158 - 159 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (17:34 27 November 2025)
--   📖 Read chapter 106 - 109 of [Killer Gyeongchal](https://anilist.co/manga/165905) (17:25 27 November 2025)
--   📖 Read chapter 52 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (17:14 27 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
