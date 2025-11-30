@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 38 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (05:36 30 November 2025)
 -   📖 Read chapter 60 of [God Bless You](https://anilist.co/manga/181017) (23:35 29 November 2025)
 -   📖 Read chapter 58 - 60 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:33 29 November 2025)
 -   📖 Read chapter 54 - 55 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (23:16 29 November 2025)
 -   📖 Read chapter 168 - 170 of [The World After the Fall](https://anilist.co/manga/144957) (23:53 28 November 2025)
--   📖 Read chapter 102 - 130 of [Am I Actually the Strongest?](https://anilist.co/manga/110769) (23:38 28 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
