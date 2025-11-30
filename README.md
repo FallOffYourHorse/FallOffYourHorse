@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 38 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (05:36 30 November 2025)
--   📖 Read chapter 60 of [God Bless You](https://anilist.co/manga/181017) (23:35 29 November 2025)
--   📖 Read chapter 58 - 60 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:33 29 November 2025)
--   📖 Read chapter 54 - 55 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (23:16 29 November 2025)
--   📖 Read chapter 168 - 170 of [The World After the Fall](https://anilist.co/manga/144957) (23:53 28 November 2025)
+-   📖 Read chapter 94 of [My New Family Is Too Nice to Me](https://anilist.co/manga/175756) (08:55 30 November 2025)
+-   📖 Read chapter 57 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:52 30 November 2025)
+-   📖 Read chapter 95 of [Karina's Last Days](https://anilist.co/manga/142253) (08:25 30 November 2025)
+-   📖 Read chapter 151 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (08:23 30 November 2025)
+-   📖 Read chapter 187 of [The Swordmaster's Son](https://anilist.co/manga/149332) (08:21 30 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
