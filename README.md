@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:10 01 December 2025)
+-   📖 Read chapter 1 - 7 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:07 01 December 2025)
+-   📖 Read chapter 1 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (22:48 01 December 2025)
+-   📖 Plans to read [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (22:40 01 December 2025)
 -   📖 Read chapter 78 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:56 01 December 2025)
--   📖 Read chapter 164 of [How to Use a Returner](https://anilist.co/manga/141007) (17:38 01 December 2025)
--   📖 Read chapter 231 - 233 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (17:34 01 December 2025)
--   📖 Read chapter 86 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (17:26 01 December 2025)
--   📖 Read chapter 145 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:18 01 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
