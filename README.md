@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:54 01 December 2025)
+-   📖 Read chapter 58 of [Synced for Pleasure](https://anilist.co/manga/187194) (07:44 01 December 2025)
+-   📖 Read chapter 116 of [Helmut](https://anilist.co/manga/154782) (07:41 01 December 2025)
 -   📖 Read chapter 141 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:06 30 November 2025)
 -   📖 Read chapter 99 - 100 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (21:02 30 November 2025)
--   📖 Completed [Saving My Sweetheart](https://anilist.co/manga/131772) (20:56 30 November 2025)
--   📖 Read chapter 25 of [Oritsu Majutsu Gakuin no Kichiku Koushi](https://anilist.co/manga/157882) (20:49 30 November 2025)
--   📖 Read chapter 41 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (09:16 30 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
