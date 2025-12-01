@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 129 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (17:01 01 December 2025)
--   📖 Read chapter 35 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (16:58 01 December 2025)
--   📖 Read chapter 183 of [The Banished Court Magician Aims to Become the Strongest](https://anilist.co/manga/139976) (16:49 01 December 2025)
--   📖 Read chapter 103 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:54 01 December 2025)
--   📖 Read chapter 58 of [Synced for Pleasure](https://anilist.co/manga/187194) (07:44 01 December 2025)
+-   📖 Read chapter 78 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:56 01 December 2025)
+-   📖 Read chapter 164 of [How to Use a Returner](https://anilist.co/manga/141007) (17:38 01 December 2025)
+-   📖 Read chapter 231 - 233 of [The Archmage Returns After 4000 Years](https://anilist.co/manga/118424) (17:34 01 December 2025)
+-   📖 Read chapter 86 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (17:26 01 December 2025)
+-   📖 Read chapter 145 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:18 01 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
