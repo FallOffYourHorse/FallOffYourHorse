@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 45 - 54 of [I Was the Final Boss](https://anilist.co/manga/159385) (21:12 02 December 2025)
+-   📖 Read chapter 45 - 69 of [I Was the Final Boss](https://anilist.co/manga/159385) (22:07 02 December 2025)
 -   📖 Read chapter 1 - 31 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (00:50 02 December 2025)
 -   📖 Read chapter 1 - 15 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:34 01 December 2025)
 -   📖 Read chapter 1 - 14 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:29 01 December 2025)
