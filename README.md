@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:10 01 December 2025)
+-   📖 Read chapter 1 - 31 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (00:50 02 December 2025)
+-   📖 Read chapter 1 - 15 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:34 01 December 2025)
+-   📖 Read chapter 1 - 14 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:29 01 December 2025)
+-   📖 Read chapter 1 - 11 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:20 01 December 2025)
 -   📖 Read chapter 1 - 7 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:07 01 December 2025)
--   📖 Read chapter 1 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (22:48 01 December 2025)
--   📖 Plans to read [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (22:40 01 December 2025)
--   📖 Read chapter 78 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:56 01 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
