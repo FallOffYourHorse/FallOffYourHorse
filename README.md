@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 45 - 83 of [I Was the Final Boss](https://anilist.co/manga/159385) (23:22 02 December 2025)
--   📖 Read chapter 1 - 31 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (00:50 02 December 2025)
--   📖 Read chapter 1 - 15 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:34 01 December 2025)
--   📖 Read chapter 1 - 14 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:29 01 December 2025)
--   📖 Read chapter 1 - 11 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:20 01 December 2025)
+-   📖 Read chapter 43 of [My gyaru wife's secrets](https://anilist.co/manga/169734) (06:17 03 December 2025)
+-   📖 Read chapter 147 of [The Infinite Mage](https://anilist.co/manga/159930) (06:13 03 December 2025)
+-   📖 Read chapter 47 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (06:09 03 December 2025)
+-   📖 Read chapter 291 of [Omniscient Reader](https://anilist.co/manga/119257) (06:06 03 December 2025)
+-   📖 Read chapter 14 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (06:03 03 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
