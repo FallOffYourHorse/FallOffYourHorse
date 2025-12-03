@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 43 of [My gyaru wife's secrets](https://anilist.co/manga/169734) (06:17 03 December 2025)
+-   📖 Read chapter 104 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (06:55 03 December 2025)
+-   📖 Read chapter 110 of [Killer Gyeongchal](https://anilist.co/manga/165905) (06:43 03 December 2025)
+-   📖 Read chapter 78 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (06:40 03 December 2025)
+-   📖 Read chapter 43 - 44 of [My gyaru wife's secrets](https://anilist.co/manga/169734) (06:37 03 December 2025)
 -   📖 Read chapter 147 of [The Infinite Mage](https://anilist.co/manga/159930) (06:13 03 December 2025)
--   📖 Read chapter 47 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (06:09 03 December 2025)
--   📖 Read chapter 291 of [Omniscient Reader](https://anilist.co/manga/119257) (06:06 03 December 2025)
--   📖 Read chapter 14 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (06:03 03 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
