@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 - 42 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (22:55 03 December 2025)
+-   📖 Read chapter 33 - 37 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (22:35 03 December 2025)
 -   📖 Read chapter 119 of [Returned by the King](https://anilist.co/manga/170724) (08:10 03 December 2025)
 -   📖 Read chapter 61 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (08:03 03 December 2025)
 -   📖 Read chapter 32 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (07:39 03 December 2025)
--   📖 Read chapter 192 - 193 of [Lady Chef Royale](https://anilist.co/manga/124966) (07:33 03 December 2025)
--   📖 Read chapter 104 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (06:55 03 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
