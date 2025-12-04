@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 178 of [Pick Me Up](https://anilist.co/manga/159441) (03:50 04 December 2025)
 -   📖 Read chapter 64 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (03:39 04 December 2025)
 -   📖 Read chapter 33 - 45 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (00:27 04 December 2025)
 -   📖 Read chapter 33 - 37 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (22:35 03 December 2025)
 -   📖 Read chapter 119 of [Returned by the King](https://anilist.co/manga/170724) (08:10 03 December 2025)
--   📖 Read chapter 61 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (08:03 03 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
