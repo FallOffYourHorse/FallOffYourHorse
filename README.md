@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 46 - 47 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (21:11 05 December 2025)
+-   📖 Read chapter 46 - 49 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (21:26 05 December 2025)
 -   📖 Read chapter 37 - 38 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (20:58 05 December 2025)
 -   📖 Read chapter 7 - 10 of [Bakunyuu-tachi ni Tsuihou Saretaga Modore to Iwaretemo, Mou Oso…Modorimashiyuu!](https://anilist.co/manga/170329) (20:25 05 December 2025)
 -   📖 Read chapter 37 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (20:19 05 December 2025)
