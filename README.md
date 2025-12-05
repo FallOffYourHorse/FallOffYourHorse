@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:11 05 December 2025)
+-   📖 Read chapter 35 - 36 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (06:33 05 December 2025)
+-   📖 Read chapter 12 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (06:25 05 December 2025)
 -   📖 Read chapter 15 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (06:20 05 December 2025)
 -   📖 Read chapter 1 - 4 of [Gwontusa Kalri](https://anilist.co/manga/171709) (06:11 05 December 2025)
--   📖 Read chapter 47 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (06:01 05 December 2025)
--   📖 Plans to read [Gwontusa Kalri](https://anilist.co/manga/171709) (02:37 05 December 2025)
--   📖 Read chapter 52 - 100 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (01:06 05 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
