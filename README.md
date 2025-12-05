@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 52 - 67 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (20:05 04 December 2025)
+-   📖 Read chapter 52 - 96 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (00:57 05 December 2025)
 -   📖 Read chapter 52 - 65 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:55 04 December 2025)
 -   📖 Read chapter 52 - 60 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:39 04 December 2025)
 -   📖 Read chapter 66 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (05:00 04 December 2025)
