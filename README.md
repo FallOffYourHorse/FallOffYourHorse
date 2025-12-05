@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 52 - 96 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (00:57 05 December 2025)
+-   📖 Plans to read [Gwontusa Kalri](https://anilist.co/manga/171709) (02:37 05 December 2025)
+-   📖 Read chapter 52 - 100 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (01:06 05 December 2025)
 -   📖 Read chapter 52 - 65 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:55 04 December 2025)
 -   📖 Read chapter 52 - 60 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:39 04 December 2025)
 -   📖 Read chapter 66 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (05:00 04 December 2025)
--   📖 Read chapter 178 of [Pick Me Up](https://anilist.co/manga/159441) (03:50 04 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
