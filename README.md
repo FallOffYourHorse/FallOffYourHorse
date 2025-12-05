@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (06:20 05 December 2025)
+-   📖 Read chapter 1 - 4 of [Gwontusa Kalri](https://anilist.co/manga/171709) (06:11 05 December 2025)
+-   📖 Read chapter 47 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (06:01 05 December 2025)
 -   📖 Plans to read [Gwontusa Kalri](https://anilist.co/manga/171709) (02:37 05 December 2025)
 -   📖 Read chapter 52 - 100 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (01:06 05 December 2025)
--   📖 Read chapter 52 - 65 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:55 04 December 2025)
--   📖 Read chapter 52 - 60 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:39 04 December 2025)
--   📖 Read chapter 66 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (05:00 04 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
