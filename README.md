@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [You Were Experienced, I Was Not: Our Dating Story](https://anilist.co/manga/144718) (20:13 05 December 2025)
 -   📖 Read chapter 56 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:11 05 December 2025)
 -   📖 Read chapter 35 - 36 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (06:33 05 December 2025)
 -   📖 Read chapter 12 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (06:25 05 December 2025)
 -   📖 Read chapter 15 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (06:20 05 December 2025)
--   📖 Read chapter 1 - 4 of [Gwontusa Kalri](https://anilist.co/manga/171709) (06:11 05 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
