@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 178 - 179 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (18:13 06 December 2025)
 -   📖 Read chapter 160 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (03:46 06 December 2025)
 -   📖 Read chapter 35 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (03:19 06 December 2025)
 -   📖 Read chapter 59 of [Synced for Pleasure](https://anilist.co/manga/187194) (00:57 06 December 2025)
 -   📖 Read chapter 218 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (00:54 06 December 2025)
--   📖 Read chapter 46 - 49 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (21:26 05 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
