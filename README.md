@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (03:19 06 December 2025)
 -   📖 Read chapter 59 of [Synced for Pleasure](https://anilist.co/manga/187194) (00:57 06 December 2025)
 -   📖 Read chapter 218 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (00:54 06 December 2025)
 -   📖 Read chapter 46 - 49 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (21:26 05 December 2025)
 -   📖 Read chapter 37 - 38 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (20:58 05 December 2025)
--   📖 Read chapter 7 - 10 of [Bakunyuu-tachi ni Tsuihou Saretaga Modore to Iwaretemo, Mou Oso…Modorimashiyuu!](https://anilist.co/manga/170329) (20:25 05 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
