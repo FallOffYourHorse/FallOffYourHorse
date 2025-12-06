@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 178 - 184 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (22:08 06 December 2025)
--   📖 Read chapter 160 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (03:46 06 December 2025)
--   📖 Read chapter 35 of [Toki-sensei wa Kigaetai](https://anilist.co/manga/155189) (03:19 06 December 2025)
--   📖 Read chapter 59 of [Synced for Pleasure](https://anilist.co/manga/187194) (00:57 06 December 2025)
--   📖 Read chapter 218 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (00:54 06 December 2025)
+-   📖 Read chapter 64 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (22:54 06 December 2025)
+-   📖 Read chapter 124 - 127 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:52 06 December 2025)
+-   📖 Read chapter 42 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (22:33 06 December 2025)
+-   📖 Read chapter 17 of [Reborn as an Aristocratic Scoundrel, I Broke the Game and Mastered Magic Beyond Limits!](https://anilist.co/manga/182970) (22:30 06 December 2025)
+-   📖 Read chapter 21 of [Urenokori no Dorei Elf wo Hirotta node, Musume ni Suru Koto ni Shita](https://anilist.co/manga/183596) (22:29 06 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
