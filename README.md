@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 96 of [Karina's Last Days](https://anilist.co/manga/142253) (03:48 08 December 2025)
--   📖 Read chapter 32 - 35 of [Studying Sex Culture, For Science!](https://anilist.co/manga/179249) (03:20 08 December 2025)
--   📖 Read chapter 165 of [How to Use a Returner](https://anilist.co/manga/141007) (18:45 07 December 2025)
--   📖 Read chapter 130 - 131 of [Who Made Me a Princess](https://anilist.co/manga/107521) (18:42 07 December 2025)
--   📖 Read chapter 64 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (22:54 06 December 2025)
+-   📖 Read chapter 61 of [God Bless You](https://anilist.co/manga/181017) (04:23 08 December 2025)
+-   📖 Read chapter 101 of [I Killed the Main Player](https://anilist.co/manga/173020) (04:20 08 December 2025)
+-   📖 Read chapter 60 of [Synced for Pleasure](https://anilist.co/manga/187194) (04:10 08 December 2025)
+-   📖 Read chapter 140 - 141 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (04:06 08 December 2025)
+-   📖 Read chapter 117 of [Helmut](https://anilist.co/manga/154782) (03:59 08 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
