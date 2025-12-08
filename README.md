@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 96 of [Karina's Last Days](https://anilist.co/manga/142253) (03:48 08 December 2025)
+-   📖 Read chapter 32 - 35 of [Studying Sex Culture, For Science!](https://anilist.co/manga/179249) (03:20 08 December 2025)
 -   📖 Read chapter 165 of [How to Use a Returner](https://anilist.co/manga/141007) (18:45 07 December 2025)
 -   📖 Read chapter 130 - 131 of [Who Made Me a Princess](https://anilist.co/manga/107521) (18:42 07 December 2025)
 -   📖 Read chapter 64 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (22:54 06 December 2025)
--   📖 Read chapter 124 - 127 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:52 06 December 2025)
--   📖 Read chapter 42 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (22:33 06 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
