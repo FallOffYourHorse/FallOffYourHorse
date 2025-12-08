@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 188 of [The Swordmaster's Son](https://anilist.co/manga/149332) (06:43 08 December 2025)
+-   📖 Read chapter 12 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (06:36 08 December 2025)
 -   📖 Read chapter 104 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (05:51 08 December 2025)
 -   📖 Read chapter 61 of [God Bless You](https://anilist.co/manga/181017) (04:23 08 December 2025)
 -   📖 Read chapter 101 of [I Killed the Main Player](https://anilist.co/manga/173020) (04:20 08 December 2025)
--   📖 Read chapter 60 of [Synced for Pleasure](https://anilist.co/manga/187194) (04:10 08 December 2025)
--   📖 Read chapter 140 - 141 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (04:06 08 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
