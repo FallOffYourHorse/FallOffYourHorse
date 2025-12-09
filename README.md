@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 111 of [Killer Gyeongchal](https://anilist.co/manga/165905) (18:26 09 December 2025)
 -   📖 Read chapter 17 - 31 of [Ore no "Full Auto Buff" de Nakamatachi ga Sekai Saikyou: Soko ni Iru Dake Mujikaku Musou](https://anilist.co/manga/163419) (06:50 09 December 2025)
 -   📖 Read chapter 73 - 75 of [The Eminence in Shadow](https://anilist.co/manga/106758) (23:48 08 December 2025)
 -   📖 Read chapter 25 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (20:44 08 December 2025)
 -   📖 Read chapter 188 of [The Swordmaster's Son](https://anilist.co/manga/149332) (06:43 08 December 2025)
--   📖 Read chapter 12 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (06:36 08 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
