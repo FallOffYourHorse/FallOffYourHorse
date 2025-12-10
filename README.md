@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 84 - 91 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:17 10 December 2025)
+-   📖 Read chapter 84 - 102 of [I Was the Final Boss](https://anilist.co/manga/159385) (07:10 10 December 2025)
+-   📖 Read chapter 84 - 100 of [I Was the Final Boss](https://anilist.co/manga/159385) (07:05 10 December 2025)
 -   📖 Read chapter 84 - 90 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:14 10 December 2025)
 -   📖 Read chapter 79 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (05:43 10 December 2025)
 -   📖 Read chapter 79 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:40 10 December 2025)
--   📖 Read chapter 109 - 110 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (05:38 10 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
