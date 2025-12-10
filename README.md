@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 84 - 118 of [I Was the Final Boss](https://anilist.co/manga/159385) (08:15 10 December 2025)
--   📖 Read chapter 84 - 117 of [I Was the Final Boss](https://anilist.co/manga/159385) (08:10 10 December 2025)
--   📖 Read chapter 84 - 114 of [I Was the Final Boss](https://anilist.co/manga/159385) (07:56 10 December 2025)
--   📖 Read chapter 84 - 100 of [I Was the Final Boss](https://anilist.co/manga/159385) (07:05 10 December 2025)
--   📖 Read chapter 84 - 90 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:14 10 December 2025)
+-   📖 Read chapter 179 of [Pick Me Up](https://anilist.co/manga/159441) (21:10 10 December 2025)
+-   📖 Read chapter 148 of [The Infinite Mage](https://anilist.co/manga/159930) (21:07 10 December 2025)
+-   📖 Read chapter 65 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (21:04 10 December 2025)
+-   📖 Read chapter 10 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (21:00 10 December 2025)
+-   📖 Read chapter 77 of [The Eminence in Shadow](https://anilist.co/manga/106758) (20:58 10 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
