@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 of [The Eminence in Shadow](https://anilist.co/manga/106758) (03:11 10 December 2025)
--   📖 Read chapter 131 of [Am I Actually the Strongest?](https://anilist.co/manga/110769) (00:13 10 December 2025)
--   📖 Read chapter 16 - 20 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (00:10 10 December 2025)
--   📖 Read chapter 105 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (23:54 09 December 2025)
--   📖 Read chapter 111 of [Killer Gyeongchal](https://anilist.co/manga/165905) (18:26 09 December 2025)
+-   📖 Read chapter 84 - 91 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:17 10 December 2025)
+-   📖 Read chapter 84 - 90 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:14 10 December 2025)
+-   📖 Read chapter 79 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (05:43 10 December 2025)
+-   📖 Read chapter 79 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:40 10 December 2025)
+-   📖 Read chapter 109 - 110 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (05:38 10 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
