@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 152 - 161 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (18:17 11 December 2025)
--   📖 Read chapter 62 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (14:56 11 December 2025)
--   📖 Read chapter 179 of [Pick Me Up](https://anilist.co/manga/159441) (21:10 10 December 2025)
--   📖 Read chapter 148 of [The Infinite Mage](https://anilist.co/manga/159930) (21:07 10 December 2025)
--   📖 Read chapter 65 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (21:04 10 December 2025)
+-   📖 Read chapter 152 - 208 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:10 11 December 2025)
+-   📖 Read chapter 152 - 208 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:10 11 December 2025)
+-   📖 Read chapter 152 - 203 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:05 11 December 2025)
+-   📖 Read chapter 152 - 202 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:04 11 December 2025)
+-   📖 Read chapter 152 - 190 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (18:51 11 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
