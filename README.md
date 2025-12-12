@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (03:22 12 December 2025)
 -   📖 Read chapter 93 - 105 of [House Mayton's Youngest](https://anilist.co/manga/156558) (22:01 11 December 2025)
 -   📖 Read chapter 152 - 208 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:10 11 December 2025)
 -   📖 Read chapter 152 - 208 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:10 11 December 2025)
 -   📖 Read chapter 152 - 203 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:05 11 December 2025)
--   📖 Read chapter 152 - 202 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (19:04 11 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
