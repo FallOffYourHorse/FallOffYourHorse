@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (15:44 13 December 2025)
+-   📖 Read chapter 13 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (15:34 13 December 2025)
 -   📖 Read chapter 66 - 70 of [Cougar 101](https://anilist.co/manga/181012) (08:38 13 December 2025)
 -   📖 Read chapter 21 - 25 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (08:30 13 December 2025)
 -   📖 Read chapter 192 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:16 13 December 2025)
--   📖 Read chapter 61 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:14 13 December 2025)
--   📖 Read chapter 67 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (08:11 13 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
