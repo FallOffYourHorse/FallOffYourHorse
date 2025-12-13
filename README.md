@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 66 - 70 of [Cougar 101](https://anilist.co/manga/181012) (08:38 13 December 2025)
+-   📖 Read chapter 21 - 25 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (08:30 13 December 2025)
+-   📖 Read chapter 192 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:16 13 December 2025)
 -   📖 Read chapter 61 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:14 13 December 2025)
 -   📖 Read chapter 67 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (08:11 13 December 2025)
--   📖 Read chapter 24 of [Ane no Tomodachi ](https://anilist.co/manga/174315) (05:54 13 December 2025)
--   📖 Read chapter 43 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (01:31 13 December 2025)
--   📖 Read chapter 16 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:26 13 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
