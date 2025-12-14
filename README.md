@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 161 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (05:05 14 December 2025)
+-   📖 Read chapter 28 - 32 of [Hero-ga Jipchakaneun Akdangi Doeeotda](https://anilist.co/manga/199014) (05:01 14 December 2025)
 -   📖 Read chapter 9 of [Douyara Ore wa Imadoki Gal na Toshiue Osananajimi kara Gekiomo Kanjou wo Mukerareteirurashii](https://anilist.co/manga/184834) (04:18 14 December 2025)
 -   📖 Read chapter 166 of [How to Use a Returner](https://anilist.co/manga/141007) (18:04 13 December 2025)
 -   📖 Read chapter 57 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (15:44 13 December 2025)
--   📖 Read chapter 13 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (15:34 13 December 2025)
--   📖 Read chapter 66 - 70 of [Cougar 101](https://anilist.co/manga/181012) (08:38 13 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
