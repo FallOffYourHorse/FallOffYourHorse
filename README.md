@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 75 - 97 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (04:23 15 December 2025)
--   📖 Read chapter 75 - 97 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (04:23 15 December 2025)
--   📖 Read chapter 104 - 105 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (03:57 15 December 2025)
--   📖 Read chapter 57 of [Maria no Danzai](https://anilist.co/manga/164303) (03:51 15 December 2025)
--   📖 Read chapter 87 - 88 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (03:44 15 December 2025)
+-   📖 Plans to read [Uma Musume: Pretty Derby - Star Blossom](https://anilist.co/manga/148473) (06:04 15 December 2025)
+-   📖 Read chapter 128 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:54 15 December 2025)
+-   📖 Read chapter 102 of [I Killed the Main Player](https://anilist.co/manga/173020) (05:36 15 December 2025)
+-   📖 Read chapter 118 of [Helmut](https://anilist.co/manga/154782) (05:30 15 December 2025)
+-   📖 Read chapter 24 of [Maria: The Deposed Empress](https://anilist.co/manga/186969) (05:27 15 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
