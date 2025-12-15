@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 66 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:11 15 December 2025)
--   📖 Read chapter 1 - 60 of [Boarding School Juliet](https://anilist.co/manga/86279) (21:49 15 December 2025)
--   📖 Read chapter 1 - 46 of [Boarding School Juliet](https://anilist.co/manga/86279) (21:12 15 December 2025)
--   📖 Read chapter 1 - 44 of [Boarding School Juliet](https://anilist.co/manga/86279) (21:08 15 December 2025)
--   📖 Read chapter 1 - 37 of [Boarding School Juliet](https://anilist.co/manga/86279) (20:49 15 December 2025)
+-   📖 Read chapter 1 - 91 of [Boarding School Juliet](https://anilist.co/manga/86279) (23:10 15 December 2025)
+-   📖 Read chapter 1 - 84 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:52 15 December 2025)
+-   📖 Read chapter 1 - 82 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:46 15 December 2025)
+-   📖 Read chapter 1 - 81 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:42 15 December 2025)
+-   📖 Read chapter 1 - 79 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:37 15 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
