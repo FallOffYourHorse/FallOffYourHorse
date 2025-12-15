@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 189 of [The Swordmaster's Son](https://anilist.co/manga/149332) (02:25 15 December 2025)
+-   📖 Read chapter 97 of [Karina's Last Days](https://anilist.co/manga/142253) (02:18 15 December 2025)
 -   📖 Read chapter 75 - 89 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (23:00 14 December 2025)
 -   📖 Read chapter 39 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (15:43 14 December 2025)
 -   📖 Read chapter 37 - 38 of [Gwihwanmagyogwan](https://anilist.co/manga/195513) (15:33 14 December 2025)
--   📖 Read chapter 65 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (15:28 14 December 2025)
--   📖 Read chapter 161 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (05:05 14 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
