@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Boarding School Juliet](https://anilist.co/manga/86279) (15:02 15 December 2025)
+-   📖 Plans to read [Boarding School Juliet](https://anilist.co/manga/86279) (14:26 15 December 2025)
 -   📖 Read chapter 10 of [Zense wa Reikoku Koutei, Konse wa Youjo](https://anilist.co/manga/188501) (06:32 15 December 2025)
 -   📖 Plans to read [Uma Musume: Pretty Derby - Star Blossom](https://anilist.co/manga/148473) (06:04 15 December 2025)
 -   📖 Read chapter 128 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:54 15 December 2025)
--   📖 Read chapter 102 of [I Killed the Main Player](https://anilist.co/manga/173020) (05:36 15 December 2025)
--   📖 Read chapter 118 of [Helmut](https://anilist.co/manga/154782) (05:30 15 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
