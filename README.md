@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/manga/127008) (18:16 16 December 2025)
 -   📖 Completed [Boarding School Juliet](https://anilist.co/manga/86279) (00:40 16 December 2025)
 -   📖 Read chapter 105 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:39 16 December 2025)
 -   📖 Read chapter 1 - 119 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:27 16 December 2025)
 -   📖 Read chapter 1 - 117 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:20 16 December 2025)
--   📖 Read chapter 1 - 109 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:01 16 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
