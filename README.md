@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 91 of [Boarding School Juliet](https://anilist.co/manga/86279) (23:10 15 December 2025)
--   📖 Read chapter 1 - 84 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:52 15 December 2025)
--   📖 Read chapter 1 - 82 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:46 15 December 2025)
--   📖 Read chapter 1 - 81 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:42 15 December 2025)
--   📖 Read chapter 1 - 79 of [Boarding School Juliet](https://anilist.co/manga/86279) (22:37 15 December 2025)
+-   📖 Completed [Boarding School Juliet](https://anilist.co/manga/86279) (00:40 16 December 2025)
+-   📖 Read chapter 105 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:39 16 December 2025)
+-   📖 Read chapter 1 - 119 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:27 16 December 2025)
+-   📖 Read chapter 1 - 117 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:20 16 December 2025)
+-   📖 Read chapter 1 - 109 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:01 16 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
