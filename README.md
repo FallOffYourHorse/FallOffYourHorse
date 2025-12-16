@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 17 of [7th](https://anilist.co/manga/189167) (20:21 16 December 2025)
--   📖 Plans to read [7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!](https://anilist.co/manga/127008) (18:16 16 December 2025)
--   📖 Completed [Boarding School Juliet](https://anilist.co/manga/86279) (00:40 16 December 2025)
--   📖 Read chapter 105 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:39 16 December 2025)
--   📖 Read chapter 1 - 119 of [Boarding School Juliet](https://anilist.co/manga/86279) (00:27 16 December 2025)
+-   📖 Read chapter 80 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (21:55 16 December 2025)
+-   📖 Read chapter 111 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (21:48 16 December 2025)
+-   📖 Read chapter 39 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (21:44 16 December 2025)
+-   📖 Read chapter 106 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (21:37 16 December 2025)
+-   📖 Read chapter 142 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (21:34 16 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
