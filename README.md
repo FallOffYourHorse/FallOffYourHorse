@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (21:46 17 December 2025)
 -   📖 Read chapter 36 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (09:05 17 December 2025)
 -   📖 Read chapter 126 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:59 17 December 2025)
 -   📖 Read chapter 119 of [I Was the Final Boss](https://anilist.co/manga/159385) (08:58 17 December 2025)
 -   📖 Read chapter 146 - 147 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:03 17 December 2025)
--   📖 Read chapter 80 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (04:31 17 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
