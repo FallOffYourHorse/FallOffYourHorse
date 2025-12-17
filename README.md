@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 146 - 147 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:03 17 December 2025)
+-   📖 Read chapter 80 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (04:31 17 December 2025)
 -   📖 Read chapter 149 of [The Infinite Mage](https://anilist.co/manga/159930) (02:41 17 December 2025)
 -   📖 Read chapter 80 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (21:55 16 December 2025)
 -   📖 Read chapter 111 of [I'm Not That Kind of Talent](https://anilist.co/manga/158448) (21:48 16 December 2025)
--   📖 Read chapter 39 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (21:44 16 December 2025)
--   📖 Read chapter 106 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (21:37 16 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
