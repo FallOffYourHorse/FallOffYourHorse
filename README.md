@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 61 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (02:53 18 December 2025)
--   📖 Read chapter 49 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (21:46 17 December 2025)
--   📖 Read chapter 36 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (09:05 17 December 2025)
--   📖 Read chapter 126 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:59 17 December 2025)
--   📖 Read chapter 119 of [I Was the Final Boss](https://anilist.co/manga/159385) (08:58 17 December 2025)
+-   📖 Read chapter 1 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:14 18 December 2025)
+-   📖 Plans to read [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:10 18 December 2025)
+-   📖 Read chapter 75 of [I'm a "Behemoth," an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://anilist.co/manga/103034) (07:05 18 December 2025)
+-   📖 Read chapter 180 of [Pick Me Up](https://anilist.co/manga/159441) (07:04 18 December 2025)
+-   📖 Read chapter 209 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (06:57 18 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
