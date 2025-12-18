@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 - 105 of [The Perfect Hybrid](https://anilist.co/manga/153869) (18:18 18 December 2025)
 -   📖 Read chapter 1 - 21 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (14:48 18 December 2025)
 -   📖 Plans to read [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:10 18 December 2025)
 -   📖 Read chapter 75 of [I'm a "Behemoth," an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://anilist.co/manga/103034) (07:05 18 December 2025)
 -   📖 Read chapter 180 of [Pick Me Up](https://anilist.co/manga/159441) (07:04 18 December 2025)
--   📖 Read chapter 209 of [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (06:57 18 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
