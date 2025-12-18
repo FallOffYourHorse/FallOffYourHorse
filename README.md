@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 103 - 114 of [The Perfect Hybrid](https://anilist.co/manga/153869) (19:09 18 December 2025)
+-   📖 Read chapter 103 - 133 of [The Perfect Hybrid](https://anilist.co/manga/153869) (20:12 18 December 2025)
 -   📖 Read chapter 1 - 21 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (14:48 18 December 2025)
 -   📖 Plans to read [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:10 18 December 2025)
 -   📖 Read chapter 75 of [I'm a "Behemoth," an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://anilist.co/manga/103034) (07:05 18 December 2025)
