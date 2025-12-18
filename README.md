@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 103 - 133 of [The Perfect Hybrid](https://anilist.co/manga/153869) (20:12 18 December 2025)
+-   📖 Read chapter 17 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (20:58 18 December 2025)
+-   📖 Read chapter 162 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:52 18 December 2025)
+-   📖 Read chapter 103 of [I Killed the Main Player](https://anilist.co/manga/173020) (20:42 18 December 2025)
+-   📖 Read chapter 103 - 143 of [The Perfect Hybrid](https://anilist.co/manga/153869) (20:37 18 December 2025)
 -   📖 Read chapter 1 - 21 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (14:48 18 December 2025)
--   📖 Plans to read [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:10 18 December 2025)
--   📖 Read chapter 75 of [I'm a "Behemoth," an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://anilist.co/manga/103034) (07:05 18 December 2025)
--   📖 Read chapter 180 of [Pick Me Up](https://anilist.co/manga/159441) (07:04 18 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
