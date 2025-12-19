@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 105 of [Marriage Toxin](https://anilist.co/manga/147329) (06:18 19 December 2025)
+-   📖 Read chapter 1 - 129 of [Marriage Toxin](https://anilist.co/manga/147329) (07:15 19 December 2025)
 -   📖 Plans to read [Marriage Toxin](https://anilist.co/manga/147329) (23:29 18 December 2025)
 -   📖 Read chapter 17 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (20:58 18 December 2025)
 -   📖 Read chapter 162 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:52 18 December 2025)
