@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Marriage Toxin](https://anilist.co/manga/147329) (23:37 18 December 2025)
+-   📖 Plans to read [Marriage Toxin](https://anilist.co/manga/147329) (23:29 18 December 2025)
 -   📖 Read chapter 17 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (20:58 18 December 2025)
 -   📖 Read chapter 162 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:52 18 December 2025)
 -   📖 Read chapter 103 of [I Killed the Main Player](https://anilist.co/manga/173020) (20:42 18 December 2025)
--   📖 Read chapter 103 - 143 of [The Perfect Hybrid](https://anilist.co/manga/153869) (20:37 18 December 2025)
--   📖 Read chapter 1 - 21 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (14:48 18 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
