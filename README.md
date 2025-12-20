@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (01:37 20 December 2025)
+-   📖 Read chapter 14 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (01:25 20 December 2025)
 -   📖 Read chapter 17 of [Harem Ou no Isekai Press Manyuuki: Saikyou Musou no Oji-san wa Arayuru Shuzoku wo Yome ni Suru](https://anilist.co/manga/178992) (21:43 19 December 2025)
 -   📖 Read chapter 1 - 150 of [Marriage Toxin](https://anilist.co/manga/147329) (07:47 19 December 2025)
 -   📖 Plans to read [Marriage Toxin](https://anilist.co/manga/147329) (23:29 18 December 2025)
--   📖 Read chapter 17 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (20:58 18 December 2025)
--   📖 Read chapter 162 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:52 18 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
