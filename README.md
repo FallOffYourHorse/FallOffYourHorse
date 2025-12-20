@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 15 of [Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://anilist.co/manga/137513) (19:07 20 December 2025)
 -   📖 Read chapter 12 of [Dore dake Doryoku Shite mo Mannen Level 0 no Ore wa Tsuihou Sareta: Shin no Teki to Yobareta Shounen wa, Shachiku Megami to Deatte Saikyou no Chikara wo Te ni Ireru](https://anilist.co/manga/161496) (10:42 20 December 2025)
 -   📖 Read chapter 63 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (01:37 20 December 2025)
 -   📖 Read chapter 14 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (01:25 20 December 2025)
 -   📖 Read chapter 17 of [Harem Ou no Isekai Press Manyuuki: Saikyou Musou no Oji-san wa Arayuru Shuzoku wo Yome ni Suru](https://anilist.co/manga/178992) (21:43 19 December 2025)
--   📖 Read chapter 1 - 150 of [Marriage Toxin](https://anilist.co/manga/147329) (07:47 19 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
