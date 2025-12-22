@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (20:12 22 December 2025)
+-   📖 Read chapter 106 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (20:09 22 December 2025)
+-   📖 Read chapter 129 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (20:06 22 December 2025)
 -   📖 Read chapter 66 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (05:55 22 December 2025)
 -   📖 Read chapter 220 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (07:16 21 December 2025)
--   📖 Read chapter 58 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:10 21 December 2025)
--   📖 Read chapter 11 of [Haimiya Senpai wa Kowakute Kawaii](https://anilist.co/manga/201773) (07:05 21 December 2025)
--   📖 Read chapter 5 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyou Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (06:59 21 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
