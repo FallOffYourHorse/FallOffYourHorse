@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (06:55 24 December 2025)
+-   📖 Read chapter 81 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (06:37 24 December 2025)
 -   📖 Read chapter 167 of [How to Use a Returner](https://anilist.co/manga/141007) (20:50 23 December 2025)
 -   📖 Read chapter 45 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (20:35 23 December 2025)
 -   📖 Read chapter 66 - 67 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (20:31 23 December 2025)
--   📖 Read chapter 107 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (20:20 23 December 2025)
--   📖 Read chapter 143 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (20:16 23 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
