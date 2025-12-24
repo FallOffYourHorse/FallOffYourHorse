@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (08:02 24 December 2025)
 -   📖 Read chapter 40 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (06:55 24 December 2025)
 -   📖 Read chapter 81 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (06:37 24 December 2025)
 -   📖 Read chapter 167 of [How to Use a Returner](https://anilist.co/manga/141007) (20:50 23 December 2025)
 -   📖 Read chapter 45 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (20:35 23 December 2025)
--   📖 Read chapter 66 - 67 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (20:31 23 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
