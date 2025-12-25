@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 148 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:30 25 December 2025)
 -   📖 Read chapter 97 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (18:37 24 December 2025)
 -   📖 Read chapter 40 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (08:02 24 December 2025)
 -   📖 Read chapter 40 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (06:55 24 December 2025)
 -   📖 Read chapter 81 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (06:37 24 December 2025)
--   📖 Read chapter 167 of [How to Use a Returner](https://anilist.co/manga/141007) (20:50 23 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
