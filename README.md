@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 122 of [Returned by the King](https://anilist.co/manga/170724) (21:21 27 December 2025)
+-   📖 Read chapter 130 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:19 27 December 2025)
+-   📖 Read chapter 67 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (21:15 27 December 2025)
 -   📖 Read chapter 109 of [I Think I Turned My Childhood Friend Into a Girl](https://anilist.co/manga/114898) (22:37 26 December 2025)
 -   📖 Read chapter 221 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (22:34 26 December 2025)
--   📖 Read chapter 150 of [The Infinite Mage](https://anilist.co/manga/159930) (23:12 25 December 2025)
--   📖 Read chapter 26 of [Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru: Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru](https://anilist.co/manga/186330) (23:09 25 December 2025)
--   📖 Completed [Uma Musume: Cinderella Gray](https://anilist.co/manga/119247) (23:06 25 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
