@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 181 of [Pick Me Up](https://anilist.co/manga/159441) (20:13 02 January 2026)
+-   📖 Read chapter 81 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (20:11 02 January 2026)
 -   📖 Read chapter 149 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:19 29 December 2025)
 -   📖 Completed [Mii-chan Wants to Be Kept](https://anilist.co/manga/162901) (06:14 29 December 2025)
 -   📖 Read chapter 122 of [Returned by the King](https://anilist.co/manga/170724) (21:21 27 December 2025)
--   📖 Read chapter 130 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:19 27 December 2025)
--   📖 Read chapter 67 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (21:15 27 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
