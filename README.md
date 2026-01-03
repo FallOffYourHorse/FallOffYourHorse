@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 294 - 295 of [Omniscient Reader](https://anilist.co/manga/119257) (12:22 03 January 2026)
+-   📖 Read chapter 6 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyou Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (12:17 03 January 2026)
+-   📖 Read chapter 28 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (12:12 03 January 2026)
 -   📖 Read chapter 22 - 23 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:56 03 January 2026)
 -   📖 Read chapter 4 - 6 of [Hochiya-san wa Amariaru](https://anilist.co/manga/204103) (03:51 03 January 2026)
--   📖 Read chapter 181 - 182 of [Pick Me Up](https://anilist.co/manga/159441) (20:17 02 January 2026)
--   📖 Read chapter 81 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (20:11 02 January 2026)
--   📖 Read chapter 149 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:19 29 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
