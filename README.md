@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 18 of [Harem Ou no Isekai Press Manyuuki: Saikyou Musou no Oji-san wa Arayuru Shuzoku wo Yome ni Suru](https://anilist.co/manga/178992) (03:47 05 January 2026)
--   📖 Read chapter 112 - 113 of [Killer Gyeongchal](https://anilist.co/manga/165905) (03:44 05 January 2026)
--   📖 Read chapter 98 of [Karina's Last Days](https://anilist.co/manga/142253) (03:34 05 January 2026)
--   📖 Read chapter 45 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (03:30 05 January 2026)
--   📖 Read chapter 15 - 16 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (03:24 05 January 2026)
+-   📖 Reread chapter 78 - 103 of [Sextopwatch](https://anilist.co/manga/152411) (07:20 05 January 2026)
+-   📖 Reread chapter 78 - 102 of [Sextopwatch](https://anilist.co/manga/152411) (07:17 05 January 2026)
+-   📖 Read chapter 77 of [Sextopwatch](https://anilist.co/manga/152411) (06:18 05 January 2026)
+-   📖 Completed [Sextopwatch](https://anilist.co/manga/152411) (06:18 05 January 2026)
+-   📖 Read chapter 45 - 47 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (04:06 05 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
