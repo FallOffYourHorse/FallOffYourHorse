@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Reread chapter 78 - 103 of [Sextopwatch](https://anilist.co/manga/152411) (07:20 05 January 2026)
--   📖 Reread chapter 78 - 102 of [Sextopwatch](https://anilist.co/manga/152411) (07:17 05 January 2026)
--   📖 Read chapter 77 of [Sextopwatch](https://anilist.co/manga/152411) (06:18 05 January 2026)
--   📖 Completed [Sextopwatch](https://anilist.co/manga/152411) (06:18 05 January 2026)
--   📖 Read chapter 45 - 47 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (04:06 05 January 2026)
+-   📖 Read chapter 68 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (11:11 05 January 2026)
+-   📖 Read chapter 90 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (11:03 05 January 2026)
+-   📖 Read chapter 107 - 108 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:00 05 January 2026)
+-   📖 Read chapter 222 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (10:53 05 January 2026)
+-   📖 Completed [Don't Tell Mom!](https://anilist.co/manga/138039) (10:49 05 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
