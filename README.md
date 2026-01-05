@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 131 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:12 05 January 2026)
 -   📖 Read chapter 68 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (11:11 05 January 2026)
 -   📖 Read chapter 90 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (11:03 05 January 2026)
 -   📖 Read chapter 107 - 108 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:00 05 January 2026)
 -   📖 Read chapter 222 of [The Greatest Estate Developer](https://anilist.co/manga/140407) (10:53 05 January 2026)
--   📖 Completed [Don't Tell Mom!](https://anilist.co/manga/138039) (10:49 05 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
