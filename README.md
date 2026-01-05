@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 294 - 295 of [Omniscient Reader](https://anilist.co/manga/119257) (12:22 03 January 2026)
--   📖 Read chapter 6 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyou Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (12:17 03 January 2026)
--   📖 Read chapter 28 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (12:12 03 January 2026)
--   📖 Read chapter 22 - 23 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:56 03 January 2026)
--   📖 Read chapter 4 - 6 of [Hochiya-san wa Amariaru](https://anilist.co/manga/204103) (03:51 03 January 2026)
+-   📖 Read chapter 18 of [Harem Ou no Isekai Press Manyuuki: Saikyou Musou no Oji-san wa Arayuru Shuzoku wo Yome ni Suru](https://anilist.co/manga/178992) (03:47 05 January 2026)
+-   📖 Read chapter 112 - 113 of [Killer Gyeongchal](https://anilist.co/manga/165905) (03:44 05 January 2026)
+-   📖 Read chapter 98 of [Karina's Last Days](https://anilist.co/manga/142253) (03:34 05 January 2026)
+-   📖 Read chapter 45 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (03:30 05 January 2026)
+-   📖 Read chapter 15 - 16 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (03:24 05 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
