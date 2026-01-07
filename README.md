@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 - 32 of [Mom, I'm Sorry](https://anilist.co/manga/111140) (11:12 07 January 2026)
+-   📖 Read chapter 7 - 9 of [Mom, I'm Sorry](https://anilist.co/manga/111140) (10:08 07 January 2026)
+-   📖 Plans to read [Mom, I'm Sorry](https://anilist.co/manga/111140) (09:41 07 January 2026)
 -   📖 Read chapter 191 - 192 of [The Swordmaster's Son](https://anilist.co/manga/149332) (08:52 07 January 2026)
 -   📖 Read chapter 43 of [Imaizumi Brings All the Gals to His House](https://anilist.co/manga/143028) (08:44 07 January 2026)
--   📖 Read chapter 91 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:34 07 January 2026)
--   📖 Read chapter 13 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (08:31 07 January 2026)
--   📖 Read chapter 48 - 50 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (08:28 07 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
