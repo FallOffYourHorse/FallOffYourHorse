@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Mahouka Koukou no Rettousei: Shizoku Kaigi-hen](https://anilist.co/manga/126066) (03:50 06 January 2026)
--   📖 Read chapter 53 of [Mahouka Koukou no Rettousei: Shizoku Kaigi-hen](https://anilist.co/manga/126066) (03:50 06 January 2026)
--   📖 Read chapter 131 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:12 05 January 2026)
--   📖 Read chapter 68 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (11:11 05 January 2026)
--   📖 Read chapter 90 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (11:03 05 January 2026)
+-   📖 Read chapter 191 - 192 of [The Swordmaster's Son](https://anilist.co/manga/149332) (08:52 07 January 2026)
+-   📖 Read chapter 43 of [Imaizumi Brings All the Gals to His House](https://anilist.co/manga/143028) (08:44 07 January 2026)
+-   📖 Read chapter 91 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:34 07 January 2026)
+-   📖 Read chapter 13 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (08:31 07 January 2026)
+-   📖 Read chapter 48 - 50 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (08:28 07 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
