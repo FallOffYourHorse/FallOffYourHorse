@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (20:13 08 January 2026)
+-   📖 Read chapter 3 - 23 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (21:12 08 January 2026)
+-   📖 Read chapter 3 - 12 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (20:34 08 January 2026)
+-   📖 Read chapter 3 - 9 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (20:27 08 January 2026)
 -   📖 Read chapter 105 - 106 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (20:05 08 January 2026)
 -   📖 Completed [Sarah, I'm Sorry: Welcome to Our Galaxy](https://anilist.co/manga/144620) (14:30 07 January 2026)
--   📖 Read chapter 1 - 7 of [Sarah, I'm Sorry: Welcome to Our Galaxy](https://anilist.co/manga/144620) (14:28 07 January 2026)
--   📖 Read chapter 1 - 5 of [Sarah, I'm Sorry: Welcome to Our Galaxy](https://anilist.co/manga/144620) (14:24 07 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
