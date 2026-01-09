@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 69 - 71 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (13:18 09 January 2026)
--   📖 Read chapter 144 - 145 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (13:07 09 January 2026)
--   📖 Completed [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (12:57 09 January 2026)
--   📖 Read chapter 48 of [Hero Without a Class: Who Even Needs Skills?!](https://anilist.co/manga/105279) (12:52 09 January 2026)
--   📖 Read chapter 3 - 32 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (21:51 08 January 2026)
+-   📖 Read chapter 97 - 142 of [Chained Soldier](https://anilist.co/manga/106064) (22:12 09 January 2026)
+-   📖 Read chapter 97 - 140 of [Chained Soldier](https://anilist.co/manga/106064) (22:02 09 January 2026)
+-   📖 Read chapter 97 - 138 of [Chained Soldier](https://anilist.co/manga/106064) (21:51 09 January 2026)
+-   📖 Read chapter 97 - 134 of [Chained Soldier](https://anilist.co/manga/106064) (21:43 09 January 2026)
+-   📖 Read chapter 97 - 132 of [Chained Soldier](https://anilist.co/manga/106064) (21:40 09 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
