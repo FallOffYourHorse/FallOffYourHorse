@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 23 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (21:12 08 January 2026)
+-   📖 Read chapter 3 - 32 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (21:51 08 January 2026)
 -   📖 Read chapter 3 - 12 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (20:34 08 January 2026)
 -   📖 Read chapter 3 - 9 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (20:27 08 January 2026)
 -   📖 Read chapter 105 - 106 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (20:05 08 January 2026)
