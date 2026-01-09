@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 - 71 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (13:18 09 January 2026)
+-   📖 Read chapter 144 - 145 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (13:07 09 January 2026)
+-   📖 Completed [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (12:57 09 January 2026)
+-   📖 Read chapter 48 of [Hero Without a Class: Who Even Needs Skills?!](https://anilist.co/manga/105279) (12:52 09 January 2026)
 -   📖 Read chapter 3 - 32 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (21:51 08 January 2026)
--   📖 Read chapter 3 - 12 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (20:34 08 January 2026)
--   📖 Read chapter 3 - 9 of [Jukji Anneun Extra](https://anilist.co/manga/155490) (20:27 08 January 2026)
--   📖 Read chapter 105 - 106 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (20:05 08 January 2026)
--   📖 Completed [Sarah, I'm Sorry: Welcome to Our Galaxy](https://anilist.co/manga/144620) (14:30 07 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
