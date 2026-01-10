@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 - 142 of [Chained Soldier](https://anilist.co/manga/106064) (22:12 09 January 2026)
--   📖 Read chapter 97 - 140 of [Chained Soldier](https://anilist.co/manga/106064) (22:02 09 January 2026)
--   📖 Read chapter 97 - 138 of [Chained Soldier](https://anilist.co/manga/106064) (21:51 09 January 2026)
--   📖 Read chapter 97 - 134 of [Chained Soldier](https://anilist.co/manga/106064) (21:43 09 January 2026)
--   📖 Read chapter 97 - 132 of [Chained Soldier](https://anilist.co/manga/106064) (21:40 09 January 2026)
+-   📖 Read chapter 97 - 171 of [Chained Soldier](https://anilist.co/manga/106064) (23:04 09 January 2026)
+-   📖 Read chapter 97 - 168 of [Chained Soldier](https://anilist.co/manga/106064) (23:01 09 January 2026)
+-   📖 Read chapter 97 - 162 of [Chained Soldier](https://anilist.co/manga/106064) (22:50 09 January 2026)
+-   📖 Read chapter 97 - 152 of [Chained Soldier](https://anilist.co/manga/106064) (22:35 09 January 2026)
+-   📖 Read chapter 97 - 147 of [Chained Soldier](https://anilist.co/manga/106064) (22:20 09 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
