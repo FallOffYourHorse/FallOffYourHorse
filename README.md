@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 of [Synced for Pleasure](https://anilist.co/manga/187194) (01:04 12 January 2026)
+-   📖 Read chapter 64 - 66 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (01:36 12 January 2026)
+-   📖 Read chapter 19 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (01:26 12 January 2026)
+-   📖 Read chapter 63 - 66 of [Synced for Pleasure](https://anilist.co/manga/187194) (01:21 12 January 2026)
 -   📖 Read chapter 151 of [Marriage Toxin](https://anilist.co/manga/147329) (23:21 11 January 2026)
 -   📖 Read chapter 14 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (08:45 11 January 2026)
--   📖 Read chapter 97 - 171 of [Chained Soldier](https://anilist.co/manga/106064) (23:04 09 January 2026)
--   📖 Read chapter 97 - 168 of [Chained Soldier](https://anilist.co/manga/106064) (23:01 09 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
