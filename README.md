@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 of [Suna Mahou de Suna no Oukoku wo Tsukurou: Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka wo Tatete Mita](https://anilist.co/manga/180754) (06:42 12 January 2026)
+-   📖 Read chapter 6 - 7 of [Yamiochi Last Boss Reijou no Osananajimi ni Tensei shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi [Yandere-ka] shitemasen ka?](https://anilist.co/manga/200366) (06:42 12 January 2026)
 -   📖 Read chapter 64 - 66 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (01:36 12 January 2026)
 -   📖 Read chapter 19 of [Don't XX Ms. Tsukimine](https://anilist.co/manga/177158) (01:26 12 January 2026)
 -   📖 Read chapter 63 - 66 of [Synced for Pleasure](https://anilist.co/manga/187194) (01:21 12 January 2026)
--   📖 Read chapter 151 of [Marriage Toxin](https://anilist.co/manga/147329) (23:21 11 January 2026)
--   📖 Read chapter 14 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (08:45 11 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
