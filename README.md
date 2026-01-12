@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (11:11 12 January 2026)
+-   📖 Read chapter 150 - 151 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (10:54 12 January 2026)
+-   📖 Read chapter 34 of [Common Sense Modifier](https://anilist.co/manga/187766) (10:31 12 January 2026)
+-   📖 Read chapter 33 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (10:26 12 January 2026)
 -   📖 Read chapter 67 - 68 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (10:02 12 January 2026)
--   📖 Read chapter 132 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:46 12 January 2026)
--   📖 Read chapter 92 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (09:43 12 January 2026)
--   📖 Read chapter 11 of [Suna Mahou de Suna no Oukoku wo Tsukurou: Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka wo Tatete Mita](https://anilist.co/manga/180754) (06:42 12 January 2026)
--   📖 Read chapter 6 - 7 of [Yamiochi Last Boss Reijou no Osananajimi ni Tensei shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi [Yandere-ka] shitemasen ka?](https://anilist.co/manga/200366) (06:42 12 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
