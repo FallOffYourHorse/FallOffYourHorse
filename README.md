@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [Zennin Ossan, Umarekawattara SSS Rank Jinsei ga Kakutei Shita](https://anilist.co/manga/117733) (11:21 12 January 2026)
+-   📖 Read chapter 109 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:17 12 January 2026)
 -   📖 Read chapter 51 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (11:11 12 January 2026)
 -   📖 Read chapter 150 - 151 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (10:54 12 January 2026)
 -   📖 Read chapter 34 of [Common Sense Modifier](https://anilist.co/manga/187766) (10:31 12 January 2026)
--   📖 Read chapter 33 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (10:26 12 January 2026)
--   📖 Read chapter 67 - 68 of [Please Put Them On, Takamine-san](https://anilist.co/manga/107559) (10:02 12 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
