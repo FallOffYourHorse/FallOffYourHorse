@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 89 - 91 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:17 13 January 2026)
+-   📖 Read chapter 89 - 96 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:30 13 January 2026)
 -   📖 Read chapter 105 - 110 of [Killer Peter](https://anilist.co/manga/170688) (07:10 13 January 2026)
 -   📖 Read chapter 104 - 106 of [I Killed the Main Player](https://anilist.co/manga/173020) (06:40 13 January 2026)
 -   📖 Read chapter 8 of [Zennin Ossan, Umarekawattara SSS Rank Jinsei ga Kakutei Shita](https://anilist.co/manga/117733) (11:21 12 January 2026)
