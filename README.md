@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 68 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (02:23 14 January 2026)
+-   📖 Read chapter 183 of [Pick Me Up](https://anilist.co/manga/159441) (02:18 14 January 2026)
+-   📖 Read chapter 124 of [Returned by the King](https://anilist.co/manga/170724) (02:15 14 January 2026)
 -   📖 Read chapter 89 - 96 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:30 13 January 2026)
 -   📖 Read chapter 105 - 110 of [Killer Peter](https://anilist.co/manga/170688) (07:10 13 January 2026)
--   📖 Read chapter 104 - 106 of [I Killed the Main Player](https://anilist.co/manga/173020) (06:40 13 January 2026)
--   📖 Read chapter 8 of [Zennin Ossan, Umarekawattara SSS Rank Jinsei ga Kakutei Shita](https://anilist.co/manga/117733) (11:21 12 January 2026)
--   📖 Read chapter 109 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:17 12 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
