@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 146 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (09:07 16 January 2026)
+-   📖 Read chapter 119 - 120 of [Helmut](https://anilist.co/manga/154782) (09:02 16 January 2026)
+-   📖 Read chapter 41 - 42 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (08:54 16 January 2026)
+-   📖 Read chapter 127 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:43 16 January 2026)
 -   📖 Read chapter 78 of [The Eminence in Shadow](https://anilist.co/manga/106758) (01:07 16 January 2026)
--   📖 Read chapter 107 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (01:02 16 January 2026)
--   📖 Read chapter 68 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (02:23 14 January 2026)
--   📖 Read chapter 183 of [Pick Me Up](https://anilist.co/manga/159441) (02:18 14 January 2026)
--   📖 Read chapter 124 of [Returned by the King](https://anilist.co/manga/170724) (02:15 14 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
