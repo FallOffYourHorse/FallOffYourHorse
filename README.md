@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (01:02 16 January 2026)
 -   📖 Read chapter 68 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (02:23 14 January 2026)
 -   📖 Read chapter 183 of [Pick Me Up](https://anilist.co/manga/159441) (02:18 14 January 2026)
 -   📖 Read chapter 124 of [Returned by the King](https://anilist.co/manga/170724) (02:15 14 January 2026)
 -   📖 Read chapter 89 - 96 of [I AM THE VILLAIN](https://anilist.co/manga/145498) (09:30 13 January 2026)
--   📖 Read chapter 105 - 110 of [Killer Peter](https://anilist.co/manga/170688) (07:10 13 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
