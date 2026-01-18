@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 - 55 of [Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://anilist.co/manga/137513) (00:42 18 January 2026)
+-   📖 Read chapter 49 - 55 of [Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://anilist.co/manga/137513) (00:42 18 January 2026)
+-   📖 Read chapter 111 - 112 of [Killer Peter](https://anilist.co/manga/170688) (00:14 18 January 2026)
 -   📖 Read chapter 184 of [Pick Me Up](https://anilist.co/manga/159441) (11:07 17 January 2026)
 -   📖 Read chapter 146 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (09:07 16 January 2026)
--   📖 Read chapter 119 - 120 of [Helmut](https://anilist.co/manga/154782) (09:02 16 January 2026)
--   📖 Read chapter 41 - 42 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (08:54 16 January 2026)
--   📖 Read chapter 127 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:43 16 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
