@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 70 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (08:26 20 January 2026)
+-   📖 Read chapter 93 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:22 20 January 2026)
 -   📖 Read chapter 83 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (08:19 20 January 2026)
 -   📖 Read chapter 41 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (08:13 20 January 2026)
 -   📖 Read chapter 69 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (08:31 18 January 2026)
--   📖 Read chapter 49 - 55 of [Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://anilist.co/manga/137513) (00:42 18 January 2026)
--   📖 Read chapter 49 - 55 of [Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://anilist.co/manga/137513) (00:42 18 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
