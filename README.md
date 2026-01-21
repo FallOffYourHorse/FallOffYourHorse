@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 104 - 109 of [A Flame Reborn](https://anilist.co/manga/173233) (01:02 21 January 2026)
+-   📖 Read chapter 104 - 117 of [A Flame Reborn](https://anilist.co/manga/173233) (01:34 21 January 2026)
 -   📖 Read chapter 296 - 298 of [Omniscient Reader](https://anilist.co/manga/119257) (00:43 21 January 2026)
 -   📖 Read chapter 70 of [Holy Hella's Ultimate End](https://anilist.co/manga/187601) (08:26 20 January 2026)
 -   📖 Read chapter 93 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:22 20 January 2026)
