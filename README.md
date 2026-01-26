@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 142 - 143 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (15:04 26 January 2026)
 -   📖 Read chapter 84 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (16:59 21 January 2026)
 -   📖 Read chapter 108 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (16:55 21 January 2026)
 -   📖 Read chapter 42 - 43 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (16:40 21 January 2026)
 -   📖 Read chapter 152 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (16:33 21 January 2026)
--   📖 Read chapter 48 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (16:30 21 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
