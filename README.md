@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 66 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (04:38 27 January 2026)
--   📖 Read chapter 108 - 110 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (04:34 27 January 2026)
--   📖 Read chapter 83 - 88 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (02:56 27 January 2026)
--   📖 Read chapter 142 - 147 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:24 26 January 2026)
--   📖 Read chapter 84 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (16:59 21 January 2026)
+-   📖 Completed [Studying Sex Culture, For Science!](https://anilist.co/manga/179249) (05:18 27 January 2026)
+-   📖 Read chapter 36 - 39 of [Studying Sex Culture, For Science!](https://anilist.co/manga/179249) (05:17 27 January 2026)
+-   📖 Read chapter 67 - 68 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (05:03 27 January 2026)
+-   📖 Read chapter 67 of [Synced for Pleasure](https://anilist.co/manga/187194) (04:58 27 January 2026)
+-   📖 Read chapter 128 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (04:51 27 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
