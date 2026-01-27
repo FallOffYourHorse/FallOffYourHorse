@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 - 44 of [Rakudai Kishi no Cavalry](https://anilist.co/manga/85370) (21:10 27 January 2026)
+-   📖 Read chapter 94 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (20:49 27 January 2026)
 -   📖 Completed [Studying Sex Culture, For Science!](https://anilist.co/manga/179249) (05:18 27 January 2026)
 -   📖 Read chapter 36 - 39 of [Studying Sex Culture, For Science!](https://anilist.co/manga/179249) (05:17 27 January 2026)
 -   📖 Read chapter 67 - 68 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (05:03 27 January 2026)
--   📖 Read chapter 67 of [Synced for Pleasure](https://anilist.co/manga/187194) (04:58 27 January 2026)
--   📖 Read chapter 128 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (04:51 27 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
