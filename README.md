@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 98 - 99 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (21:54 27 January 2026)
+-   📖 Read chapter 50 - 54 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (00:56 28 January 2026)
+-   📖 Read chapter 151 - 152 of [The Infinite Mage](https://anilist.co/manga/159930) (00:45 28 January 2026)
+-   📖 Read chapter 98 - 107 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (00:40 28 January 2026)
 -   📖 Read chapter 222 - 224 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (21:42 27 January 2026)
 -   📖 Read chapter 39 - 45 of [Rakudai Kishi no Cavalry](https://anilist.co/manga/85370) (21:13 27 January 2026)
--   📖 Read chapter 94 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (20:49 27 January 2026)
--   📖 Completed [Studying Sex Culture, For Science!](https://anilist.co/manga/179249) (05:18 27 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
