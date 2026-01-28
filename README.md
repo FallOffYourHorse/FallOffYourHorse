@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 115 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (16:51 28 January 2026)
 -   📖 Read chapter 17 - 19 of [The Patron of Villains](https://anilist.co/manga/201009) (16:25 28 January 2026)
 -   📖 Read chapter 29 - 32 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (15:54 28 January 2026)
 -   📖 Read chapter 110 - 111 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (15:41 28 January 2026)
 -   📖 Read chapter 109 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (15:35 28 January 2026)
--   📖 Read chapter 55 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (15:32 28 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
