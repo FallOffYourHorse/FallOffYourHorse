@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 185 of [Pick Me Up](https://anilist.co/manga/159441) (05:36 30 January 2026)
--   📖 Read chapter 59 - 64 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:29 30 January 2026)
--   📖 Read chapter 72 - 74 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:57 30 January 2026)
--   📖 Read chapter 69 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (04:47 30 January 2026)
--   📖 Read chapter 113 - 114 of [Killer Peter](https://anilist.co/manga/170688) (04:45 30 January 2026)
+-   📖 Read chapter 1 of [Sachaejigan](https://anilist.co/manga/204894) (06:34 30 January 2026)
+-   📖 Read chapter 194 - 198 of [Lady Chef Royale](https://anilist.co/manga/124966) (06:28 30 January 2026)
+-   📖 Read chapter 52 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (06:14 30 January 2026)
+-   📖 Read chapter 147 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:49 30 January 2026)
+-   📖 Read chapter 44 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (05:48 30 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
