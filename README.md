@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 20 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:27 30 January 2026)
--   📖 Plans to read [Sachaejigan](https://anilist.co/manga/204894) (01:20 30 January 2026)
--   📖 Read chapter 225 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:35 29 January 2026)
--   📖 Read chapter 115 - 161 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (05:32 29 January 2026)
--   📖 Read chapter 115 - 131 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (18:43 28 January 2026)
+-   📖 Read chapter 185 of [Pick Me Up](https://anilist.co/manga/159441) (05:36 30 January 2026)
+-   📖 Read chapter 59 - 64 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:29 30 January 2026)
+-   📖 Read chapter 72 - 74 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:57 30 January 2026)
+-   📖 Read chapter 69 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (04:47 30 January 2026)
+-   📖 Read chapter 113 - 114 of [Killer Peter](https://anilist.co/manga/170688) (04:45 30 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
