@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:27 30 January 2026)
+-   📖 Plans to read [Sachaejigan](https://anilist.co/manga/204894) (01:20 30 January 2026)
 -   📖 Read chapter 225 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:35 29 January 2026)
 -   📖 Read chapter 115 - 161 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (05:32 29 January 2026)
 -   📖 Read chapter 115 - 131 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (18:43 28 January 2026)
--   📖 Read chapter 17 - 19 of [The Patron of Villains](https://anilist.co/manga/201009) (16:25 28 January 2026)
--   📖 Read chapter 29 - 32 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (15:54 28 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
