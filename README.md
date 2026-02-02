@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 24 - 27 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:14 02 February 2026)
 -   📖 Read chapter 53 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (06:56 02 February 2026)
 -   📖 Read chapter 20 of [The Patron of Villains](https://anilist.co/manga/201009) (06:53 02 February 2026)
 -   📖 Read chapter 163 - 167 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:50 02 February 2026)
 -   📖 Read chapter 33 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (06:27 02 February 2026)
--   📖 Read chapter 46 - 50 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (06:19 02 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
