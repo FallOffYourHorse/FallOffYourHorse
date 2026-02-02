@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 148 - 149 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (04:13 02 February 2026)
+-   📖 Read chapter 153 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:05 02 February 2026)
+-   📖 Read chapter 89 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (04:01 02 February 2026)
 -   📖 Completed [The Cheat Batter Takes All](https://anilist.co/manga/172386) (09:02 31 January 2026)
 -   📖 Read chapter 110 of [MILF Hunter in Another World](https://anilist.co/manga/166581) (08:57 31 January 2026)
--   📖 Read chapter 68 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:37 31 January 2026)
--   📖 Read chapter 15 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (05:46 31 January 2026)
--   📖 Read chapter 1 - 10 of [Sachaejigan](https://anilist.co/manga/204894) (07:06 30 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
