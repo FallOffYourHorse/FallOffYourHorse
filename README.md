@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 153 - 154 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:23 02 February 2026)
+-   📖 Read chapter 134 - 135 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:19 02 February 2026)
+-   📖 Read chapter 112 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (14:52 02 February 2026)
 -   📖 Read chapter 24 - 27 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:14 02 February 2026)
 -   📖 Read chapter 53 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (06:56 02 February 2026)
--   📖 Read chapter 20 of [The Patron of Villains](https://anilist.co/manga/201009) (06:53 02 February 2026)
--   📖 Read chapter 163 - 167 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:50 02 February 2026)
--   📖 Read chapter 33 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (06:27 02 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
