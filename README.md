@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 107 - 108 of [I Killed the Main Player](https://anilist.co/manga/173020) (03:54 06 February 2026)
--   📖 Read chapter 153 - 154 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:23 02 February 2026)
--   📖 Read chapter 134 - 135 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:19 02 February 2026)
--   📖 Read chapter 112 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (14:52 02 February 2026)
--   📖 Read chapter 24 - 27 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:14 02 February 2026)
+-   📖 Read chapter 119 of [A Flame Reborn](https://anilist.co/manga/173233) (05:02 06 February 2026)
+-   📖 Read chapter 226 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:56 06 February 2026)
+-   📖 Read chapter 70 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (04:52 06 February 2026)
+-   📖 Read chapter 187 of [Pick Me Up](https://anilist.co/manga/159441) (04:50 06 February 2026)
+-   📖 Read chapter 154 of [The Infinite Mage](https://anilist.co/manga/159930) (04:47 06 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
