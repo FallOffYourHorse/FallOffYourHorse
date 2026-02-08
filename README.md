@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (02:21 07 February 2026)
--   📖 Read chapter 155 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:07 07 February 2026)
--   📖 Read chapter 115 of [Killer Peter](https://anilist.co/manga/170688) (00:56 07 February 2026)
--   📖 Read chapter 168 - 169 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:06 06 February 2026)
--   📖 Read chapter 75 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (19:59 06 February 2026)
+-   📖 Read chapter 150 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (08:22 08 February 2026)
+-   📖 Read chapter 34 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (08:12 08 February 2026)
+-   📖 Read chapter 65 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (08:07 08 February 2026)
+-   📖 Read chapter 90 - 91 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (08:03 08 February 2026)
+-   📖 Read chapter 110 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:55 08 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
