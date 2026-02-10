@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 144 - 145 of [The Novel's Extra](https://anilist.co/manga/152128) (06:04 10 February 2026)
--   📖 Read chapter 86 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:45 10 February 2026)
--   📖 Read chapter 95 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (17:07 09 February 2026)
--   📖 Read chapter 24 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:44 09 February 2026)
--   📖 Read chapter 149 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:39 09 February 2026)
+-   📖 Read chapter 108 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:51 10 February 2026)
+-   📖 Read chapter 100 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (06:47 10 February 2026)
+-   📖 Read chapter 39 - 47 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (06:41 10 February 2026)
+-   📖 Read chapter 111 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (06:14 10 February 2026)
+-   📖 Read chapter 113 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:12 10 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
