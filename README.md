@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 144 - 145 of [The Novel's Extra](https://anilist.co/manga/152128) (06:04 10 February 2026)
+-   📖 Read chapter 86 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:45 10 February 2026)
 -   📖 Read chapter 95 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (17:07 09 February 2026)
 -   📖 Read chapter 24 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:44 09 February 2026)
 -   📖 Read chapter 149 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:39 09 February 2026)
--   📖 Read chapter 110 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (01:35 09 February 2026)
--   📖 Read chapter 85 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:28 09 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
