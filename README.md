@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 125 - 127 of [Returned by the King](https://anilist.co/manga/170724) (18:47 11 February 2026)
+-   📖 Read chapter 125 - 129 of [Returned by the King](https://anilist.co/manga/170724) (18:54 11 February 2026)
+-   📖 Read chapter 125 - 128 of [Returned by the King](https://anilist.co/manga/170724) (18:51 11 February 2026)
 -   📖 Read chapter 96 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (15:11 11 February 2026)
 -   📖 Read chapter 155 of [The Infinite Mage](https://anilist.co/manga/159930) (15:08 11 February 2026)
 -   📖 Read chapter 56 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (15:04 11 February 2026)
--   📖 Read chapter 109 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (15:00 11 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
