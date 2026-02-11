@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 - 63 of [Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.](https://anilist.co/manga/131140) (23:45 10 February 2026)
 -   📖 Plans to read [Ichi the Witch](https://anilist.co/manga/180752) (22:34 10 February 2026)
 -   📖 Read chapter 25 - 26 of [Ane no Tomodachi ](https://anilist.co/manga/174315) (22:28 10 February 2026)
 -   📖 Read chapter 108 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:51 10 February 2026)
 -   📖 Read chapter 100 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (06:47 10 February 2026)
--   📖 Read chapter 39 - 47 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (06:41 10 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
