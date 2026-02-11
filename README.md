@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 - 63 of [Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.](https://anilist.co/manga/131140) (23:45 10 February 2026)
--   📖 Plans to read [Ichi the Witch](https://anilist.co/manga/180752) (22:34 10 February 2026)
--   📖 Read chapter 25 - 26 of [Ane no Tomodachi ](https://anilist.co/manga/174315) (22:28 10 February 2026)
--   📖 Read chapter 108 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:51 10 February 2026)
--   📖 Read chapter 100 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (06:47 10 February 2026)
+-   📖 Read chapter 96 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (15:11 11 February 2026)
+-   📖 Read chapter 155 of [The Infinite Mage](https://anilist.co/manga/159930) (15:08 11 February 2026)
+-   📖 Read chapter 56 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (15:04 11 February 2026)
+-   📖 Read chapter 109 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (15:00 11 February 2026)
+-   📖 Read chapter 300 of [Omniscient Reader](https://anilist.co/manga/119257) (14:56 11 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
