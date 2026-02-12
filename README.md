@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 156 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (16:01 12 February 2026)
 -   📖 Plans to read [K-9: Public Security Bureau, Division 9 – Special Abilities Countermeasure](https://anilist.co/manga/191214) (15:39 12 February 2026)
 -   📖 Read chapter 27 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (03:16 12 February 2026)
 -   📖 Read chapter 188 of [Pick Me Up](https://anilist.co/manga/159441) (03:16 12 February 2026)
 -   📖 Read chapter 162 - 163 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (03:11 12 February 2026)
--   📖 Read chapter 29 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:05 12 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
