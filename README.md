@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 125 - 129 of [Returned by the King](https://anilist.co/manga/170724) (18:54 11 February 2026)
--   📖 Read chapter 125 - 128 of [Returned by the King](https://anilist.co/manga/170724) (18:51 11 February 2026)
--   📖 Read chapter 96 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (15:11 11 February 2026)
--   📖 Read chapter 155 of [The Infinite Mage](https://anilist.co/manga/159930) (15:08 11 February 2026)
--   📖 Read chapter 56 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (15:04 11 February 2026)
+-   📖 Read chapter 27 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (03:16 12 February 2026)
+-   📖 Read chapter 188 of [Pick Me Up](https://anilist.co/manga/159441) (03:16 12 February 2026)
+-   📖 Read chapter 162 - 163 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (03:11 12 February 2026)
+-   📖 Read chapter 29 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:05 12 February 2026)
+-   📖 Read chapter 71 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (02:59 12 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
