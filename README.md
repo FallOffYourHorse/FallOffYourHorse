@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 59 - 82 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:57 14 February 2026)
+-   📖 Read chapter 59 - 77 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:53 14 February 2026)
+-   📖 Read chapter 59 - 75 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:49 14 February 2026)
+-   📖 Read chapter 59 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:25 14 February 2026)
 -   📖 Read chapter 51 - 52 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (23:39 13 February 2026)
--   📖 Read chapter 156 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (16:01 12 February 2026)
--   📖 Plans to read [K-9: Public Security Bureau, Division 9 – Special Abilities Countermeasure](https://anilist.co/manga/191214) (15:39 12 February 2026)
--   📖 Read chapter 27 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (03:16 12 February 2026)
--   📖 Read chapter 188 of [Pick Me Up](https://anilist.co/manga/159441) (03:16 12 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
