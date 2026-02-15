@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (00:49 15 February 2026)
--   📖 Read chapter 59 - 82 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:57 14 February 2026)
--   📖 Read chapter 59 - 77 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:53 14 February 2026)
--   📖 Read chapter 59 - 75 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:49 14 February 2026)
--   📖 Read chapter 59 of [Someone Stop Her!](https://anilist.co/manga/181859) (19:25 14 February 2026)
+-   📖 Read chapter 48 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (05:48 15 February 2026)
+-   📖 Read chapter 22 of [The Patron of Villains](https://anilist.co/manga/201009) (05:45 15 February 2026)
+-   📖 Read chapter 116 of [Killer Peter](https://anilist.co/manga/170688) (05:41 15 February 2026)
+-   📖 Read chapter 151 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:33 15 February 2026)
+-   📖 Read chapter 66 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:27 15 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
