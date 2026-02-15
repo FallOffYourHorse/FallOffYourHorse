@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 170 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (05:55 15 February 2026)
 -   📖 Read chapter 48 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (05:48 15 February 2026)
 -   📖 Read chapter 22 of [The Patron of Villains](https://anilist.co/manga/201009) (05:45 15 February 2026)
 -   📖 Read chapter 116 of [Killer Peter](https://anilist.co/manga/170688) (05:41 15 February 2026)
 -   📖 Read chapter 151 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:33 15 February 2026)
--   📖 Read chapter 66 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:27 15 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
