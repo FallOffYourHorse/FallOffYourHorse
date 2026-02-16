@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 97 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:48 16 February 2026)
 -   📖 Read chapter 136 - 137 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:20 15 February 2026)
 -   📖 Read chapter 87 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (22:16 15 February 2026)
 -   📖 Read chapter 170 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (05:55 15 February 2026)
 -   📖 Read chapter 48 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (05:48 15 February 2026)
--   📖 Read chapter 22 of [The Patron of Villains](https://anilist.co/manga/201009) (05:45 15 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
