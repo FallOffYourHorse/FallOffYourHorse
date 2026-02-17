@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 37 - 45 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:30 17 February 2026)
+-   📖 Read chapter 37 - 45 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:30 17 February 2026)
+-   📖 Read chapter 37 - 38 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:11 17 February 2026)
 -   📖 Read chapter 59 - 66 of [Ultimate Shut-in](https://anilist.co/manga/186019) (01:50 17 February 2026)
 -   📖 Read chapter 150 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:24 17 February 2026)
--   📖 Read chapter 55 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (01:20 17 February 2026)
--   📖 Read chapter 111 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:17 17 February 2026)
--   📖 Read chapter 146 of [The Novel's Extra](https://anilist.co/manga/152128) (01:12 17 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
