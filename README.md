@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 59 - 66 of [Ultimate Shut-in](https://anilist.co/manga/186019) (01:50 17 February 2026)
+-   📖 Read chapter 150 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:24 17 February 2026)
+-   📖 Read chapter 55 of [Destined To Be Loved by the Villains](https://anilist.co/manga/187140) (01:20 17 February 2026)
+-   📖 Read chapter 111 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:17 17 February 2026)
 -   📖 Read chapter 146 of [The Novel's Extra](https://anilist.co/manga/152128) (01:12 17 February 2026)
--   📖 Read chapter 92 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (01:07 17 February 2026)
--   📖 Read chapter 44 - 46 of [Imaizumi Brings All the Gals to His House](https://anilist.co/manga/143028) (01:03 17 February 2026)
--   📖 Read chapter 44 - 45 of [The Villain's Survival Route](https://anilist.co/manga/187427) (00:56 17 February 2026)
--   📖 Read chapter 97 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:48 16 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
