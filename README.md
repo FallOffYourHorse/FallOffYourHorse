@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 - 72 of [Synced for Pleasure](https://anilist.co/manga/187194) (00:01 18 February 2026)
 -   📖 Read chapter 57 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (20:53 17 February 2026)
 -   📖 Read chapter 37 - 77 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (13:37 17 February 2026)
 -   📖 Read chapter 37 - 72 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (13:04 17 February 2026)
 -   📖 Read chapter 37 - 65 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (12:43 17 February 2026)
--   📖 Read chapter 37 - 54 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (12:07 17 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
