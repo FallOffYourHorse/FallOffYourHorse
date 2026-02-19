@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 106 - 116 of [House Mayton's Youngest](https://anilist.co/manga/156558) (03:35 19 February 2026)
+-   📖 Read chapter 114 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (02:54 19 February 2026)
+-   📖 Read chapter 16 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (02:50 19 February 2026)
 -   📖 Read chapter 163 - 171 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (18:28 18 February 2026)
 -   📖 Read chapter 69 - 72 of [Synced for Pleasure](https://anilist.co/manga/187194) (00:01 18 February 2026)
--   📖 Read chapter 57 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (20:53 17 February 2026)
--   📖 Read chapter 37 - 77 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (13:37 17 February 2026)
--   📖 Read chapter 37 - 72 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (13:04 17 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
