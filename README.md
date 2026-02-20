@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 172 - 181 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (10:27 20 February 2026)
+-   📖 Read chapter 172 - 184 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (10:35 20 February 2026)
 -   📖 Read chapter 152 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (09:52 20 February 2026)
 -   📖 Read chapter 110 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (03:24 20 February 2026)
 -   📖 Read chapter 189 of [Pick Me Up](https://anilist.co/manga/159441) (03:18 20 February 2026)
