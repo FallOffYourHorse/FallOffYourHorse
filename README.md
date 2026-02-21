@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 78 - 94 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:13 21 February 2026)
+-   📖 Read chapter 78 - 114 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (12:12 21 February 2026)
+-   📖 Read chapter 78 - 100 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:35 21 February 2026)
+-   📖 Read chapter 78 - 96 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:18 21 February 2026)
+-   📖 Read chapter 78 - 95 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:16 21 February 2026)
 -   📖 Read chapter 78 - 92 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:03 21 February 2026)
--   📖 Read chapter 78 - 91 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (10:59 21 February 2026)
--   📖 Read chapter 78 - 87 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (10:47 21 February 2026)
--   📖 Read chapter 66 of [Do You Like Big Girls?](https://anilist.co/manga/85704) (05:35 21 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
