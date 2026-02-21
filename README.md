@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 66 of [Do You Like Big Girls?](https://anilist.co/manga/85704) (05:35 21 February 2026)
 -   📖 Read chapter 78 - 82 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (03:48 21 February 2026)
 -   📖 Read chapter 130 of [Returned by the King](https://anilist.co/manga/170724) (03:05 21 February 2026)
 -   📖 Read chapter 171 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (03:02 21 February 2026)
 -   📖 Read chapter 67 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (02:58 21 February 2026)
--   📖 Read chapter 117 of [Killer Peter](https://anilist.co/manga/170688) (02:54 21 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
