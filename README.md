@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 78 - 114 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (12:12 21 February 2026)
--   📖 Read chapter 78 - 100 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:35 21 February 2026)
--   📖 Read chapter 78 - 96 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:18 21 February 2026)
--   📖 Read chapter 78 - 95 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:16 21 February 2026)
--   📖 Read chapter 78 - 92 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (11:03 21 February 2026)
+-   📖 Read chapter 56 - 64 of [Reincarnator](https://anilist.co/manga/172583) (04:05 22 February 2026)
+-   📖 Read chapter 17 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (03:27 22 February 2026)
+-   📖 Read chapter 23 of [The Patron of Villains](https://anilist.co/manga/201009) (02:06 22 February 2026)
+-   📖 Read chapter 93 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (02:02 22 February 2026)
+-   📖 Read chapter 36 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (01:53 22 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
