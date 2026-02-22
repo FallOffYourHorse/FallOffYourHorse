@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 28 of [The Strange Adventure of a Broke Mercenary](https://anilist.co/manga/101568) (07:45 22 February 2026)
 -   📖 Read chapter 56 - 67 of [Reincarnator](https://anilist.co/manga/172583) (04:18 22 February 2026)
 -   📖 Read chapter 17 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (03:27 22 February 2026)
 -   📖 Read chapter 23 of [The Patron of Villains](https://anilist.co/manga/201009) (02:06 22 February 2026)
 -   📖 Read chapter 93 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (02:02 22 February 2026)
--   📖 Read chapter 36 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (01:53 22 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
