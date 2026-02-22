@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 56 - 94 of [Reincarnator](https://anilist.co/manga/172583) (10:15 22 February 2026)
+-   📖 Read chapter 56 - 102 of [Reincarnator](https://anilist.co/manga/172583) (10:43 22 February 2026)
 -   📖 Read chapter 72 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (08:43 22 February 2026)
 -   📖 Read chapter 27 - 28 of [The Strange Adventure of a Broke Mercenary](https://anilist.co/manga/101568) (07:45 22 February 2026)
 -   📖 Read chapter 17 of [Boku no Ikezu na Konyakusha](https://anilist.co/manga/176739) (03:27 22 February 2026)
