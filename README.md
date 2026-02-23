@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 193 - 199 of [The Swordmaster's Son](https://anilist.co/manga/149332) (01:54 23 February 2026)
+-   📖 Read chapter 49 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (01:29 23 February 2026)
+-   📖 Read chapter 28 - 29 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (01:25 23 February 2026)
+-   📖 Read chapter 112 - 113 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (01:20 23 February 2026)
 -   📖 Read chapter 88 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (21:30 22 February 2026)
--   📖 Read chapter 151 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:27 22 February 2026)
--   📖 Read chapter 28 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (21:19 22 February 2026)
--   📖 Read chapter 56 - 102 of [Reincarnator](https://anilist.co/manga/172583) (10:43 22 February 2026)
--   📖 Read chapter 72 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (08:43 22 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
