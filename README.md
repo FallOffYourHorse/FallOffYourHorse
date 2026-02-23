@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 - 13 of [Sachaejigan](https://anilist.co/manga/204894) (16:59 23 February 2026)
+-   📖 Read chapter 14 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (16:45 23 February 2026)
 -   📖 Read chapter 138 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:22 23 February 2026)
 -   📖 Read chapter 121 of [A Flame Reborn](https://anilist.co/manga/173233) (14:19 23 February 2026)
 -   📖 Read chapter 73 - 74 of [Synced for Pleasure](https://anilist.co/manga/187194) (07:48 23 February 2026)
--   📖 Read chapter 200 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:17 23 February 2026)
--   📖 Read chapter 77 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (07:13 23 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
