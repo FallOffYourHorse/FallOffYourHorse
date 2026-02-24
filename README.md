@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (21:24 24 February 2026)
+-   📖 Read chapter 1 - 21 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (22:21 24 February 2026)
 -   📖 Plans to read [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (21:01 24 February 2026)
 -   📖 Read chapter 115 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (20:59 24 February 2026)
 -   📖 Read chapter 112 - 113 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (20:49 24 February 2026)
