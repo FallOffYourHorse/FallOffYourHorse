@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 147 of [The Novel's Extra](https://anilist.co/manga/152128) (06:17 24 February 2026)
--   📖 Read chapter 53 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (06:11 24 February 2026)
--   📖 Read chapter 131 of [Returned by the King](https://anilist.co/manga/170724) (03:02 24 February 2026)
--   📖 Read chapter 67 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:36 24 February 2026)
--   📖 Read chapter 11 - 13 of [Sachaejigan](https://anilist.co/manga/204894) (16:59 23 February 2026)
+-   📖 Read chapter 1 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (21:24 24 February 2026)
+-   📖 Plans to read [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (21:01 24 February 2026)
+-   📖 Read chapter 115 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (20:59 24 February 2026)
+-   📖 Read chapter 112 - 113 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (20:49 24 February 2026)
+-   📖 Read chapter 156 of [The Infinite Mage](https://anilist.co/manga/159930) (20:43 24 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
