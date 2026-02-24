@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 147 of [The Novel's Extra](https://anilist.co/manga/152128) (06:17 24 February 2026)
+-   📖 Read chapter 53 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (06:11 24 February 2026)
 -   📖 Read chapter 131 of [Returned by the King](https://anilist.co/manga/170724) (03:02 24 February 2026)
 -   📖 Read chapter 67 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:36 24 February 2026)
 -   📖 Read chapter 11 - 13 of [Sachaejigan](https://anilist.co/manga/204894) (16:59 23 February 2026)
--   📖 Read chapter 14 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (16:45 23 February 2026)
--   📖 Read chapter 138 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:22 23 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
