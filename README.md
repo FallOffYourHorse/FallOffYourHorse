@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 17 - 20 of [Bangnanggisaro Saraganeun Beop](https://anilist.co/manga/202718) (23:17 25 February 2026)
+-   📖 Read chapter 122 of [A Flame Reborn](https://anilist.co/manga/173233) (22:58 25 February 2026)
 -   📖 Read chapter 54 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (18:10 25 February 2026)
 -   📖 Read chapter 185 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (18:06 25 February 2026)
 -   📖 Read chapter 164 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (17:58 25 February 2026)
--   📖 Read chapter 73 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (17:40 25 February 2026)
--   📖 Read chapter 129 - 130 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:54 25 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
