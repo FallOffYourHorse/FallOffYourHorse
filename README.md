@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 164 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (17:58 25 February 2026)
+-   📖 Read chapter 73 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (17:40 25 February 2026)
 -   📖 Read chapter 129 - 130 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:54 25 February 2026)
 -   📖 Read chapter 14 of [Sachaejigan](https://anilist.co/manga/204894) (06:14 25 February 2026)
 -   📖 Read chapter 1 - 24 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (06:06 25 February 2026)
--   📖 Read chapter 58 - 59 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (06:02 25 February 2026)
--   📖 Read chapter 302 of [Omniscient Reader](https://anilist.co/manga/119257) (05:59 25 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
