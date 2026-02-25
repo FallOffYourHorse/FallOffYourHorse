@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 of [Sachaejigan](https://anilist.co/manga/204894) (06:14 25 February 2026)
+-   📖 Read chapter 1 - 24 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (06:06 25 February 2026)
+-   📖 Read chapter 58 - 59 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (06:02 25 February 2026)
+-   📖 Read chapter 302 of [Omniscient Reader](https://anilist.co/manga/119257) (05:59 25 February 2026)
 -   📖 Read chapter 49 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (03:09 25 February 2026)
--   📖 Read chapter 1 - 16 of [Bangnanggisaro Saraganeun Beop](https://anilist.co/manga/202718) (23:18 24 February 2026)
--   📖 Plans to read [Bangnanggisaro Saraganeun Beop](https://anilist.co/manga/202718) (22:30 24 February 2026)
--   📖 Read chapter 1 - 23 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (22:29 24 February 2026)
--   📖 Plans to read [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (21:01 24 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
