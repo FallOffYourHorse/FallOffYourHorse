@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 157 of [The Infinite Mage](https://anilist.co/manga/159930) (23:40 25 February 2026)
--   📖 Read chapter 17 - 26 of [Bangnanggisaro Saraganeun Beop](https://anilist.co/manga/202718) (23:37 25 February 2026)
--   📖 Read chapter 122 of [A Flame Reborn](https://anilist.co/manga/173233) (22:58 25 February 2026)
--   📖 Read chapter 54 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (18:10 25 February 2026)
--   📖 Read chapter 185 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (18:06 25 February 2026)
+-   📖 Read chapter 165 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (07:25 26 February 2026)
+-   📖 Read chapter 31 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:21 26 February 2026)
+-   📖 Read chapter 190 of [Pick Me Up](https://anilist.co/manga/159441) (07:18 26 February 2026)
+-   📖 Read chapter 111 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (07:15 26 February 2026)
+-   📖 Read chapter 117 of [House Mayton's Youngest](https://anilist.co/manga/156558) (07:04 26 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
