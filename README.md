@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (11:38 27 February 2026)
 -   📖 Plans to read [I'm Quitting Heroing](https://anilist.co/manga/102861) (11:05 27 February 2026)
 -   📖 Read chapter 79 of [The Eminence in Shadow](https://anilist.co/manga/106758) (20:38 26 February 2026)
 -   📖 Read chapter 68 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (19:50 26 February 2026)
 -   📖 Read chapter 11 of [Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai](https://anilist.co/manga/189757) (19:43 26 February 2026)
--   📖 Read chapter 27 of [Ane no Tomodachi ](https://anilist.co/manga/174315) (19:39 26 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
