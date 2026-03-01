@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 17 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (22:14 01 March 2026)
+-   📖 Read chapter 153 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (22:09 01 March 2026)
 -   📖 Read chapter 15 - 16 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (01:08 01 March 2026)
 -   📖 Read chapter 37 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (00:59 01 March 2026)
 -   📖 Read chapter 26 - 28 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (19:27 28 February 2026)
--   📖 Read chapter 25 of [Isekai Cheat Kaitakuki](https://anilist.co/manga/117767) (11:38 27 February 2026)
--   📖 Plans to read [I'm Quitting Heroing](https://anilist.co/manga/102861) (11:05 27 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
