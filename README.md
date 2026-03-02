@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 50 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (22:33 01 March 2026)
--   📖 Read chapter 17 - 18 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (22:19 01 March 2026)
--   📖 Read chapter 153 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (22:09 01 March 2026)
--   📖 Read chapter 15 - 16 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (01:08 01 March 2026)
--   📖 Read chapter 37 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (00:59 01 March 2026)
+-   📖 Read chapter 24 of [The Patron of Villains](https://anilist.co/manga/201009) (07:34 02 March 2026)
+-   📖 Read chapter 17 - 19 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (07:28 02 March 2026)
+-   📖 Read chapter 200 of [The Swordmaster's Son](https://anilist.co/manga/149332) (07:24 02 March 2026)
+-   📖 Read chapter 78 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (07:21 02 March 2026)
+-   📖 Read chapter 30 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (07:17 02 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
