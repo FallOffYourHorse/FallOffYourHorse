@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 of [A Wild Last Boss Appeared!](https://anilist.co/manga/99776) (08:54 02 March 2026)
+-   📖 Read chapter 75 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:47 02 March 2026)
+-   📖 Read chapter 131 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:44 02 March 2026)
 -   📖 Read chapter 98 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:31 02 March 2026)
 -   📖 Read chapter 68 - 69 of [Ultimate Shut-in](https://anilist.co/manga/186019) (08:27 02 March 2026)
--   📖 Read chapter 118 of [House Mayton's Youngest](https://anilist.co/manga/156558) (08:18 02 March 2026)
--   📖 Read chapter 113 of [I Killed the Main Player](https://anilist.co/manga/173020) (08:14 02 March 2026)
--   📖 Read chapter 115 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (08:10 02 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
