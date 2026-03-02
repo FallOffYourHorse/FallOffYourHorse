@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 5 of [The HYPNOSIS APP was Fake](https://anilist.co/manga/153641) (18:54 02 March 2026)
 -   📖 Read chapter 114 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (15:56 02 March 2026)
 -   📖 Read chapter 26 of [Superhuman Streamer](https://anilist.co/manga/202499) (15:52 02 March 2026)
 -   📖 Read chapter 56 of [A Wild Last Boss Appeared!](https://anilist.co/manga/99776) (08:54 02 March 2026)
 -   📖 Read chapter 75 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:47 02 March 2026)
--   📖 Read chapter 131 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (08:44 02 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
