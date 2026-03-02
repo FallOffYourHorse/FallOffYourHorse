@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 of [The Patron of Villains](https://anilist.co/manga/201009) (07:34 02 March 2026)
--   📖 Read chapter 17 - 19 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (07:28 02 March 2026)
--   📖 Read chapter 200 of [The Swordmaster's Son](https://anilist.co/manga/149332) (07:24 02 March 2026)
--   📖 Read chapter 78 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (07:21 02 March 2026)
--   📖 Read chapter 30 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (07:17 02 March 2026)
+-   📖 Read chapter 98 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:31 02 March 2026)
+-   📖 Read chapter 68 - 69 of [Ultimate Shut-in](https://anilist.co/manga/186019) (08:27 02 March 2026)
+-   📖 Read chapter 118 of [House Mayton's Youngest](https://anilist.co/manga/156558) (08:18 02 March 2026)
+-   📖 Read chapter 113 of [I Killed the Main Player](https://anilist.co/manga/173020) (08:14 02 March 2026)
+-   📖 Read chapter 115 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (08:10 02 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
