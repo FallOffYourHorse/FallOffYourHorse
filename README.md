@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 159 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:28 04 March 2026)
--   📖 Read chapter 112 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (15:25 04 March 2026)
--   📖 Read chapter 120 of [Killer Peter](https://anilist.co/manga/170688) (15:20 04 March 2026)
--   📖 Read chapter 186 - 187 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (15:14 04 March 2026)
--   📖 Read chapter 27 - 58 of [The Witch and the Beast](https://anilist.co/manga/100109) (06:59 04 March 2026)
+-   📖 Read chapter 47 - 57 of [My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me! —AΩ—](https://anilist.co/manga/101584) (16:30 04 March 2026)
+-   📖 Read chapter 10 - 12 of [Kyouiku Mama Saeko: Kono Ko no Tamenara](https://anilist.co/manga/182773) (15:54 04 March 2026)
+-   📖 Read chapter 122 of [Reincarnator](https://anilist.co/manga/172583) (15:45 04 March 2026)
+-   📖 Read chapter 116 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (15:42 04 March 2026)
+-   📖 Read chapter 25 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (15:38 04 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
