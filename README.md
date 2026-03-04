@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 - 39 of [The Witch and the Beast](https://anilist.co/manga/100109) (05:35 04 March 2026)
 -   📖 Read chapter 158 of [The Infinite Mage](https://anilist.co/manga/159930) (23:52 03 March 2026)
 -   📖 Read chapter 60 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (23:04 03 March 2026)
 -   📖 Read chapter 123 of [Helmut](https://anilist.co/manga/154782) (19:05 03 March 2026)
 -   📖 Read chapter 99 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (19:02 03 March 2026)
--   📖 Read chapter 148 of [The Novel's Extra](https://anilist.co/manga/152128) (09:27 03 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
