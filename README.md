@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 94 - 95 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (19:19 04 March 2026)
+-   📖 Read chapter 26 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (19:08 04 March 2026)
+-   📖 Read chapter 70 - 72 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (19:02 04 March 2026)
 -   📖 Read chapter 47 - 59 of [My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me! —AΩ—](https://anilist.co/manga/101584) (16:34 04 March 2026)
 -   📖 Read chapter 10 - 12 of [Kyouiku Mama Saeko: Kono Ko no Tamenara](https://anilist.co/manga/182773) (15:54 04 March 2026)
--   📖 Read chapter 122 of [Reincarnator](https://anilist.co/manga/172583) (15:45 04 March 2026)
--   📖 Read chapter 116 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (15:42 04 March 2026)
--   📖 Read chapter 25 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (15:38 04 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
