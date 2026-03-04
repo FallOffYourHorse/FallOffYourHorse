@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 159 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:28 04 March 2026)
+-   📖 Read chapter 112 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (15:25 04 March 2026)
+-   📖 Read chapter 120 of [Killer Peter](https://anilist.co/manga/170688) (15:20 04 March 2026)
+-   📖 Read chapter 186 - 187 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (15:14 04 March 2026)
 -   📖 Read chapter 27 - 58 of [The Witch and the Beast](https://anilist.co/manga/100109) (06:59 04 March 2026)
--   📖 Read chapter 158 of [The Infinite Mage](https://anilist.co/manga/159930) (23:52 03 March 2026)
--   📖 Read chapter 60 of [Myeolmanggeup Death Knight-ga Hoegwiham](https://anilist.co/manga/195334) (23:04 03 March 2026)
--   📖 Read chapter 123 of [Helmut](https://anilist.co/manga/154782) (19:05 03 March 2026)
--   📖 Read chapter 99 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (19:02 03 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
