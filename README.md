@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 57 of [My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me! —AΩ—](https://anilist.co/manga/101584) (16:30 04 March 2026)
+-   📖 Read chapter 47 - 59 of [My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me! —AΩ—](https://anilist.co/manga/101584) (16:34 04 March 2026)
 -   📖 Read chapter 10 - 12 of [Kyouiku Mama Saeko: Kono Ko no Tamenara](https://anilist.co/manga/182773) (15:54 04 March 2026)
 -   📖 Read chapter 122 of [Reincarnator](https://anilist.co/manga/172583) (15:45 04 March 2026)
 -   📖 Read chapter 116 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (15:42 04 March 2026)
