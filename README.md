@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 78 - 79 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (19:47 06 March 2026)
+-   📖 Read chapter 229 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:35 06 March 2026)
 -   📺 Completed [TRIGUN STAMPEDE](https://anilist.co/anime/151040) (00:28 06 March 2026)
 -   📖 Read chapter 94 - 95 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (19:19 04 March 2026)
 -   📖 Read chapter 26 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (19:08 04 March 2026)
--   📖 Read chapter 70 - 72 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (19:02 04 March 2026)
--   📖 Read chapter 47 - 59 of [My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me! —AΩ—](https://anilist.co/manga/101584) (16:34 04 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
