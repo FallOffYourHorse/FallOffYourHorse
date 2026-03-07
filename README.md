@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 78 - 79 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (19:47 06 March 2026)
--   📖 Read chapter 229 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:35 06 March 2026)
--   📺 Completed [TRIGUN STAMPEDE](https://anilist.co/anime/151040) (00:28 06 March 2026)
--   📖 Read chapter 94 - 95 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (19:19 04 March 2026)
--   📖 Read chapter 26 of [Itoko no Onee-chan ni Amaechau?](https://anilist.co/manga/177544) (19:08 04 March 2026)
+-   📖 Read chapter 191 of [Pick Me Up](https://anilist.co/manga/159441) (22:11 07 March 2026)
+-   📖 Read chapter 79 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (22:04 07 March 2026)
+-   📖 Read chapter 74 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (22:00 07 March 2026)
+-   📖 Read chapter 114 of [I Killed the Main Player](https://anilist.co/manga/173020) (21:57 07 March 2026)
+-   📖 Read chapter 119 of [House Mayton's Youngest](https://anilist.co/manga/156558) (21:51 07 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
