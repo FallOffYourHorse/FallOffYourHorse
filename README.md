@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 201 of [The Swordmaster's Son](https://anilist.co/manga/149332) (06:29 08 March 2026)
+-   📖 Read chapter 27 of [Superhuman Streamer](https://anilist.co/manga/202499) (06:24 08 March 2026)
 -   📖 Read chapter 32 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (22:15 07 March 2026)
 -   📖 Read chapter 191 of [Pick Me Up](https://anilist.co/manga/159441) (22:11 07 March 2026)
 -   📖 Read chapter 79 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (22:04 07 March 2026)
--   📖 Read chapter 74 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (22:00 07 March 2026)
--   📖 Read chapter 114 of [I Killed the Main Player](https://anilist.co/manga/173020) (21:57 07 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
