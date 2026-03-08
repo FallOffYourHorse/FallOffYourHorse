@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 of [The Patron of Villains](https://anilist.co/manga/201009) (11:03 08 March 2026)
 -   📖 Read chapter 20 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (06:38 08 March 2026)
 -   📖 Read chapter 38 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (06:34 08 March 2026)
 -   📖 Read chapter 201 of [The Swordmaster's Son](https://anilist.co/manga/149332) (06:29 08 March 2026)
 -   📖 Read chapter 27 of [Superhuman Streamer](https://anilist.co/manga/202499) (06:24 08 March 2026)
--   📖 Read chapter 32 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (22:15 07 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
