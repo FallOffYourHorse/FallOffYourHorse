@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (03:57 10 March 2026)
+-   📖 Read chapter 149 of [The Novel's Extra](https://anilist.co/manga/152128) (03:53 10 March 2026)
+-   📖 Read chapter 123 of [Reincarnator](https://anilist.co/manga/172583) (03:48 10 March 2026)
+-   📖 Read chapter 124 of [Helmut](https://anilist.co/manga/154782) (03:44 10 March 2026)
 -   📖 Read chapter 115 of [The Strongest Evolutionary Necromancer](https://anilist.co/manga/168337) (13:58 09 March 2026)
--   📖 Read chapter 96 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:43 09 March 2026)
--   📖 Read chapter 153 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (13:38 09 March 2026)
--   📖 Read chapter 25 of [The Patron of Villains](https://anilist.co/manga/201009) (11:03 08 March 2026)
--   📖 Read chapter 20 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (06:38 08 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
