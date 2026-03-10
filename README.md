@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 124 of [Reincarnator](https://anilist.co/manga/172583) (19:50 10 March 2026)
 -   📖 Read chapter 115 of [Record of Ragnarok](https://anilist.co/manga/107098) (18:51 10 March 2026)
 -   📖 Read chapter 89 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (03:57 10 March 2026)
 -   📖 Read chapter 149 of [The Novel's Extra](https://anilist.co/manga/152128) (03:53 10 March 2026)
 -   📖 Read chapter 123 of [Reincarnator](https://anilist.co/manga/172583) (03:48 10 March 2026)
--   📖 Read chapter 124 of [Helmut](https://anilist.co/manga/154782) (03:44 10 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
