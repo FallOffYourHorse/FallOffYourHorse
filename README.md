@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 - 28 of [Bangnanggisaro Saraganeun Beop](https://anilist.co/manga/202718) (13:56 11 March 2026)
--   📖 Read chapter 70 - 71 of [Ultimate Shut-in](https://anilist.co/manga/186019) (13:32 11 March 2026)
--   📖 Read chapter 117 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:26 11 March 2026)
--   📖 Read chapter 75 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (13:22 11 March 2026)
--   📖 Read chapter 132 of [Returned by the King](https://anilist.co/manga/170724) (13:18 11 March 2026)
+-   📖 Read chapter 3 of [Agakimi Chiruramu](https://anilist.co/manga/203363) (14:38 11 March 2026)
+-   📖 Plans to read [Agakimi Chiruramu](https://anilist.co/manga/203363) (14:38 11 March 2026)
+-   📖 Read chapter 159 of [The Infinite Mage](https://anilist.co/manga/159930) (14:09 11 March 2026)
+-   📖 Read chapter 113 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (14:06 11 March 2026)
+-   📖 Read chapter 26 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (14:03 11 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
