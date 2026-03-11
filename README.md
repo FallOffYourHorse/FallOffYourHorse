@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 of [Agakimi Chiruramu](https://anilist.co/manga/203363) (14:38 11 March 2026)
+-   📖 Read chapter 3 - 4 of [Agakimi Chiruramu](https://anilist.co/manga/203363) (17:05 11 March 2026)
 -   📖 Plans to read [Agakimi Chiruramu](https://anilist.co/manga/203363) (14:38 11 March 2026)
 -   📖 Read chapter 159 of [The Infinite Mage](https://anilist.co/manga/159930) (14:09 11 March 2026)
 -   📖 Read chapter 113 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (14:06 11 March 2026)
