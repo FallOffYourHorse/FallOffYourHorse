@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 192 of [Pick Me Up](https://anilist.co/manga/159441) (06:05 12 March 2026)
+-   📖 Read chapter 33 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (05:59 12 March 2026)
+-   📖 Read chapter 100 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (05:53 12 March 2026)
 -   📖 Read chapter 3 - 4 of [Agakimi Chiruramu](https://anilist.co/manga/203363) (17:05 11 March 2026)
 -   📖 Plans to read [Agakimi Chiruramu](https://anilist.co/manga/203363) (14:38 11 March 2026)
--   📖 Read chapter 159 of [The Infinite Mage](https://anilist.co/manga/159930) (14:09 11 March 2026)
--   📖 Read chapter 113 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (14:06 11 March 2026)
--   📖 Read chapter 26 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (14:03 11 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
