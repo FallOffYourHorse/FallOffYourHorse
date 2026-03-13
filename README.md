@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 120 of [House Mayton's Youngest](https://anilist.co/manga/156558) (07:54 13 March 2026)
+-   📖 Read chapter 166 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (07:52 13 March 2026)
+-   📖 Read chapter 70 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:48 13 March 2026)
 -   📖 Read chapter 51 - 52 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (03:40 13 March 2026)
 -   📖 Read chapter 26 of [The Patron of Villains](https://anilist.co/manga/201009) (03:29 13 March 2026)
--   📖 Read chapter 160 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:18 13 March 2026)
--   📖 Read chapter 192 of [Pick Me Up](https://anilist.co/manga/159441) (06:05 12 March 2026)
--   📖 Read chapter 33 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (05:59 12 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
