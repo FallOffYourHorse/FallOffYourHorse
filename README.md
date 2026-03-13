@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyou Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (08:37 13 March 2026)
 -   📖 Read chapter 120 of [House Mayton's Youngest](https://anilist.co/manga/156558) (07:54 13 March 2026)
 -   📖 Read chapter 166 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (07:52 13 March 2026)
 -   📖 Read chapter 70 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:48 13 March 2026)
 -   📖 Read chapter 51 - 52 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (03:40 13 March 2026)
--   📖 Read chapter 26 of [The Patron of Villains](https://anilist.co/manga/201009) (03:29 13 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
