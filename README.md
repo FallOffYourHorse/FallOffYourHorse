@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 - 52 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (03:40 13 March 2026)
+-   📖 Read chapter 26 of [The Patron of Villains](https://anilist.co/manga/201009) (03:29 13 March 2026)
+-   📖 Read chapter 160 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:18 13 March 2026)
 -   📖 Read chapter 192 of [Pick Me Up](https://anilist.co/manga/159441) (06:05 12 March 2026)
 -   📖 Read chapter 33 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (05:59 12 March 2026)
--   📖 Read chapter 100 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (05:53 12 March 2026)
--   📖 Read chapter 3 - 4 of [Agakimi Chiruramu](https://anilist.co/manga/203363) (17:05 11 March 2026)
--   📖 Plans to read [Agakimi Chiruramu](https://anilist.co/manga/203363) (14:38 11 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
