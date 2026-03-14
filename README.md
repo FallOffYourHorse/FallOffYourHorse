@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Reread chapter 68 - 71 of [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (23:49 13 March 2026)
+-   📖 Read chapter 76 - 77 of [Synced for Pleasure](https://anilist.co/manga/187194) (23:29 13 March 2026)
 -   📖 Read chapter 21 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (21:15 13 March 2026)
 -   📖 Read chapter 97 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (21:08 13 March 2026)
 -   📖 Read chapter 7 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyou Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (08:37 13 March 2026)
--   📖 Read chapter 120 of [House Mayton's Youngest](https://anilist.co/manga/156558) (07:54 13 March 2026)
--   📖 Read chapter 166 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (07:52 13 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
