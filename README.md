@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu](https://anilist.co/manga/148305) (08:18 14 March 2026)
+-   📖 Read chapter 1 - 23 of [Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu](https://anilist.co/manga/148305) (09:20 14 March 2026)
 -   📖 Plans to read [Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu](https://anilist.co/manga/148305) (07:46 14 March 2026)
 -   📖 Read chapter 18 of [My Teasing Fiancée](https://anilist.co/manga/176739) (07:26 14 March 2026)
 -   📺 Completed [Clevatess](https://anilist.co/anime/178869) (06:37 14 March 2026)
