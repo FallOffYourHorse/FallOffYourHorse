@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (21:48 14 March 2026)
+-   📖 Read chapter 28 of [Superhuman Streamer](https://anilist.co/manga/202499) (21:46 14 March 2026)
 -   📖 Read chapter 139 - 140 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (19:59 14 March 2026)
 -   📖 Read chapter 48 of [The Villain's Survival Route](https://anilist.co/manga/187427) (19:53 14 March 2026)
 -   📖 Read chapter 1 - 28 of [Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu](https://anilist.co/manga/148305) (09:52 14 March 2026)
--   📖 Plans to read [Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu](https://anilist.co/manga/148305) (07:46 14 March 2026)
--   📖 Read chapter 18 of [My Teasing Fiancée](https://anilist.co/manga/176739) (07:26 14 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
