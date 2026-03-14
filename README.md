@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu](https://anilist.co/manga/148305) (08:18 14 March 2026)
+-   📖 Plans to read [Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu](https://anilist.co/manga/148305) (07:46 14 March 2026)
 -   📖 Read chapter 18 of [My Teasing Fiancée](https://anilist.co/manga/176739) (07:26 14 March 2026)
 -   📺 Completed [Clevatess](https://anilist.co/anime/178869) (06:37 14 March 2026)
 -   📖 Reread chapter 68 - 71 of [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (23:49 13 March 2026)
--   📖 Read chapter 76 - 77 of [Synced for Pleasure](https://anilist.co/manga/187194) (23:29 13 March 2026)
--   📖 Read chapter 21 of [Mawanginde Yongsaga Neomu Maneum](https://anilist.co/manga/202986) (21:15 13 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
