@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 101 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (21:27 17 March 2026)
+-   📖 Read chapter 160 of [The Infinite Mage](https://anilist.co/manga/159930) (21:24 17 March 2026)
+-   📖 Read chapter 150 of [The Novel's Extra](https://anilist.co/manga/152128) (21:19 17 March 2026)
 -   📖 Read chapter 116 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (04:25 17 March 2026)
 -   📖 Read chapter 55 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (15:36 16 March 2026)
--   📖 Read chapter 115 of [I Killed the Main Player](https://anilist.co/manga/173020) (15:32 16 March 2026)
--   📖 Read chapter 80 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (14:54 16 March 2026)
--   📖 Read chapter 201 - 202 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (14:10 16 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
