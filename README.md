@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 27 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (13:32 18 March 2026)
+-   📖 Read chapter 114 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:27 18 March 2026)
+-   📖 Read chapter 118 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:24 18 March 2026)
 -   📖 Read chapter 188 - 189 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (07:44 18 March 2026)
 -   📖 Read chapter 90 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (07:24 18 March 2026)
--   📖 Read chapter 30 of [Alice-san Chi no Irori-bata](https://anilist.co/manga/125250) (07:16 18 March 2026)
--   📖 Plans to read [The Saga of Tanya the Evil](https://anilist.co/manga/97216) (03:01 18 March 2026)
--   📖 Read chapter 62 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (01:35 18 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
