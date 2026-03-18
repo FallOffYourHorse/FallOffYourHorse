@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 188 - 189 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (07:44 18 March 2026)
+-   📖 Read chapter 90 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (07:24 18 March 2026)
+-   📖 Read chapter 30 of [Alice-san Chi no Irori-bata](https://anilist.co/manga/125250) (07:16 18 March 2026)
 -   📖 Plans to read [The Saga of Tanya the Evil](https://anilist.co/manga/97216) (03:01 18 March 2026)
 -   📖 Read chapter 62 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (01:35 18 March 2026)
--   📖 Read chapter 117 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (21:39 17 March 2026)
--   📖 Read chapter 154 - 155 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (21:35 17 March 2026)
--   📖 Read chapter 101 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (21:27 17 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
