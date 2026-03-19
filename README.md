@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (05:27 19 March 2026)
 -   📖 Read chapter 34 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (01:08 19 March 2026)
 -   📖 Read chapter 193 of [Pick Me Up](https://anilist.co/manga/159441) (01:05 19 March 2026)
 -   📖 Read chapter 27 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (13:32 18 March 2026)
 -   📖 Read chapter 114 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:27 18 March 2026)
--   📖 Read chapter 118 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:24 18 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
