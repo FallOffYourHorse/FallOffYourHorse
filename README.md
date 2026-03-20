@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 9 of [Yamiochi Last Boss Reijou no Osananajimi ni Tensei Shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi [Yandere-ka] Shitemasen ka?](https://anilist.co/manga/200366) (18:28 20 March 2026)
 -   📖 Read chapter 84 of [Cougar 101](https://anilist.co/manga/181012) (23:49 19 March 2026)
 -   📖 Read chapter 78 of [Synced for Pleasure](https://anilist.co/manga/187194) (23:48 19 March 2026)
 -   📖 Read chapter 25 - 38 of [Kunon the Sorceror Can See](https://anilist.co/manga/149736) (23:41 19 March 2026)
 -   📖 Read chapter 25 - 31 of [Kunon the Sorceror Can See](https://anilist.co/manga/149736) (23:01 19 March 2026)
--   📖 Read chapter 25 - 30 of [Kunon the Sorceror Can See](https://anilist.co/manga/149736) (22:37 19 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
