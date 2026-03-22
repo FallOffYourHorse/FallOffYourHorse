@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 21 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (07:20 22 March 2026)
+-   📖 Reread chapter 72 - 73 of [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (07:05 22 March 2026)
+-   📖 Read chapter 79 of [Synced for Pleasure](https://anilist.co/manga/187194) (06:59 22 March 2026)
 -   📖 Read chapter 73 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (06:01 21 March 2026)
 -   📖 Read chapter 112 - 113 of [The Player Hides His Past](https://anilist.co/manga/166154) (04:46 21 March 2026)
--   📖 Read chapter 61 of [Your Throne](https://anilist.co/manga/114542) (20:38 20 March 2026)
--   📖 Read chapter 8 - 9 of [Yamiochi Last Boss Reijou no Osananajimi ni Tensei Shita. Ore ga Shindara Bad End Kakutei nanode Saikyou ni Natta kedo, Mou Yamiochi [Yandere-ka] Shitemasen ka?](https://anilist.co/manga/200366) (18:28 20 March 2026)
--   📖 Read chapter 84 of [Cougar 101](https://anilist.co/manga/181012) (23:49 19 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
