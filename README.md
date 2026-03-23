@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Tensei Streamer](https://anilist.co/manga/203593) (07:27 23 March 2026)
+-   📖 Read chapter 122 of [Killer Peter](https://anilist.co/manga/170688) (07:27 23 March 2026)
+-   📖 Read chapter 42 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (07:26 23 March 2026)
+-   📖 Read chapter 124 - 125 of [A Flame Reborn](https://anilist.co/manga/173233) (07:23 23 March 2026)
 -   📖 Read chapter 20 - 21 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (07:20 22 March 2026)
--   📖 Reread chapter 72 - 73 of [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (07:05 22 March 2026)
--   📖 Read chapter 79 of [Synced for Pleasure](https://anilist.co/manga/187194) (06:59 22 March 2026)
--   📖 Read chapter 73 of [ST✰R: Strike it Rich ](https://anilist.co/manga/163923) (06:01 21 March 2026)
--   📖 Read chapter 112 - 113 of [The Player Hides His Past](https://anilist.co/manga/166154) (04:46 21 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
