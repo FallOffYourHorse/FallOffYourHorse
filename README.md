@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 305 of [Omniscient Reader](https://anilist.co/manga/119257) (03:58 25 March 2026)
 -   📖 Read chapter 63 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (00:01 25 March 2026)
 -   📖 Read chapter 115 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (22:49 24 March 2026)
 -   📖 Read chapter 125 - 126 of [Helmut](https://anilist.co/manga/154782) (19:43 24 March 2026)
 -   📖 Read chapter 152 - 157 of [Marriage Toxin](https://anilist.co/manga/147329) (18:49 24 March 2026)
--   📖 Plans to read [Tensei Streamer](https://anilist.co/manga/203593) (07:27 23 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
