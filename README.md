@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Witch of Mine](https://anilist.co/manga/100470) (04:11 26 March 2026)
+-   📖 Read chapter 1 - 24 of [Witch of Mine](https://anilist.co/manga/100470) (05:34 26 March 2026)
+-   📖 Read chapter 1 - 22 of [Witch of Mine](https://anilist.co/manga/100470) (05:29 26 March 2026)
+-   📖 Read chapter 1 - 20 of [Witch of Mine](https://anilist.co/manga/100470) (05:24 26 March 2026)
+-   📖 Read chapter 1 - 19 of [Witch of Mine](https://anilist.co/manga/100470) (05:21 26 March 2026)
 -   📖 Read chapter 305 of [Omniscient Reader](https://anilist.co/manga/119257) (03:58 25 March 2026)
--   📖 Read chapter 63 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (00:01 25 March 2026)
--   📖 Read chapter 115 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (22:49 24 March 2026)
--   📖 Read chapter 125 - 126 of [Helmut](https://anilist.co/manga/154782) (19:43 24 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
