@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 203 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:12 27 March 2026)
+-   📖 Read chapter 62 - 63 of [Regression of the Third Prince](https://anilist.co/manga/194672) (08:08 27 March 2026)
+-   📖 Read chapter 82 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (08:04 27 March 2026)
+-   📖 Read chapter 27 - 28 of [The Patron of Villains](https://anilist.co/manga/201009) (08:00 27 March 2026)
 -   📖 Read chapter 1 - 24 of [Witch of Mine](https://anilist.co/manga/100470) (05:34 26 March 2026)
--   📖 Read chapter 1 - 22 of [Witch of Mine](https://anilist.co/manga/100470) (05:29 26 March 2026)
--   📖 Read chapter 1 - 20 of [Witch of Mine](https://anilist.co/manga/100470) (05:24 26 March 2026)
--   📖 Read chapter 1 - 19 of [Witch of Mine](https://anilist.co/manga/100470) (05:21 26 March 2026)
--   📖 Read chapter 305 of [Omniscient Reader](https://anilist.co/manga/119257) (03:58 25 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
