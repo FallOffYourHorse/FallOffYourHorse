@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 12 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (22:54 27 March 2026)
 -   📖 Plans to read [Raidorl Seiken Senki](https://anilist.co/manga/160053) (22:21 27 March 2026)
 -   📖 Plans to read [All STR Sorcerer](https://anilist.co/manga/176318) (18:52 27 March 2026)
 -   📖 Read chapter 203 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:12 27 March 2026)
 -   📖 Read chapter 62 - 63 of [Regression of the Third Prince](https://anilist.co/manga/194672) (08:08 27 March 2026)
--   📖 Read chapter 82 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (08:04 27 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
