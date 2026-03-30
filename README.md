@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 46 of [Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu  ](https://anilist.co/manga/122663) (02:17 30 March 2026)
 -   📖 Read chapter 103 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (05:02 29 March 2026)
 -   📖 Read chapter 71 - 72 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (04:59 29 March 2026)
 -   📖 Plans to read [Don't Blush, Sekime-san!](https://anilist.co/manga/127778) (04:38 29 March 2026)
 -   📖 Read chapter 1 - 12 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (22:54 27 March 2026)
--   📖 Plans to read [Raidorl Seiken Senki](https://anilist.co/manga/160053) (22:21 27 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
