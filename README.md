@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Sword Art Online Unital Ring](https://anilist.co/manga/164247) (06:36 31 March 2026)
 -   📖 Read chapter 8 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (05:56 31 March 2026)
 -   📖 Plans to read [Beauty and the Feast](https://anilist.co/manga/98140) (15:04 30 March 2026)
 -   📖 Completed [The Esper's Game](https://anilist.co/manga/150744) (06:44 30 March 2026)
 -   📖 Read chapter 150 of [The Esper's Game](https://anilist.co/manga/150744) (06:39 30 March 2026)
--   📖 Read chapter 46 of [Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu  ](https://anilist.co/manga/122663) (02:17 30 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
