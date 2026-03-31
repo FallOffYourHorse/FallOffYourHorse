@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Beauty and the Feast](https://anilist.co/manga/98140) (15:04 30 March 2026)
 -   📖 Completed [The Esper's Game](https://anilist.co/manga/150744) (06:44 30 March 2026)
 -   📖 Read chapter 150 of [The Esper's Game](https://anilist.co/manga/150744) (06:39 30 March 2026)
 -   📖 Read chapter 46 of [Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu  ](https://anilist.co/manga/122663) (02:17 30 March 2026)
 -   📖 Read chapter 103 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (05:02 29 March 2026)
--   📖 Read chapter 71 - 72 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (04:59 29 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
