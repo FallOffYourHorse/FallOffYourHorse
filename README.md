@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (01:45 01 April 2026)
+-   📖 Read chapter 15 - 17 of [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (01:41 01 April 2026)
+-   📖 Read chapter 29 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (23:33 31 March 2026)
 -   📖 Read chapter 162 of [The Infinite Mage](https://anilist.co/manga/159930) (22:20 31 March 2026)
 -   📖 Read chapter 31 of [Ore ni Trauma wo Ataeta Joshitachi ga Chirachira Mite Kuru kedo, Zannen desu ga Teokure desu](https://anilist.co/manga/165241) (10:57 31 March 2026)
--   📖 Plans to read [Sword Art Online Unital Ring](https://anilist.co/manga/164247) (06:36 31 March 2026)
--   📖 Read chapter 8 of [Tsuihou sareta Renkinjutsushi, Adult Goods de Sekai wo Sukuu: Donna Monster mo Zettai ni Ikaseru Otoko](https://anilist.co/manga/187581) (05:56 31 March 2026)
--   📖 Plans to read [Beauty and the Feast](https://anilist.co/manga/98140) (15:04 30 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
