@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 204 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (21:48 03 April 2026)
 -   📖 Read chapter 119 - 120 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (20:36 02 April 2026)
 -   📖 Read chapter 92 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (20:29 02 April 2026)
 -   📖 Read chapter 36 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:28 02 April 2026)
 -   📖 Read chapter 195 of [Pick Me Up](https://anilist.co/manga/159441) (03:20 02 April 2026)
--   📖 Read chapter 23 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (02:10 01 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
