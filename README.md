@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 83 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:07 04 April 2026)
--   📖 Read chapter 204 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (21:48 03 April 2026)
--   📖 Read chapter 119 - 120 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (20:36 02 April 2026)
--   📖 Read chapter 92 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (20:29 02 April 2026)
--   📖 Read chapter 36 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:28 02 April 2026)
+-   📖 Read chapter 118 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:25 04 April 2026)
+-   📖 Read chapter 57 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (07:24 04 April 2026)
+-   📖 Read chapter 136 of [Returned by the King](https://anilist.co/manga/170724) (07:21 04 April 2026)
+-   📖 Read chapter 29 of [The Patron of Villains](https://anilist.co/manga/201009) (07:16 04 April 2026)
+-   📖 Read chapter 73 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:12 04 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
