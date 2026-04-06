@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 156 - 157 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:55 06 April 2026)
+-   📖 Read chapter 163 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:48 06 April 2026)
 -   📖 Read chapter 104 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (02:49 05 April 2026)
 -   📖 Read chapter 24 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (02:45 05 April 2026)
 -   📖 Read chapter 100 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (02:39 05 April 2026)
--   📖 Read chapter 118 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:25 04 April 2026)
--   📖 Read chapter 57 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (07:24 04 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
