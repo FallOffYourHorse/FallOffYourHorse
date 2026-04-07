@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (04:25 07 April 2026)
+-   📖 Read chapter 1 - 38 of [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (05:09 07 April 2026)
 -   📖 Read chapter 1 - 16 of [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (04:17 07 April 2026)
 -   📖 Read chapter 130 - 175 of [The Art of Reincarnation](https://anilist.co/manga/153880) (03:27 07 April 2026)
 -   📖 Read chapter 130 - 162 of [The Art of Reincarnation](https://anilist.co/manga/153880) (02:58 07 April 2026)
