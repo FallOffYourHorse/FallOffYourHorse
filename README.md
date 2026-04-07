@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 of [Hero X Demon Empress](https://anilist.co/manga/170093) (01:01 07 April 2026)
--   📖 Plans to read [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (09:51 06 April 2026)
--   📖 Read chapter 156 - 157 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:55 06 April 2026)
--   📖 Read chapter 163 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:48 06 April 2026)
--   📖 Read chapter 104 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (02:49 05 April 2026)
+-   📖 Read chapter 1 - 20 of [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (04:25 07 April 2026)
+-   📖 Read chapter 1 - 16 of [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (04:17 07 April 2026)
+-   📖 Read chapter 130 - 175 of [The Art of Reincarnation](https://anilist.co/manga/153880) (03:27 07 April 2026)
+-   📖 Read chapter 130 - 162 of [The Art of Reincarnation](https://anilist.co/manga/153880) (02:58 07 April 2026)
+-   📖 Read chapter 130 - 148 of [The Art of Reincarnation](https://anilist.co/manga/153880) (02:25 07 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
