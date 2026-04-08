@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (16:49 08 April 2026)
+-   📖 Read chapter 5 - 6 of [I Can Go Adventuring by Myself, Mom!: The Son Raised by the Strongest Overprotective Dragon-Mom](https://anilist.co/manga/109673) (17:50 08 April 2026)
+-   📖 Read chapter 1 - 8 of [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (17:09 08 April 2026)
 -   📖 Plans to read [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (16:45 08 April 2026)
 -   📖 Read chapter 1 - 57 of [Taimashi to Akuma-chan](https://anilist.co/manga/102216) (14:56 08 April 2026)
 -   📖 Read chapter 18 of [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (13:45 08 April 2026)
--   📖 Read chapter 127 - 128 of [Helmut](https://anilist.co/manga/154782) (13:41 08 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
