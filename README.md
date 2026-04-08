@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 38 of [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (05:09 07 April 2026)
--   📖 Read chapter 1 - 16 of [Jinmyaku Cheat de Hajimeru Hitomakase Eiyuu-tan](https://anilist.co/manga/143546) (04:17 07 April 2026)
--   📖 Read chapter 130 - 175 of [The Art of Reincarnation](https://anilist.co/manga/153880) (03:27 07 April 2026)
--   📖 Read chapter 130 - 162 of [The Art of Reincarnation](https://anilist.co/manga/153880) (02:58 07 April 2026)
--   📖 Read chapter 130 - 148 of [The Art of Reincarnation](https://anilist.co/manga/153880) (02:25 07 April 2026)
+-   📖 Read chapter 1 - 57 of [Taimashi to Akuma-chan](https://anilist.co/manga/102216) (14:56 08 April 2026)
+-   📖 Read chapter 18 of [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (13:45 08 April 2026)
+-   📖 Read chapter 127 - 128 of [Helmut](https://anilist.co/manga/154782) (13:41 08 April 2026)
+-   📖 Read chapter 117 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (13:24 08 April 2026)
+-   📖 Read chapter 65 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (13:21 08 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
