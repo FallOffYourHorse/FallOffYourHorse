@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 107 - 111 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (21:43 09 April 2026)
+-   📖 Read chapter 107 - 122 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (04:37 10 April 2026)
 -   📖 Read chapter 107 - 111 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (21:43 09 April 2026)
 -   📖 Read chapter 107 - 110 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (21:35 09 April 2026)
 -   📺 Watched episode 1 - 3 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (23:09 08 April 2026)
