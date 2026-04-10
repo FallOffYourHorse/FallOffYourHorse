@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Albus Changes the World](https://anilist.co/manga/180511) (23:24 10 April 2026)
+-   📖 Plans to read [Albus Changes the World](https://anilist.co/manga/180511) (23:17 10 April 2026)
 -   📖 Read chapter 8 of [Bouryoku Banzai](https://anilist.co/manga/187347) (11:50 10 April 2026)
 -   📖 Read chapter 74 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:25 10 April 2026)
 -   📖 Read chapter 30 of [The Patron of Villains](https://anilist.co/manga/201009) (07:20 10 April 2026)
--   📖 Read chapter 25 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (07:15 10 April 2026)
--   📖 Read chapter 107 - 139 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (07:05 10 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
