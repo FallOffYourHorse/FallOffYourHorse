@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 50 of [Albus Changes the World](https://anilist.co/manga/180511) (01:21 11 April 2026)
+-   📖 Read chapter 64 - 65 of [Regression of the Third Prince](https://anilist.co/manga/194672) (02:42 11 April 2026)
+-   📖 Read chapter 1 - 84 of [Albus Changes the World](https://anilist.co/manga/180511) (02:34 11 April 2026)
 -   📺 Watched episode 4 - 6 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (00:39 11 April 2026)
 -   📖 Plans to read [Albus Changes the World](https://anilist.co/manga/180511) (23:17 10 April 2026)
 -   📖 Read chapter 8 of [Bouryoku Banzai](https://anilist.co/manga/187347) (11:50 10 April 2026)
--   📖 Read chapter 74 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:25 10 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
