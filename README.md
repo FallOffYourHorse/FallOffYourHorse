@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (22:46 11 April 2026)
+-   📖 Read chapter 126 - 127 of [A Flame Reborn](https://anilist.co/manga/173233) (22:36 11 April 2026)
 -   📖 Read chapter 1 of [Ars Goetia: Munou to Yobareta Shounen wa, 72 no Akuma wo Shieki Shite Musou Suru](https://anilist.co/manga/174989) (17:13 11 April 2026)
 -   📖 Plans to read [Ars Goetia: Munou to Yobareta Shounen wa, 72 no Akuma wo Shieki Shite Musou Suru](https://anilist.co/manga/174989) (17:09 11 April 2026)
 -   📖 Read chapter 51 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:27 11 April 2026)
--   📖 Read chapter 64 - 65 of [Regression of the Third Prince](https://anilist.co/manga/194672) (02:42 11 April 2026)
--   📖 Read chapter 1 - 84 of [Albus Changes the World](https://anilist.co/manga/180511) (02:34 11 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
