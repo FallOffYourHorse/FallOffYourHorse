@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (00:39 12 April 2026)
+-   📖 Read chapter 67 - 71 of [Dark Summoner to Dekiteiru](https://anilist.co/manga/157391) (00:33 12 April 2026)
+-   📖 Read chapter 24 - 25 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (00:23 12 April 2026)
+-   📖 Read chapter 114 of [The Player Hides His Past](https://anilist.co/manga/166154) (00:16 12 April 2026)
 -   📖 Read chapter 43 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (22:46 11 April 2026)
--   📖 Read chapter 126 - 127 of [A Flame Reborn](https://anilist.co/manga/173233) (22:36 11 April 2026)
--   📖 Read chapter 1 of [Ars Goetia: Munou to Yobareta Shounen wa, 72 no Akuma wo Shieki Shite Musou Suru](https://anilist.co/manga/174989) (17:13 11 April 2026)
--   📖 Plans to read [Ars Goetia: Munou to Yobareta Shounen wa, 72 no Akuma wo Shieki Shite Musou Suru](https://anilist.co/manga/174989) (17:09 11 April 2026)
--   📖 Read chapter 51 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:27 11 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
