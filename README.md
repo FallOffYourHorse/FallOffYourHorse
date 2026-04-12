@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 115 of [The Player Hides His Past](https://anilist.co/manga/166154) (17:24 12 April 2026)
+-   📖 Read chapter 115 - 116 of [The Player Hides His Past](https://anilist.co/manga/166154) (17:28 12 April 2026)
 -   📖 Read chapter 83 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (06:40 12 April 2026)
 -   📖 Read chapter 24 - 26 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (01:51 12 April 2026)
 -   📺 Watched episode 7 - 8 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (00:39 12 April 2026)
