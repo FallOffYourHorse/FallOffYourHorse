@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [Superhuman Streamer](https://anilist.co/manga/202499) (05:15 13 April 2026)
+-   📖 Read chapter 123 of [Killer Peter](https://anilist.co/manga/170688) (05:09 13 April 2026)
 -   📖 Read chapter 158 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:28 13 April 2026)
 -   📖 Read chapter 128 of [A Flame Reborn](https://anilist.co/manga/173233) (00:25 13 April 2026)
 -   📺 Watched episode 9 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (00:25 13 April 2026)
--   📖 Read chapter 115 - 116 of [The Player Hides His Past](https://anilist.co/manga/166154) (17:28 12 April 2026)
--   📖 Read chapter 83 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (06:40 12 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
