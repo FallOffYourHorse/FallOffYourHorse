@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [3000-nen Fuuin Sareshi Jaryuu-chan to Tomodachi ni Narimashita](https://anilist.co/manga/196557) (04:17 14 April 2026)
+-   📖 Read chapter 105 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (02:54 14 April 2026)
+-   📖 Read chapter 151 - 153 of [The Novel's Extra](https://anilist.co/manga/152128) (02:47 14 April 2026)
+-   📖 Read chapter 44 - 45 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (02:19 14 April 2026)
 -   📖 Read chapter 32 of [Superhuman Streamer](https://anilist.co/manga/202499) (05:15 13 April 2026)
--   📖 Read chapter 123 of [Killer Peter](https://anilist.co/manga/170688) (05:09 13 April 2026)
--   📖 Read chapter 158 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:28 13 April 2026)
--   📖 Read chapter 128 of [A Flame Reborn](https://anilist.co/manga/173233) (00:25 13 April 2026)
--   📺 Watched episode 9 of [The Detective Is Already Dead](https://anilist.co/anime/128712) (00:25 13 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
