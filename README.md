@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [3000-nen Fuuin Sareshi Jaryuu-chan to Tomodachi ni Narimashita](https://anilist.co/manga/196557) (04:17 14 April 2026)
--   📖 Read chapter 105 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (02:54 14 April 2026)
--   📖 Read chapter 151 - 153 of [The Novel's Extra](https://anilist.co/manga/152128) (02:47 14 April 2026)
--   📖 Read chapter 44 - 45 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (02:19 14 April 2026)
--   📖 Read chapter 32 of [Superhuman Streamer](https://anilist.co/manga/202499) (05:15 13 April 2026)
+-   📖 Read chapter 159 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:24 15 April 2026)
+-   📖 Read chapter 31 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (05:17 15 April 2026)
+-   📖 Read chapter 19 of [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (05:14 15 April 2026)
+-   📖 Read chapter 176 of [The Art of Reincarnation](https://anilist.co/manga/153880) (05:11 15 April 2026)
+-   📖 Read chapter 93 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:08 15 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
