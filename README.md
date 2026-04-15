@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 125 - 128 of [Reincarnator](https://anilist.co/manga/172583) (14:37 15 April 2026)
+-   📖 Read chapter 137 of [Returned by the King](https://anilist.co/manga/170724) (14:25 15 April 2026)
 -   📖 Read chapter 159 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:24 15 April 2026)
 -   📖 Read chapter 31 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (05:17 15 April 2026)
 -   📖 Read chapter 19 of [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (05:14 15 April 2026)
--   📖 Read chapter 176 of [The Art of Reincarnation](https://anilist.co/manga/153880) (05:11 15 April 2026)
--   📖 Read chapter 93 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:08 15 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
