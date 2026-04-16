@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (21:23 16 April 2026)
 -   📖 Read chapter 38 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (20:51 16 April 2026)
 -   📖 Read chapter 307 of [Omniscient Reader](https://anilist.co/manga/119257) (20:44 16 April 2026)
 -   📖 Read chapter 66 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (19:46 16 April 2026)
 -   📖 Read chapter 75 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (19:38 16 April 2026)
--   📖 Read chapter 163 of [The Infinite Mage](https://anilist.co/manga/159930) (02:51 16 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
