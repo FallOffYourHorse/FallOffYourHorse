@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 163 of [The Infinite Mage](https://anilist.co/manga/159930) (02:51 16 April 2026)
 -   📖 Read chapter 118 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (22:02 15 April 2026)
 -   📖 Read chapter 197 of [Pick Me Up](https://anilist.co/manga/159441) (21:59 15 April 2026)
 -   📖 Read chapter 124 of [Killer Peter](https://anilist.co/manga/170688) (20:42 15 April 2026)
 -   📖 Read chapter 125 - 128 of [Reincarnator](https://anilist.co/manga/172583) (14:37 15 April 2026)
--   📖 Read chapter 137 of [Returned by the King](https://anilist.co/manga/170724) (14:25 15 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
