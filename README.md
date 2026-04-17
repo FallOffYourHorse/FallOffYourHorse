@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:04 17 April 2026)
 -   📖 Read chapter 101 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (07:29 17 April 2026)
 -   📖 Read chapter 66 of [Regression of the Third Prince](https://anilist.co/manga/194672) (07:25 17 April 2026)
 -   📖 Read chapter 119 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:18 17 April 2026)
 -   📖 Read chapter 84 - 85 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (07:12 17 April 2026)
--   📖 Read chapter 31 of [The Patron of Villains](https://anilist.co/manga/201009) (07:04 17 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
