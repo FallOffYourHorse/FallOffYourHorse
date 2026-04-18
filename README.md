@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 121 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (21:56 18 April 2026)
+-   📖 Read chapter 84 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (21:52 18 April 2026)
+-   📖 Read chapter 52 of [The Villain's Survival Route](https://anilist.co/manga/187427) (21:49 18 April 2026)
+-   📖 Read chapter 26 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (21:46 18 April 2026)
 -   📖 Read chapter 102 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:04 17 April 2026)
--   📖 Read chapter 101 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (07:29 17 April 2026)
--   📖 Read chapter 66 of [Regression of the Third Prince](https://anilist.co/manga/194672) (07:25 17 April 2026)
--   📖 Read chapter 119 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:18 17 April 2026)
--   📖 Read chapter 84 - 85 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (07:12 17 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
