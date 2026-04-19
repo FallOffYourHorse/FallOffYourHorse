@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 129 of [Reincarnator](https://anilist.co/manga/172583) (06:48 19 April 2026)
+-   📖 Read chapter 20 - 21 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:43 19 April 2026)
+-   📖 Read chapter 27 - 28 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:39 19 April 2026)
+-   📖 Read chapter 27 - 28 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:39 19 April 2026)
 -   📖 Read chapter 44 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (06:23 19 April 2026)
--   📖 Read chapter 1 - 2 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (00:50 19 April 2026)
--   📖 Read chapter 121 - 122 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:45 19 April 2026)
--   📖 Read chapter 84 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (21:52 18 April 2026)
--   📖 Read chapter 52 of [The Villain's Survival Route](https://anilist.co/manga/187427) (21:49 18 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
