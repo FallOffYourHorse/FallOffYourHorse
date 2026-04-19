@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 121 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (21:56 18 April 2026)
+-   📖 Read chapter 1 - 2 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (00:50 19 April 2026)
+-   📖 Read chapter 121 - 122 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:45 19 April 2026)
 -   📖 Read chapter 84 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (21:52 18 April 2026)
 -   📖 Read chapter 52 of [The Villain's Survival Route](https://anilist.co/manga/187427) (21:49 18 April 2026)
 -   📖 Read chapter 26 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (21:46 18 April 2026)
--   📖 Read chapter 102 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:04 17 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
