@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 22 - 33 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (01:40 20 April 2026)
+-   📖 Read chapter 22 - 26 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (01:20 20 April 2026)
 -   📖 Read chapter 160 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (19:29 19 April 2026)
 -   📖 Read chapter 129 of [Reincarnator](https://anilist.co/manga/172583) (06:48 19 April 2026)
 -   📖 Read chapter 20 - 21 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:43 19 April 2026)
--   📖 Read chapter 27 - 28 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:39 19 April 2026)
--   📖 Read chapter 27 - 28 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:39 19 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
