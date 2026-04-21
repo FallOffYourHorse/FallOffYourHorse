@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 117 of [The Player Hides His Past](https://anilist.co/manga/166154) (18:33 21 April 2026)
 -   📖 Plans to read [A Stepmother’s Märchen](https://anilist.co/manga/111075) (08:28 21 April 2026)
 -   📖 Plans to read [Byeongyeongbaegui 10 Class Mangnani](https://anilist.co/manga/211153) (02:11 21 April 2026)
 -   📖 Read chapter 125 of [Killer Peter](https://anilist.co/manga/170688) (02:08 21 April 2026)
 -   📖 Read chapter 106 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (02:01 21 April 2026)
--   📖 Read chapter 154 of [The Novel's Extra](https://anilist.co/manga/152128) (23:40 20 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
