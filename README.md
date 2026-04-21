@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Byeongyeongbaegui 10 Class Mangnani](https://anilist.co/manga/211153) (02:11 21 April 2026)
+-   📖 Read chapter 125 of [Killer Peter](https://anilist.co/manga/170688) (02:08 21 April 2026)
+-   📖 Read chapter 106 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (02:01 21 April 2026)
 -   📖 Read chapter 154 of [The Novel's Extra](https://anilist.co/manga/152128) (23:40 20 April 2026)
 -   📖 Read chapter 94 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (23:37 20 April 2026)
--   📖 Read chapter 159 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:26 20 April 2026)
--   📖 Read chapter 22 - 63 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (04:19 20 April 2026)
--   📖 Read chapter 22 - 26 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (01:20 20 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
