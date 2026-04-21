@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 154 of [The Novel's Extra](https://anilist.co/manga/152128) (23:40 20 April 2026)
+-   📖 Read chapter 94 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (23:37 20 April 2026)
 -   📖 Read chapter 159 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:26 20 April 2026)
 -   📖 Read chapter 22 - 63 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (04:19 20 April 2026)
 -   📖 Read chapter 22 - 26 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (01:20 20 April 2026)
--   📖 Read chapter 160 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (19:29 19 April 2026)
--   📖 Read chapter 129 of [Reincarnator](https://anilist.co/manga/172583) (06:48 19 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
