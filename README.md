@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 164 - 165 of [The Infinite Mage](https://anilist.co/manga/159930) (02:11 22 April 2026)
--   📖 Read chapter 117 of [The Player Hides His Past](https://anilist.co/manga/166154) (18:33 21 April 2026)
--   📖 Plans to read [A Stepmother’s Märchen](https://anilist.co/manga/111075) (08:28 21 April 2026)
--   📖 Plans to read [Byeongyeongbaegui 10 Class Mangnani](https://anilist.co/manga/211153) (02:11 21 April 2026)
--   📖 Read chapter 125 of [Killer Peter](https://anilist.co/manga/170688) (02:08 21 April 2026)
+-   📖 Read chapter 129 of [Helmut](https://anilist.co/manga/154782) (07:24 22 April 2026)
+-   📖 Read chapter 67 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (07:22 22 April 2026)
+-   📖 Read chapter 119 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (07:18 22 April 2026)
+-   📖 Read chapter 32 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (07:13 22 April 2026)
+-   📖 Read chapter 142 - 144 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (07:10 22 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
