@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 198 of [Pick Me Up](https://anilist.co/manga/159441) (02:07 23 April 2026)
 -   📖 Read chapter 1 - 11 of ["Shiryoujutsushi nado Kegarawashii" to Shokei sareta node, Mazoku ni Tenshin Itashimasu](https://anilist.co/manga/181070) (18:49 22 April 2026)
 -   📖 Plans to read ["Shiryoujutsushi nado Kegarawashii" to Shokei sareta node, Mazoku ni Tenshin Itashimasu](https://anilist.co/manga/181070) (18:19 22 April 2026)
 -   📖 Read chapter 158 - 161 of [Marriage Toxin](https://anilist.co/manga/147329) (15:16 22 April 2026)
 -   📖 Read chapter 308 of [Omniscient Reader](https://anilist.co/manga/119257) (13:33 22 April 2026)
--   📖 Read chapter 33 of [Superhuman Streamer](https://anilist.co/manga/202499) (13:30 22 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
