@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 123 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (17:40 25 April 2026)
 -   📖 Read chapter 67 of [Regression of the Third Prince](https://anilist.co/manga/194672) (10:10 25 April 2026)
 -   📖 Read chapter 86 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:04 24 April 2026)
 -   📖 Read chapter 198 of [Pick Me Up](https://anilist.co/manga/159441) (02:07 23 April 2026)
 -   📖 Read chapter 1 - 11 of ["Shiryoujutsushi nado Kegarawashii" to Shokei sareta node, Mazoku ni Tenshin Itashimasu](https://anilist.co/manga/181070) (18:49 22 April 2026)
--   📖 Plans to read ["Shiryoujutsushi nado Kegarawashii" to Shokei sareta node, Mazoku ni Tenshin Itashimasu](https://anilist.co/manga/181070) (18:19 22 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
