@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (07:13 26 April 2026)
+-   📖 Read chapter 27 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (07:09 26 April 2026)
+-   📖 Read chapter 32 of [The Patron of Villains](https://anilist.co/manga/201009) (07:04 26 April 2026)
 -   📖 Read chapter 118 of [The Player Hides His Past](https://anilist.co/manga/166154) (22:28 25 April 2026)
 -   📖 Read chapter 123 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (17:40 25 April 2026)
--   📖 Read chapter 67 of [Regression of the Third Prince](https://anilist.co/manga/194672) (10:10 25 April 2026)
--   📖 Read chapter 86 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:04 24 April 2026)
--   📖 Read chapter 198 of [Pick Me Up](https://anilist.co/manga/159441) (02:07 23 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
