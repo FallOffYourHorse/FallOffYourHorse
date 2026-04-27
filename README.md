@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (19:21 27 April 2026)
+-   📖 Read chapter 160 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:17 27 April 2026)
 -   📖 Read chapter 45 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (07:13 26 April 2026)
 -   📖 Read chapter 27 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (07:09 26 April 2026)
 -   📖 Read chapter 32 of [The Patron of Villains](https://anilist.co/manga/201009) (07:04 26 April 2026)
--   📖 Read chapter 118 of [The Player Hides His Past](https://anilist.co/manga/166154) (22:28 25 April 2026)
--   📖 Read chapter 123 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (17:40 25 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
