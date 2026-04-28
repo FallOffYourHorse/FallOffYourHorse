@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 145 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:58 28 April 2026)
 -   📖 Read chapter 155 of [The Novel's Extra](https://anilist.co/manga/152128) (05:37 28 April 2026)
 -   📖 Read chapter 32 - 34 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (22:19 27 April 2026)
 -   📖 Read chapter 103 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (19:46 27 April 2026)
 -   📖 Read chapter 107 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (19:21 27 April 2026)
--   📖 Read chapter 160 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:17 27 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
