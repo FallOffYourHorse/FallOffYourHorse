@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 - 40 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:45 30 April 2026)
+-   📖 Read chapter 82 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (03:37 30 April 2026)
+-   📖 Read chapter 22 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:35 30 April 2026)
 -   📖 Read chapter 146 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (10:12 29 April 2026)
 -   📖 Read chapter 166 of [The Infinite Mage](https://anilist.co/manga/159930) (10:08 29 April 2026)
--   📖 Read chapter 145 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:58 28 April 2026)
--   📖 Read chapter 155 of [The Novel's Extra](https://anilist.co/manga/152128) (05:37 28 April 2026)
--   📖 Read chapter 32 - 34 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (22:19 27 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
