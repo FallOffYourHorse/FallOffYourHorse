@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 130 of [A Flame Reborn](https://anilist.co/manga/173233) (05:17 01 May 2026)
+-   📖 Read chapter 138 - 139 of [Returned by the King](https://anilist.co/manga/170724) (05:12 01 May 2026)
+-   📖 Read chapter 126 - 127 of [Killer Peter](https://anilist.co/manga/170688) (04:06 01 May 2026)
+-   📖 Read chapter 34 of [Superhuman Streamer](https://anilist.co/manga/202499) (03:51 01 May 2026)
 -   📖 Read chapter 68 - 69 of [Ending Maker](https://anilist.co/manga/150170) (23:22 30 April 2026)
--   📖 Read chapter 120 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (23:05 30 April 2026)
--   📖 Read chapter 199 of [Pick Me Up](https://anilist.co/manga/159441) (12:50 30 April 2026)
--   📖 Read chapter 39 - 40 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (03:45 30 April 2026)
--   📖 Read chapter 82 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (03:37 30 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
