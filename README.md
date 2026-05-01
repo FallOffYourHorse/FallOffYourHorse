@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Bultan Samagui Moraesulsa](https://anilist.co/manga/211365) (10:17 01 May 2026)
 -   📖 Read chapter 130 of [A Flame Reborn](https://anilist.co/manga/173233) (05:17 01 May 2026)
 -   📖 Read chapter 138 - 139 of [Returned by the King](https://anilist.co/manga/170724) (05:12 01 May 2026)
 -   📖 Read chapter 126 - 127 of [Killer Peter](https://anilist.co/manga/170688) (04:06 01 May 2026)
 -   📖 Read chapter 34 of [Superhuman Streamer](https://anilist.co/manga/202499) (03:51 01 May 2026)
--   📖 Read chapter 68 - 69 of [Ending Maker](https://anilist.co/manga/150170) (23:22 30 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
