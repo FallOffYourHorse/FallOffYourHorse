@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 68 of [Regression of the Third Prince](https://anilist.co/manga/194672) (10:23 03 May 2026)
+-   📖 Read chapter 68 of [Regression of the Third Prince](https://anilist.co/manga/194672) (10:23 03 May 2026)
 -   📖 Read chapter 124 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:11 02 May 2026)
 -   📖 Plans to read [Bultan Samagui Moraesulsa](https://anilist.co/manga/211365) (10:17 01 May 2026)
 -   📖 Read chapter 130 of [A Flame Reborn](https://anilist.co/manga/173233) (05:17 01 May 2026)
--   📖 Read chapter 138 - 139 of [Returned by the King](https://anilist.co/manga/170724) (05:12 01 May 2026)
--   📖 Read chapter 126 - 127 of [Killer Peter](https://anilist.co/manga/170688) (04:06 01 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
