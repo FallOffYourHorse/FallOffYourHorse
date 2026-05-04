@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 of [Regression of the Third Prince](https://anilist.co/manga/194672) (10:23 03 May 2026)
--   📖 Read chapter 68 of [Regression of the Third Prince](https://anilist.co/manga/194672) (10:23 03 May 2026)
--   📖 Read chapter 124 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:11 02 May 2026)
--   📖 Plans to read [Bultan Samagui Moraesulsa](https://anilist.co/manga/211365) (10:17 01 May 2026)
--   📖 Read chapter 130 of [A Flame Reborn](https://anilist.co/manga/173233) (05:17 01 May 2026)
+-   📖 Read chapter 130 of [Helmut](https://anilist.co/manga/154782) (01:25 04 May 2026)
+-   📖 Read chapter 23 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (01:23 04 May 2026)
+-   📖 Read chapter 120 - 121 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:19 04 May 2026)
+-   📖 Read chapter 161 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:08 04 May 2026)
+-   📖 Read chapter 161 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:08 04 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
