@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 130 of [Helmut](https://anilist.co/manga/154782) (01:25 04 May 2026)
+-   📖 Read chapter 164 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:51 04 May 2026)
+-   📖 Read chapter 130 - 131 of [Helmut](https://anilist.co/manga/154782) (04:47 04 May 2026)
 -   📖 Read chapter 23 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (01:23 04 May 2026)
 -   📖 Read chapter 120 - 121 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:19 04 May 2026)
--   📖 Read chapter 161 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:08 04 May 2026)
 -   📖 Read chapter 161 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:08 04 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
