@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 164 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:51 04 May 2026)
--   📖 Read chapter 130 - 131 of [Helmut](https://anilist.co/manga/154782) (04:47 04 May 2026)
--   📖 Read chapter 23 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (01:23 04 May 2026)
--   📖 Read chapter 120 - 121 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:19 04 May 2026)
--   📖 Read chapter 161 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:08 04 May 2026)
+-   📖 Plans to read [Ichyeojin Deulpan](https://anilist.co/manga/211558) (00:39 05 May 2026)
+-   📖 Read chapter 156 of [The Novel's Extra](https://anilist.co/manga/152128) (00:38 05 May 2026)
+-   📖 Read chapter 95 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (00:35 05 May 2026)
+-   📖 Read chapter 26 - 27 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (00:30 05 May 2026)
+-   📖 Read chapter 108 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (00:19 05 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
