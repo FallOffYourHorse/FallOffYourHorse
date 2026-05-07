@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 177 - 179 of [The Art of Reincarnation](https://anilist.co/manga/153880) (03:15 07 May 2026)
--   📖 Read chapter 76 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (02:48 07 May 2026)
--   📖 Read chapter 47 - 48 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (02:39 07 May 2026)
--   📖 Read chapter 200 of [Pick Me Up](https://anilist.co/manga/159441) (02:26 07 May 2026)
--   📖 Read chapter 67 of [The Reincarnated King of Fists](https://anilist.co/manga/176812) (07:30 05 May 2026)
+-   📖 Read chapter 48 of [Cheat Skill "Shisha Sosei" ga Kakusei Shite, Inishie no Maougun wo Fukkatsu Sasete Shimaimashita: Daremo Shinasenai Saikyou Healer](https://anilist.co/manga/119268) (13:03 07 May 2026)
+-   📖 Read chapter 121 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (12:43 07 May 2026)
+-   📖 Read chapter 232 - 233 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (12:35 07 May 2026)
+-   📖 Read chapter 125 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (12:19 07 May 2026)
+-   📖 Read chapter 68 - 69 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (12:16 07 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
