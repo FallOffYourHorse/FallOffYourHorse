@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 177 - 179 of [The Art of Reincarnation](https://anilist.co/manga/153880) (03:15 07 May 2026)
+-   📖 Read chapter 76 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (02:48 07 May 2026)
+-   📖 Read chapter 47 - 48 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (02:39 07 May 2026)
+-   📖 Read chapter 200 of [Pick Me Up](https://anilist.co/manga/159441) (02:26 07 May 2026)
 -   📖 Read chapter 67 of [The Reincarnated King of Fists](https://anilist.co/manga/176812) (07:30 05 May 2026)
--   📖 Plans to read [Ichyeojin Deulpan](https://anilist.co/manga/211558) (00:39 05 May 2026)
--   📖 Read chapter 156 of [The Novel's Extra](https://anilist.co/manga/152128) (00:38 05 May 2026)
--   📖 Read chapter 95 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (00:35 05 May 2026)
--   📖 Read chapter 26 - 27 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (00:30 05 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
