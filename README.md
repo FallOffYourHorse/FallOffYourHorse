@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 of [Superhuman Streamer](https://anilist.co/manga/202499) (05:19 08 May 2026)
+-   📖 Read chapter 33 - 34 of [The Patron of Villains](https://anilist.co/manga/201009) (05:09 08 May 2026)
+-   📖 Read chapter 28 - 29 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:45 08 May 2026)
+-   📖 Read chapter 69 of [Regression of the Third Prince](https://anilist.co/manga/194672) (04:34 08 May 2026)
 -   📖 Read chapter 48 of [Cheat Skill "Shisha Sosei" ga Kakusei Shite, Inishie no Maougun wo Fukkatsu Sasete Shimaimashita: Daremo Shinasenai Saikyou Healer](https://anilist.co/manga/119268) (13:03 07 May 2026)
--   📖 Read chapter 121 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (12:43 07 May 2026)
--   📖 Read chapter 232 - 233 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (12:35 07 May 2026)
--   📖 Read chapter 125 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (12:19 07 May 2026)
--   📖 Read chapter 68 - 69 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (12:16 07 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
