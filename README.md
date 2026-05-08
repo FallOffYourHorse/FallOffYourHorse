@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 104 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (06:42 08 May 2026)
+-   📖 Read chapter 132 of [Reincarnator](https://anilist.co/manga/172583) (13:37 08 May 2026)
+-   📖 Read chapter 104 - 105 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:32 08 May 2026)
 -   📖 Read chapter 87 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (06:35 08 May 2026)
 -   📖 Read chapter 128 of [Killer Peter](https://anilist.co/manga/170688) (06:31 08 May 2026)
 -   📖 Read chapter 35 of [Superhuman Streamer](https://anilist.co/manga/202499) (05:19 08 May 2026)
--   📖 Read chapter 33 - 34 of [The Patron of Villains](https://anilist.co/manga/201009) (05:09 08 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
