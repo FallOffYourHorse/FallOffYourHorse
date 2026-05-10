@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 171 - 231 of [The World After the Fall](https://anilist.co/manga/144957) (11:17 10 May 2026)
+-   📖 Read chapter 24 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (13:28 10 May 2026)
+-   📖 Read chapter 132 of [Helmut](https://anilist.co/manga/154782) (13:25 10 May 2026)
+-   📖 Read chapter 171 - 233 of [The World After the Fall](https://anilist.co/manga/144957) (13:13 10 May 2026)
 -   📖 Read chapter 119 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:59 10 May 2026)
 -   📖 Read chapter 96 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:50 10 May 2026)
--   📖 Read chapter 165 - 168 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:45 10 May 2026)
--   📖 Read chapter 32 of [Ore ni Trauma wo Ataeta Joshitachi ga Chirachira Mite Kuru kedo, Zannen desu ga Teokure desu](https://anilist.co/manga/165241) (01:51 10 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
