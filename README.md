@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 171 - 174 of [The World After the Fall](https://anilist.co/manga/144957) (07:54 10 May 2026)
+-   📖 Read chapter 119 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:59 10 May 2026)
+-   📖 Read chapter 96 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:50 10 May 2026)
+-   📖 Read chapter 165 - 168 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:45 10 May 2026)
 -   📖 Read chapter 32 of [Ore ni Trauma wo Ataeta Joshitachi ga Chirachira Mite Kuru kedo, Zannen desu ga Teokure desu](https://anilist.co/manga/165241) (01:51 10 May 2026)
--   📖 Read chapter 109 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (01:31 10 May 2026)
--   📖 Read chapter 46 - 47 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (01:27 10 May 2026)
--   📖 Read chapter 131 - 132 of [A Flame Reborn](https://anilist.co/manga/173233) (14:35 09 May 2026)
--   📖 Read chapter 31 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (14:26 09 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
