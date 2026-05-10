@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [Ore ni Trauma wo Ataeta Joshitachi ga Chirachira Mite Kuru kedo, Zannen desu ga Teokure desu](https://anilist.co/manga/165241) (01:51 10 May 2026)
+-   📖 Read chapter 109 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (01:31 10 May 2026)
+-   📖 Read chapter 46 - 47 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (01:27 10 May 2026)
 -   📖 Read chapter 131 - 132 of [A Flame Reborn](https://anilist.co/manga/173233) (14:35 09 May 2026)
 -   📖 Read chapter 31 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (14:26 09 May 2026)
--   📖 Read chapter 88 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:20 09 May 2026)
--   📖 Read chapter 71 - 72 of [Ending Maker](https://anilist.co/manga/150170) (02:15 09 May 2026)
--   📖 Read chapter 57 of [The Executioner](https://anilist.co/manga/176845) (01:59 09 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
