@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 147 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:09 11 May 2026)
--   📖 Read chapter 162 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:04 11 May 2026)
--   📖 Read chapter 161 - 162 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (01:57 11 May 2026)
--   📖 Read chapter 24 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (13:28 10 May 2026)
--   📖 Read chapter 132 of [Helmut](https://anilist.co/manga/154782) (13:25 10 May 2026)
+-   📖 Read chapter 161 - 163 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (04:53 11 May 2026)
+-   📖 Read chapter 83 - 84 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (03:40 11 May 2026)
+-   📖 Read chapter 129 of [Killer Peter](https://anilist.co/manga/170688) (02:33 11 May 2026)
+-   📖 Read chapter 122 - 123 of [I Killed the Main Player](https://anilist.co/manga/173020) (02:20 11 May 2026)
+-   📖 Read chapter 147 - 148 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:12 11 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
