@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 147 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:09 11 May 2026)
+-   📖 Read chapter 162 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:04 11 May 2026)
+-   📖 Read chapter 161 - 162 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (01:57 11 May 2026)
 -   📖 Read chapter 24 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (13:28 10 May 2026)
 -   📖 Read chapter 132 of [Helmut](https://anilist.co/manga/154782) (13:25 10 May 2026)
--   📖 Read chapter 171 - 233 of [The World After the Fall](https://anilist.co/manga/144957) (13:13 10 May 2026)
--   📖 Read chapter 119 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:59 10 May 2026)
--   📖 Read chapter 96 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:50 10 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
