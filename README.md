@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (07:58 12 May 2026)
+-   📖 Read chapter 180 of [The Art of Reincarnation](https://anilist.co/manga/153880) (06:23 12 May 2026)
+-   📖 Read chapter 133 of [A Flame Reborn](https://anilist.co/manga/173233) (06:15 12 May 2026)
 -   📖 Read chapter 79 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:52 12 May 2026)
 -   📖 Read chapter 115 - 116 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (02:50 12 May 2026)
--   📖 Read chapter 142 of [Returned by the King](https://anilist.co/manga/170724) (02:32 12 May 2026)
--   📖 Read chapter 161 - 163 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (04:53 11 May 2026)
--   📖 Read chapter 83 - 84 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (03:40 11 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
