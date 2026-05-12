@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:52 12 May 2026)
+-   📖 Read chapter 115 - 116 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (02:50 12 May 2026)
+-   📖 Read chapter 142 of [Returned by the King](https://anilist.co/manga/170724) (02:32 12 May 2026)
 -   📖 Read chapter 161 - 163 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (04:53 11 May 2026)
 -   📖 Read chapter 83 - 84 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (03:40 11 May 2026)
--   📖 Read chapter 129 of [Killer Peter](https://anilist.co/manga/170688) (02:33 11 May 2026)
--   📖 Read chapter 122 - 123 of [I Killed the Main Player](https://anilist.co/manga/173020) (02:20 11 May 2026)
--   📖 Read chapter 147 - 148 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:12 11 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
