@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (11:53 13 May 2026)
+-   📖 Read chapter 126 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (12:30 13 May 2026)
+-   📖 Read chapter 70 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (12:23 13 May 2026)
+-   📖 Read chapter 309 - 310 of [Omniscient Reader](https://anilist.co/manga/119257) (12:18 13 May 2026)
+-   📖 Read chapter 34 - 35 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (12:12 13 May 2026)
 -   📖 Read chapter 168 of [The Infinite Mage](https://anilist.co/manga/159930) (11:52 13 May 2026)
--   📖 Read chapter 89 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (07:58 12 May 2026)
--   📖 Read chapter 180 of [The Art of Reincarnation](https://anilist.co/manga/153880) (06:23 12 May 2026)
--   📖 Read chapter 133 of [A Flame Reborn](https://anilist.co/manga/173233) (06:15 12 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
