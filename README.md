@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (18:48 13 May 2026)
 -   📖 Plans to read [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (16:40 13 May 2026)
 -   📖 Plans to read [Taidana Akuyaku Kizoku no Ore ni, Konyaku Haki Sareta Akuyaku Reijou ga Totsuidara Saikyou no Fuufu ni Narimashita @COMIC](https://anilist.co/manga/187961) (16:39 13 May 2026)
 -   📖 Plans to read [Nae Choeaeneun Agyeogyeongae: Another Revolution Story](https://anilist.co/manga/168257) (16:38 13 May 2026)
 -   📖 Plans to read [The Villainess Who Came to Marry Into the Frontier Noble's Household Is an Exceptionally Capable Wife, Isn't She?](https://anilist.co/manga/184974) (16:38 13 May 2026)
--   📖 Plans to read [Gushing over Magical Girls](https://anilist.co/manga/109017) (16:38 13 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
