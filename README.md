@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 126 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (12:30 13 May 2026)
--   📖 Read chapter 70 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (12:23 13 May 2026)
--   📖 Read chapter 309 - 310 of [Omniscient Reader](https://anilist.co/manga/119257) (12:18 13 May 2026)
--   📖 Read chapter 34 - 35 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (12:12 13 May 2026)
--   📖 Read chapter 168 of [The Infinite Mage](https://anilist.co/manga/159930) (11:52 13 May 2026)
+-   📖 Plans to read [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (16:40 13 May 2026)
+-   📖 Plans to read [Taidana Akuyaku Kizoku no Ore ni, Konyaku Haki Sareta Akuyaku Reijou ga Totsuidara Saikyou no Fuufu ni Narimashita @COMIC](https://anilist.co/manga/187961) (16:39 13 May 2026)
+-   📖 Plans to read [Nae Choeaeneun Agyeogyeongae: Another Revolution Story](https://anilist.co/manga/168257) (16:38 13 May 2026)
+-   📖 Plans to read [The Villainess Who Came to Marry Into the Frontier Noble's Household Is an Exceptionally Capable Wife, Isn't She?](https://anilist.co/manga/184974) (16:38 13 May 2026)
+-   📖 Plans to read [Gushing over Magical Girls](https://anilist.co/manga/109017) (16:38 13 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
