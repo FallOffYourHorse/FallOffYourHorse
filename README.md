@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 - 76 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (05:37 14 May 2026)
+-   📖 Read chapter 58 of [The Executioner](https://anilist.co/manga/176845) (05:31 14 May 2026)
 -   📖 Read chapter 42 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (01:49 14 May 2026)
 -   📖 Read chapter 201 of [Pick Me Up](https://anilist.co/manga/159441) (01:46 14 May 2026)
 -   📖 Plans to read [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (18:48 13 May 2026)
--   📖 Plans to read [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (16:40 13 May 2026)
--   📖 Plans to read [Taidana Akuyaku Kizoku no Ore ni, Konyaku Haki Sareta Akuyaku Reijou ga Totsuidara Saikyou no Fuufu ni Narimashita @COMIC](https://anilist.co/manga/187961) (16:39 13 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
