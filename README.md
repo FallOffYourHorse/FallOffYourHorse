@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (08:53 14 May 2026)
+-   📖 Read chapter 78 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (08:41 14 May 2026)
+-   📖 Read chapter 28 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (08:35 14 May 2026)
+-   📖 Read chapter 63 - 65 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (06:51 14 May 2026)
 -   📖 Read chapter 74 - 76 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (05:37 14 May 2026)
--   📖 Read chapter 58 of [The Executioner](https://anilist.co/manga/176845) (05:31 14 May 2026)
--   📖 Read chapter 42 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (01:49 14 May 2026)
--   📖 Read chapter 201 of [Pick Me Up](https://anilist.co/manga/159441) (01:46 14 May 2026)
--   📖 Plans to read [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (18:48 13 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
