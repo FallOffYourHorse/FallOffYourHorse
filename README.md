@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 70 of [Regression of the Third Prince](https://anilist.co/manga/194672) (11:34 15 May 2026)
+-   📖 Read chapter 57 - 59 of [Jack-of-All-Trades, Party of None](https://anilist.co/manga/146878) (11:23 15 May 2026)
+-   📖 Read chapter 124 - 125 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (10:43 15 May 2026)
 -   📖 Read chapter 35 - 36 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (06:26 15 May 2026)
 -   📖 Read chapter 106 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (06:13 15 May 2026)
--   📖 Read chapter 132 - 134 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (02:32 15 May 2026)
--   📖 Read chapter 30 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (02:18 15 May 2026)
--   📖 Read chapter 35 of [The Patron of Villains](https://anilist.co/manga/201009) (02:14 15 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
