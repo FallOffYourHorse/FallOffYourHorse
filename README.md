@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 49 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (02:06 15 May 2026)
--   📖 Read chapter 120 - 121 of [The Player Hides His Past](https://anilist.co/manga/166154) (02:02 15 May 2026)
--   📖 Read chapter 64 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (08:53 14 May 2026)
--   📖 Read chapter 78 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (08:41 14 May 2026)
--   📖 Read chapter 28 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (08:35 14 May 2026)
+-   📖 Read chapter 35 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (06:16 15 May 2026)
+-   📖 Read chapter 106 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (06:13 15 May 2026)
+-   📖 Read chapter 132 - 134 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (02:32 15 May 2026)
+-   📖 Read chapter 30 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (02:18 15 May 2026)
+-   📖 Read chapter 35 of [The Patron of Villains](https://anilist.co/manga/201009) (02:14 15 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
