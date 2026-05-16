@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 205 - 207 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:09 16 May 2026)
+-   📖 Read chapter 126 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (09:01 16 May 2026)
+-   📖 Read chapter 9 of [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (08:52 16 May 2026)
+-   📖 Read chapter 205 - 208 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:55 16 May 2026)
 -   📖 Read chapter 149 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:06 16 May 2026)
 -   📖 Read chapter 234 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:15 16 May 2026)
--   📖 Read chapter 110 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (04:11 16 May 2026)
--   📖 Read chapter 234 of [The World After the Fall](https://anilist.co/manga/144957) (04:04 16 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
