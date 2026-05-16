@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 11 of [Na Honja EX-geup Sohwansu](https://anilist.co/manga/210414) (11:40 16 May 2026)
+-   📖 Plans to read [Na Honja EX-geup Sohwansu](https://anilist.co/manga/210414) (10:59 16 May 2026)
 -   📖 Read chapter 32 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (10:51 16 May 2026)
 -   📖 Read chapter 126 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (09:01 16 May 2026)
 -   📖 Read chapter 9 of [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (08:52 16 May 2026)
--   📖 Read chapter 205 - 208 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:55 16 May 2026)
--   📖 Read chapter 149 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:06 16 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
