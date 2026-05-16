@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (02:02 16 May 2026)
+-   📖 Read chapter 36 of [Superhuman Streamer](https://anilist.co/manga/202499) (01:59 16 May 2026)
+-   📖 Read chapter 124 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:53 16 May 2026)
+-   📖 Read chapter 73 of [Ending Maker](https://anilist.co/manga/150170) (01:49 16 May 2026)
 -   📖 Read chapter 6 - 7 of [Dragon no I de Oyasumi](https://anilist.co/manga/207476) (14:28 15 May 2026)
--   📖 Read chapter 70 of [Regression of the Third Prince](https://anilist.co/manga/194672) (11:34 15 May 2026)
--   📖 Read chapter 57 - 59 of [Jack-of-All-Trades, Party of None](https://anilist.co/manga/146878) (11:23 15 May 2026)
--   📖 Read chapter 124 - 125 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (10:43 15 May 2026)
--   📖 Read chapter 35 - 36 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (06:26 15 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
