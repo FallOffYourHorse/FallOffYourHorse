@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 85 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (02:02 16 May 2026)
--   📖 Read chapter 36 of [Superhuman Streamer](https://anilist.co/manga/202499) (01:59 16 May 2026)
--   📖 Read chapter 124 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:53 16 May 2026)
--   📖 Read chapter 73 of [Ending Maker](https://anilist.co/manga/150170) (01:49 16 May 2026)
--   📖 Read chapter 6 - 7 of [Dragon no I de Oyasumi](https://anilist.co/manga/207476) (14:28 15 May 2026)
+-   📖 Read chapter 149 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (05:06 16 May 2026)
+-   📖 Read chapter 234 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:15 16 May 2026)
+-   📖 Read chapter 110 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (04:11 16 May 2026)
+-   📖 Read chapter 234 of [The World After the Fall](https://anilist.co/manga/144957) (04:04 16 May 2026)
+-   📖 Read chapter 130 of [Killer Peter](https://anilist.co/manga/170688) (02:15 16 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
