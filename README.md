@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 21 of [Sachaejigan](https://anilist.co/manga/204894) (08:54 17 May 2026)
+-   📖 Read chapter 130 - 136 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:43 17 May 2026)
+-   📖 Read chapter 122 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:14 17 May 2026)
 -   📖 Read chapter 133 of [Helmut](https://anilist.co/manga/154782) (06:10 17 May 2026)
 -   📖 Read chapter 25 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:07 17 May 2026)
--   📖 Read chapter 48 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (06:00 17 May 2026)
--   📖 Read chapter 97 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:57 17 May 2026)
--   📖 Read chapter 120 - 122 of [The New Gate](https://anilist.co/manga/85978) (13:12 16 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
