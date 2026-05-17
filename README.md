@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 20 - 21 of [Sachaejigan](https://anilist.co/manga/204894) (08:54 17 May 2026)
+-   📖 Completed [Elf Tsuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomoni 100-nen Mae ni Sukutta Sekai wo Tabisuru](https://anilist.co/manga/203670) (09:21 17 May 2026)
+-   📖 Read chapter 1 - 2 of [Elf Tsuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomoni 100-nen Mae ni Sukutta Sekai wo Tabisuru](https://anilist.co/manga/203670) (09:18 17 May 2026)
+-   📖 Read chapter 20 - 25 of [Sachaejigan](https://anilist.co/manga/204894) (09:07 17 May 2026)
 -   📖 Read chapter 130 - 136 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:43 17 May 2026)
 -   📖 Read chapter 122 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:14 17 May 2026)
--   📖 Read chapter 133 of [Helmut](https://anilist.co/manga/154782) (06:10 17 May 2026)
--   📖 Read chapter 25 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:07 17 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
