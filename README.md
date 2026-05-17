@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 133 of [Helmut](https://anilist.co/manga/154782) (06:10 17 May 2026)
+-   📖 Read chapter 25 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:07 17 May 2026)
+-   📖 Read chapter 48 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (06:00 17 May 2026)
+-   📖 Read chapter 97 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:57 17 May 2026)
 -   📖 Read chapter 120 - 122 of [The New Gate](https://anilist.co/manga/85978) (13:12 16 May 2026)
--   📖 Read chapter 1 - 25 of [Na Honja EX-geup Sohwansu](https://anilist.co/manga/210414) (12:43 16 May 2026)
--   📖 Plans to read [Na Honja EX-geup Sohwansu](https://anilist.co/manga/210414) (10:59 16 May 2026)
--   📖 Read chapter 32 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (10:51 16 May 2026)
--   📖 Read chapter 126 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (09:01 16 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
