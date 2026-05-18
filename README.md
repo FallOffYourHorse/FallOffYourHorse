@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Completed [Elf Tsuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomoni 100-nen Mae ni Sukutta Sekai wo Tabisuru](https://anilist.co/manga/203670) (09:21 17 May 2026)
--   📖 Read chapter 1 - 2 of [Elf Tsuma to Hajimeru Yuukyuu no Tabi: Densetsu no Yuusha, Aisuru Elf to Tomoni 100-nen Mae ni Sukutta Sekai wo Tabisuru](https://anilist.co/manga/203670) (09:18 17 May 2026)
--   📖 Read chapter 20 - 25 of [Sachaejigan](https://anilist.co/manga/204894) (09:07 17 May 2026)
--   📖 Read chapter 130 - 136 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:43 17 May 2026)
--   📖 Read chapter 122 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:14 17 May 2026)
+-   📖 Read chapter 80 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:25 18 May 2026)
+-   📖 Read chapter 50 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (02:19 18 May 2026)
+-   📖 Read chapter 85 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (02:17 18 May 2026)
+-   📖 Read chapter 143 of [Returned by the King](https://anilist.co/manga/170724) (02:14 18 May 2026)
+-   📖 Read chapter 163 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:08 18 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
