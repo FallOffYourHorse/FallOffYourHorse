@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 70 - 72 of [Breakers](https://anilist.co/manga/197888) (00:53 19 May 2026)
+-   📖 Read chapter 157 of [The Novel's Extra](https://anilist.co/manga/152128) (00:44 19 May 2026)
 -   📖 Read chapter 134 of [A Flame Reborn](https://anilist.co/manga/173233) (07:15 18 May 2026)
 -   📖 Read chapter 29 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:35 18 May 2026)
 -   📖 Read chapter 127 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:25 18 May 2026)
--   📖 Read chapter 80 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:25 18 May 2026)
--   📖 Read chapter 50 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (02:19 18 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
