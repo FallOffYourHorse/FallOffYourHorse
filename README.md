@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 43 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (06:12 21 May 2026)
--   📖 Read chapter 37 of [Superhuman Streamer](https://anilist.co/manga/202499) (06:09 21 May 2026)
--   📖 Read chapter 81 - 84 of [Breakers](https://anilist.co/manga/197888) (06:06 21 May 2026)
--   📖 Read chapter 36 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (05:59 21 May 2026)
--   📖 Read chapter 169 of [The Infinite Mage](https://anilist.co/manga/159930) (05:54 21 May 2026)
+-   📖 Read chapter 53 - 62 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (09:08 21 May 2026)
+-   📖 Read chapter 133 - 134 of [Reincarnator](https://anilist.co/manga/172583) (08:46 21 May 2026)
+-   📖 Read chapter 26 of [Sachaejigan](https://anilist.co/manga/204894) (08:42 21 May 2026)
+-   📖 Read chapter 66 of [Magyo Gyojuui Buguni Doeeotda](https://anilist.co/manga/189888) (07:30 21 May 2026)
+-   📖 Read chapter 71 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (07:25 21 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
