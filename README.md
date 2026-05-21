@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 188 of [The SSS-Ranker Returns](https://anilist.co/manga/153883) (14:54 20 May 2026)
--   📖 Read chapter 70 - 72 of [Breakers](https://anilist.co/manga/197888) (00:53 19 May 2026)
--   📖 Read chapter 157 of [The Novel's Extra](https://anilist.co/manga/152128) (00:44 19 May 2026)
--   📖 Read chapter 134 of [A Flame Reborn](https://anilist.co/manga/173233) (07:15 18 May 2026)
--   📖 Read chapter 29 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:35 18 May 2026)
+-   📖 Read chapter 43 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (06:12 21 May 2026)
+-   📖 Read chapter 37 of [Superhuman Streamer](https://anilist.co/manga/202499) (06:09 21 May 2026)
+-   📖 Read chapter 81 - 84 of [Breakers](https://anilist.co/manga/197888) (06:06 21 May 2026)
+-   📖 Read chapter 36 of [Mangnani 1-wangjaga Doeeotda](https://anilist.co/manga/207089) (05:59 21 May 2026)
+-   📖 Read chapter 169 of [The Infinite Mage](https://anilist.co/manga/159930) (05:54 21 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
