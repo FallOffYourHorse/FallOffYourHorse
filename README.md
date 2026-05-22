@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 174 - 183 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (15:37 22 May 2026)
+-   📖 Read chapter 150 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:07 22 May 2026)
 -   📖 Read chapter 37 - 38 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (09:13 22 May 2026)
 -   📖 Read chapter 8 - 10 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (09:04 22 May 2026)
 -   📖 Read chapter 86 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (08:54 22 May 2026)
--   📖 Read chapter 127 of [The Top Dungeon Farmer](https://anilist.co/manga/166658) (08:51 22 May 2026)
--   📖 Read chapter 85 of [Breakers](https://anilist.co/manga/197888) (08:48 22 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
