@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 111 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (10:02 23 May 2026)
+-   📖 Read chapter 74 of [Ending Maker](https://anilist.co/manga/150170) (09:57 23 May 2026)
+-   📖 Read chapter 53 of [The Villain's Survival Route](https://anilist.co/manga/187427) (09:52 23 May 2026)
+-   📖 Read chapter 33 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (09:47 23 May 2026)
 -   📖 Read chapter 174 - 183 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (15:37 22 May 2026)
--   📖 Read chapter 150 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:07 22 May 2026)
--   📖 Read chapter 37 - 38 of [Demonic Frontline: The 13th Flying Dragon Company](https://anilist.co/manga/198459) (09:13 22 May 2026)
--   📖 Read chapter 8 - 10 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (09:04 22 May 2026)
--   📖 Read chapter 86 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (08:54 22 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
