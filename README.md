@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 111 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (10:02 23 May 2026)
--   📖 Read chapter 74 of [Ending Maker](https://anilist.co/manga/150170) (09:57 23 May 2026)
--   📖 Read chapter 53 of [The Villain's Survival Route](https://anilist.co/manga/187427) (09:52 23 May 2026)
--   📖 Read chapter 33 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (09:47 23 May 2026)
--   📖 Read chapter 174 - 183 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (15:37 22 May 2026)
+-   📖 Read chapter 26 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (05:38 24 May 2026)
+-   📖 Read chapter 123 of [The Player Hides His Past](https://anilist.co/manga/166154) (05:35 24 May 2026)
+-   📖 Read chapter 144 of [Returned by the King](https://anilist.co/manga/170724) (05:31 24 May 2026)
+-   📖 Read chapter 98 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:28 24 May 2026)
+-   📖 Read chapter 49 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (05:26 24 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
