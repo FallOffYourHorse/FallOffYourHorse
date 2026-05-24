@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (05:38 24 May 2026)
--   📖 Read chapter 123 of [The Player Hides His Past](https://anilist.co/manga/166154) (05:35 24 May 2026)
--   📖 Read chapter 144 of [Returned by the King](https://anilist.co/manga/170724) (05:31 24 May 2026)
--   📖 Read chapter 98 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:28 24 May 2026)
--   📖 Read chapter 49 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (05:26 24 May 2026)
+-   📖 Read chapter 123 of [The New Gate](https://anilist.co/manga/85978) (12:47 24 May 2026)
+-   📖 Read chapter 81 of [Ultimate Shut-in](https://anilist.co/manga/186019) (12:45 24 May 2026)
+-   📖 Read chapter 131 of [Killer Peter](https://anilist.co/manga/170688) (12:41 24 May 2026)
+-   📖 Read chapter 137 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (12:35 24 May 2026)
+-   📖 Read chapter 152 - 165 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:32 24 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
