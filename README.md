@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 162 of [Marriage Toxin](https://anilist.co/manga/147329) (14:59 24 May 2026)
 -   📖 Read chapter 123 of [The New Gate](https://anilist.co/manga/85978) (12:47 24 May 2026)
 -   📖 Read chapter 81 of [Ultimate Shut-in](https://anilist.co/manga/186019) (12:45 24 May 2026)
 -   📖 Read chapter 131 of [Killer Peter](https://anilist.co/manga/170688) (12:41 24 May 2026)
 -   📖 Read chapter 137 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (12:35 24 May 2026)
--   📖 Read chapter 152 - 165 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:32 24 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
