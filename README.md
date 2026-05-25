@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 162 of [Marriage Toxin](https://anilist.co/manga/147329) (14:59 24 May 2026)
--   📖 Read chapter 123 of [The New Gate](https://anilist.co/manga/85978) (12:47 24 May 2026)
--   📖 Read chapter 81 of [Ultimate Shut-in](https://anilist.co/manga/186019) (12:45 24 May 2026)
--   📖 Read chapter 131 of [Killer Peter](https://anilist.co/manga/170688) (12:41 24 May 2026)
--   📖 Read chapter 137 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (12:35 24 May 2026)
+-   📖 Read chapter 30 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:27 25 May 2026)
+-   📖 Read chapter 135 of [Reincarnator](https://anilist.co/manga/172583) (12:16 25 May 2026)
+-   📖 Read chapter 135 of [A Flame Reborn](https://anilist.co/manga/173233) (12:09 25 May 2026)
+-   📖 Read chapter 132 of [Killer Peter](https://anilist.co/manga/170688) (12:05 25 May 2026)
+-   📖 Read chapter 128 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:59 25 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
