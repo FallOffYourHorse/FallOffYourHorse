@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 125 of [I Killed the Main Player](https://anilist.co/manga/173020) (14:45 26 May 2026)
+-   📖 Read chapter 117 - 118 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (14:41 26 May 2026)
 -   📖 Plans to read [Absolute Regression](https://anilist.co/manga/180891) (09:40 26 May 2026)
 -   📖 Read chapter 158 of [The Novel's Extra](https://anilist.co/manga/152128) (09:39 26 May 2026)
 -   📖 Read chapter 86 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (09:36 26 May 2026)
--   📖 Read chapter 182 of [The Art of Reincarnation](https://anilist.co/manga/153880) (09:33 26 May 2026)
--   📖 Read chapter 30 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:27 25 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
