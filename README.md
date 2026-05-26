@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Absolute Regression](https://anilist.co/manga/180891) (09:40 26 May 2026)
+-   📖 Read chapter 158 of [The Novel's Extra](https://anilist.co/manga/152128) (09:39 26 May 2026)
+-   📖 Read chapter 86 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (09:36 26 May 2026)
+-   📖 Read chapter 182 of [The Art of Reincarnation](https://anilist.co/manga/153880) (09:33 26 May 2026)
 -   📖 Read chapter 30 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:27 25 May 2026)
--   📖 Read chapter 135 of [Reincarnator](https://anilist.co/manga/172583) (12:16 25 May 2026)
--   📖 Read chapter 135 of [A Flame Reborn](https://anilist.co/manga/173233) (12:09 25 May 2026)
--   📖 Read chapter 132 of [Killer Peter](https://anilist.co/manga/170688) (12:05 25 May 2026)
--   📖 Read chapter 128 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:59 25 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
