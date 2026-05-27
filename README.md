@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 236 of [The World After the Fall](https://anilist.co/manga/144957) (20:50 27 May 2026)
 -   📖 Read chapter 72 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (06:39 27 May 2026)
 -   📖 Read chapter 235 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (06:34 27 May 2026)
 -   📖 Read chapter 123 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:30 27 May 2026)
 -   📖 Read chapter 163 - 166 of [Marriage Toxin](https://anilist.co/manga/147329) (06:26 27 May 2026)
--   📖 Read chapter 166 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (06:16 27 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
