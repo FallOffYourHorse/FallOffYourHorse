@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 125 of [I Killed the Main Player](https://anilist.co/manga/173020) (14:45 26 May 2026)
--   📖 Read chapter 117 - 118 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (14:41 26 May 2026)
--   📖 Plans to read [Absolute Regression](https://anilist.co/manga/180891) (09:40 26 May 2026)
--   📖 Read chapter 158 of [The Novel's Extra](https://anilist.co/manga/152128) (09:39 26 May 2026)
--   📖 Read chapter 86 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (09:36 26 May 2026)
+-   📖 Read chapter 72 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (06:39 27 May 2026)
+-   📖 Read chapter 235 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (06:34 27 May 2026)
+-   📖 Read chapter 123 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:30 27 May 2026)
+-   📖 Read chapter 163 - 166 of [Marriage Toxin](https://anilist.co/manga/147329) (06:26 27 May 2026)
+-   📖 Read chapter 166 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (06:16 27 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
