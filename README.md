@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 144 of [My S-Class Hunters](https://anilist.co/manga/141958) (10:08 28 May 2026)
+-   📖 Read chapter 144 - 156 of [My S-Class Hunters](https://anilist.co/manga/141958) (12:13 28 May 2026)
 -   📖 Read chapter 178 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (07:15 28 May 2026)
 -   📖 Read chapter 80 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:10 28 May 2026)
 -   📖 Read chapter 44 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:06 28 May 2026)
