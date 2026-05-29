@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 - 108 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:34 29 May 2026)
+-   📖 Read chapter 32 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (13:14 29 May 2026)
+-   📖 Read chapter 71 - 72 of [Regression of the Third Prince](https://anilist.co/manga/194672) (12:55 29 May 2026)
 -   📖 Read chapter 37 of [The Patron of Villains](https://anilist.co/manga/201009) (12:39 29 May 2026)
 -   📖 Read chapter 184 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (23:32 28 May 2026)
--   📖 Read chapter 59 - 60 of [The Executioner](https://anilist.co/manga/176845) (23:28 28 May 2026)
--   📖 Read chapter 151 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (23:21 28 May 2026)
--   📖 Read chapter 144 - 156 of [My S-Class Hunters](https://anilist.co/manga/141958) (12:13 28 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
