@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 184 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (23:32 28 May 2026)
+-   📖 Read chapter 59 - 60 of [The Executioner](https://anilist.co/manga/176845) (23:28 28 May 2026)
+-   📖 Read chapter 151 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (23:21 28 May 2026)
 -   📖 Read chapter 144 - 156 of [My S-Class Hunters](https://anilist.co/manga/141958) (12:13 28 May 2026)
 -   📖 Read chapter 178 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (07:15 28 May 2026)
--   📖 Read chapter 80 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (07:10 28 May 2026)
--   📖 Read chapter 44 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (07:06 28 May 2026)
--   📖 Read chapter 77 - 78 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (07:03 28 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
