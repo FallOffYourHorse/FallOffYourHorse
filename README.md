@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 107 - 108 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:34 29 May 2026)
--   📖 Read chapter 32 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (13:14 29 May 2026)
--   📖 Read chapter 71 - 72 of [Regression of the Third Prince](https://anilist.co/manga/194672) (12:55 29 May 2026)
--   📖 Read chapter 37 of [The Patron of Villains](https://anilist.co/manga/201009) (12:39 29 May 2026)
--   📖 Read chapter 184 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (23:32 28 May 2026)
+-   📖 Read chapter 139 - 141 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (05:35 30 May 2026)
+-   📖 Read chapter 112 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (05:22 30 May 2026)
+-   📖 Read chapter 34 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (05:15 30 May 2026)
+-   📖 Read chapter 54 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:12 30 May 2026)
+-   📖 Read chapter 87 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (05:08 30 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
