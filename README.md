@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 145 of [Returned by the King](https://anilist.co/manga/170724) (02:09 31 May 2026)
+-   📖 Read chapter 142 - 144 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (01:54 31 May 2026)
+-   📖 Read chapter 99 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:27 31 May 2026)
 -   📖 Read chapter 139 - 141 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (05:35 30 May 2026)
 -   📖 Read chapter 112 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (05:22 30 May 2026)
--   📖 Read chapter 34 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (05:15 30 May 2026)
--   📖 Read chapter 54 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:12 30 May 2026)
--   📖 Read chapter 87 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (05:08 30 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
