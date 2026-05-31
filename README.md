@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 209 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (06:50 31 May 2026)
+-   📖 Read chapter 133 of [Killer Peter](https://anilist.co/manga/170688) (08:07 31 May 2026)
+-   📖 Read chapter 27 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:55 31 May 2026)
+-   📖 Read chapter 209 - 210 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (06:52 31 May 2026)
 -   📖 Read chapter 138 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:24 31 May 2026)
 -   📖 Read chapter 124 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:21 31 May 2026)
--   📖 Read chapter 136 of [A Flame Reborn](https://anilist.co/manga/173233) (06:17 31 May 2026)
--   📖 Read chapter 13 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (02:51 31 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
