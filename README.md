@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 145 of [Returned by the King](https://anilist.co/manga/170724) (02:09 31 May 2026)
--   📖 Read chapter 142 - 144 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (01:54 31 May 2026)
--   📖 Read chapter 99 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:27 31 May 2026)
--   📖 Read chapter 139 - 141 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (05:35 30 May 2026)
--   📖 Read chapter 112 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (05:22 30 May 2026)
+-   📖 Read chapter 209 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (06:50 31 May 2026)
+-   📖 Read chapter 138 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:24 31 May 2026)
+-   📖 Read chapter 124 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:21 31 May 2026)
+-   📖 Read chapter 136 of [A Flame Reborn](https://anilist.co/manga/173233) (06:17 31 May 2026)
+-   📖 Read chapter 13 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (02:51 31 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
