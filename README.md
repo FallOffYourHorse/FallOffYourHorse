@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Monogatari no Kuromaku ni Tensei Shite](https://anilist.co/manga/158954) (10:49 04 June 2026)
+-   📖 Read chapter 1 - 87 of [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (10:31 04 June 2026)
+-   📖 Plans to read [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (07:23 04 June 2026)
 -   📖 Read chapter 237 of [The World After the Fall](https://anilist.co/manga/144957) (05:32 04 June 2026)
 -   📖 Read chapter 81 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:28 04 June 2026)
--   📖 Read chapter 61 of [The Executioner](https://anilist.co/manga/176845) (05:24 04 June 2026)
--   📖 Read chapter 203 - 204 of [Pick Me Up](https://anilist.co/manga/159441) (04:17 04 June 2026)
--   📖 Read chapter 52 of [Mototensai Eiyuu, Academy de Yarinaosu](https://anilist.co/manga/212613) (17:06 03 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
