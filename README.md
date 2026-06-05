@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Monogatari no Kuromaku ni Tensei Shite](https://anilist.co/manga/158954) (10:49 04 June 2026)
--   📖 Read chapter 1 - 87 of [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (10:31 04 June 2026)
--   📖 Plans to read [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (07:23 04 June 2026)
--   📖 Read chapter 237 of [The World After the Fall](https://anilist.co/manga/144957) (05:32 04 June 2026)
--   📖 Read chapter 81 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:28 04 June 2026)
+-   📖 Read chapter 33 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (10:12 05 June 2026)
+-   📖 Read chapter 64 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (10:08 05 June 2026)
+-   📖 Read chapter 38 of [Superhuman Streamer](https://anilist.co/manga/202499) (10:06 05 June 2026)
+-   📖 Read chapter 167 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (10:02 05 June 2026)
+-   📖 Read chapter 38 of [The Patron of Villains](https://anilist.co/manga/201009) (09:58 05 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
