@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 185 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:04 05 June 2026)
 -   📖 Read chapter 109 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (15:10 05 June 2026)
 -   📖 Read chapter 33 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (10:12 05 June 2026)
 -   📖 Read chapter 64 of [Limit-Breaking Genius Mage](https://anilist.co/manga/193513) (10:08 05 June 2026)
 -   📖 Read chapter 38 of [Superhuman Streamer](https://anilist.co/manga/202499) (10:06 05 June 2026)
--   📖 Read chapter 167 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (10:02 05 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
