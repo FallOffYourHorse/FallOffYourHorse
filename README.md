@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 137 of [A Flame Reborn](https://anilist.co/manga/173233) (23:16 06 June 2026)
 -   📖 Read chapter 55 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:55 06 June 2026)
 -   📖 Read chapter 35 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (05:52 06 June 2026)
 -   📖 Read chapter 185 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:04 05 June 2026)
 -   📖 Read chapter 109 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (15:10 05 June 2026)
--   📖 Read chapter 33 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (10:12 05 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
