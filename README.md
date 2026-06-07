@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:53 07 June 2026)
+-   📖 Read chapter 100 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:49 07 June 2026)
 -   📖 Read chapter 137 of [A Flame Reborn](https://anilist.co/manga/173233) (23:16 06 June 2026)
 -   📖 Read chapter 55 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:55 06 June 2026)
 -   📖 Read chapter 35 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (05:52 06 June 2026)
--   📖 Read chapter 185 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (20:04 05 June 2026)
--   📖 Read chapter 109 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (15:10 05 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
