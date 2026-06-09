@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 152 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:42 09 June 2026)
--   📖 Read chapter 125 of [The Player Hides His Past](https://anilist.co/manga/166154) (09:13 08 June 2026)
--   📖 Read chapter 32 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (09:10 08 June 2026)
--   📖 Read chapter 73 of [Regression of the Third Prince](https://anilist.co/manga/194672) (09:08 08 June 2026)
--   📖 Read chapter 134 of [Killer Peter](https://anilist.co/manga/170688) (09:06 08 June 2026)
+-   📖 Read chapter 236 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:48 09 June 2026)
+-   📖 Read chapter 52 - 53 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (04:42 09 June 2026)
+-   📖 Read chapter 136 - 137 of [Reincarnator](https://anilist.co/manga/172583) (04:34 09 June 2026)
+-   📖 Read chapter 92 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:19 09 June 2026)
+-   📖 Read chapter 160 of [The Novel's Extra](https://anilist.co/manga/152128) (04:16 09 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
