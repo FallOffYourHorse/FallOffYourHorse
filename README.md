@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (06:44 09 June 2026)
+-   📖 Read chapter 47 of [Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu  ](https://anilist.co/manga/122663) (06:43 09 June 2026)
 -   📖 Read chapter 236 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:48 09 June 2026)
 -   📖 Read chapter 52 - 53 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (04:42 09 June 2026)
 -   📖 Read chapter 136 - 137 of [Reincarnator](https://anilist.co/manga/172583) (04:34 09 June 2026)
--   📖 Read chapter 92 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:19 09 June 2026)
--   📖 Read chapter 160 of [The Novel's Extra](https://anilist.co/manga/152128) (04:16 09 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
