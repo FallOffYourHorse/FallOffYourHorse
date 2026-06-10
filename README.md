@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (08:42 10 June 2026)
+-   📖 Read chapter 125 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (08:39 10 June 2026)
+-   📖 Read chapter 167 - 168 of [Marriage Toxin](https://anilist.co/manga/147329) (08:35 10 June 2026)
 -   📖 Read chapter 172 of [The Infinite Mage](https://anilist.co/manga/159930) (20:20 09 June 2026)
 -   📖 Read chapter 128 of [I Killed the Main Player](https://anilist.co/manga/173020) (20:16 09 June 2026)
--   📖 Read chapter 238 of [The World After the Fall](https://anilist.co/manga/144957) (20:09 09 June 2026)
--   📖 Read chapter 14 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (06:44 09 June 2026)
--   📖 Read chapter 47 of [Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu  ](https://anilist.co/manga/122663) (06:43 09 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
