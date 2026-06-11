@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 65 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (08:28 11 June 2026)
--   📖 Read chapter 157 - 168 of [My S-Class Hunters](https://anilist.co/manga/141958) (08:19 11 June 2026)
--   📖 Read chapter 157 - 159 of [My S-Class Hunters](https://anilist.co/manga/141958) (07:53 11 June 2026)
--   📖 Read chapter 82 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (01:44 11 June 2026)
--   📖 Read chapter 205 of [Pick Me Up](https://anilist.co/manga/159441) (23:50 10 June 2026)
+-   📖 Read chapter 39 of [Superhuman Streamer](https://anilist.co/manga/202499) (22:22 11 June 2026)
+-   📖 Read chapter 62 of [The Executioner](https://anilist.co/manga/176845) (22:18 11 June 2026)
+-   📖 Read chapter 186 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (22:14 11 June 2026)
+-   📖 Read chapter 180 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (22:10 11 June 2026)
+-   📖 Read chapter 46 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (22:07 11 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
