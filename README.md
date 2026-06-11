@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 65 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (08:28 11 June 2026)
+-   📖 Read chapter 157 - 168 of [My S-Class Hunters](https://anilist.co/manga/141958) (08:19 11 June 2026)
+-   📖 Read chapter 157 - 159 of [My S-Class Hunters](https://anilist.co/manga/141958) (07:53 11 June 2026)
 -   📖 Read chapter 82 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (01:44 11 June 2026)
 -   📖 Read chapter 205 of [Pick Me Up](https://anilist.co/manga/159441) (23:50 10 June 2026)
--   📖 Read chapter 79 - 80 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (23:37 10 June 2026)
--   📖 Read chapter 29 of [Sachaejigan](https://anilist.co/manga/204894) (23:29 10 June 2026)
--   📖 Read chapter 124 of [The New Gate](https://anilist.co/manga/85978) (23:25 10 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
