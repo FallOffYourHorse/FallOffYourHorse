@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 205 of [Pick Me Up](https://anilist.co/manga/159441) (23:50 10 June 2026)
+-   📖 Read chapter 79 - 80 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (23:37 10 June 2026)
+-   📖 Read chapter 29 of [Sachaejigan](https://anilist.co/manga/204894) (23:29 10 June 2026)
+-   📖 Read chapter 124 of [The New Gate](https://anilist.co/manga/85978) (23:25 10 June 2026)
 -   📖 Read chapter 74 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (08:42 10 June 2026)
--   📖 Read chapter 125 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (08:39 10 June 2026)
--   📖 Read chapter 167 - 168 of [Marriage Toxin](https://anilist.co/manga/147329) (08:35 10 June 2026)
--   📖 Read chapter 172 of [The Infinite Mage](https://anilist.co/manga/159930) (20:20 09 June 2026)
--   📖 Read chapter 128 of [I Killed the Main Player](https://anilist.co/manga/173020) (20:16 09 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
