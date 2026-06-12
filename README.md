@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 39 of [Superhuman Streamer](https://anilist.co/manga/202499) (22:22 11 June 2026)
--   📖 Read chapter 62 of [The Executioner](https://anilist.co/manga/176845) (22:18 11 June 2026)
--   📖 Read chapter 186 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (22:14 11 June 2026)
--   📖 Read chapter 180 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (22:10 11 June 2026)
--   📖 Read chapter 46 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (22:07 11 June 2026)
+-   📖 Read chapter 74 - 75 of [Regression of the Third Prince](https://anilist.co/manga/194672) (12:56 12 June 2026)
+-   📖 Read chapter 110 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (12:50 12 June 2026)
+-   📖 Read chapter 168 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (12:44 12 June 2026)
+-   📖 Read chapter 34 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (12:39 12 June 2026)
+-   📖 Read chapter 39 of [The Patron of Villains](https://anilist.co/manga/201009) (12:34 12 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
