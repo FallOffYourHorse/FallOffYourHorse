@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 146 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (10:37 13 June 2026)
--   📖 Read chapter 36 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (10:35 13 June 2026)
--   📖 Read chapter 56 of [The Villain's Survival Route](https://anilist.co/manga/187427) (10:31 13 June 2026)
--   📖 Read chapter 74 - 75 of [Regression of the Third Prince](https://anilist.co/manga/194672) (12:56 12 June 2026)
--   📖 Read chapter 110 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (12:50 12 June 2026)
+-   📖 Read chapter 185 of [The Art of Reincarnation](https://anilist.co/manga/153880) (10:50 14 June 2026)
+-   📖 Read chapter 29 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (10:48 14 June 2026)
+-   📖 Read chapter 140 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (10:45 14 June 2026)
+-   📖 Read chapter 84 of [Ultimate Shut-in](https://anilist.co/manga/186019) (10:42 14 June 2026)
+-   📖 Read chapter 147 of [Returned by the King](https://anilist.co/manga/170724) (10:39 14 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
