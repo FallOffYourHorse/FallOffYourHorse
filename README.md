@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 131 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:12 15 June 2026)
--   📖 Read chapter 33 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:08 15 June 2026)
--   📖 Read chapter 167 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:04 15 June 2026)
--   📖 Read chapter 135 of [Killer Peter](https://anilist.co/manga/170688) (04:00 15 June 2026)
--   📖 Read chapter 52 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (03:53 15 June 2026)
+-   📖 Read chapter 88 of [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (10:48 16 June 2026)
+-   📖 Read chapter 93 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (10:45 16 June 2026)
+-   📖 Read chapter 161 of [The Novel's Extra](https://anilist.co/manga/152128) (10:43 16 June 2026)
+-   📖 Read chapter 54 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (10:41 16 June 2026)
+-   📖 Read chapter 51 - 55 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (10:38 16 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
