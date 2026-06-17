@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (09:06 17 June 2026)
+-   📖 Read chapter 120 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (09:04 17 June 2026)
+-   📖 Read chapter 39 of [Became the Lout First Prince](https://anilist.co/manga/207089) (09:00 17 June 2026)
+-   📖 Read chapter 173 of [The Infinite Mage](https://anilist.co/manga/159930) (08:56 17 June 2026)
 -   📖 Read chapter 88 of [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (10:48 16 June 2026)
--   📖 Read chapter 93 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (10:45 16 June 2026)
--   📖 Read chapter 161 of [The Novel's Extra](https://anilist.co/manga/152128) (10:43 16 June 2026)
--   📖 Read chapter 54 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (10:41 16 June 2026)
--   📖 Read chapter 51 - 55 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (10:38 16 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
