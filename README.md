@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 126 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (09:06 17 June 2026)
--   📖 Read chapter 120 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (09:04 17 June 2026)
--   📖 Read chapter 39 of [Became the Lout First Prince](https://anilist.co/manga/207089) (09:00 17 June 2026)
--   📖 Read chapter 173 of [The Infinite Mage](https://anilist.co/manga/159930) (08:56 17 June 2026)
--   📖 Read chapter 88 of [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (10:48 16 June 2026)
+-   📖 Read chapter 206 of [Pick Me Up](https://anilist.co/manga/159441) (02:32 18 June 2026)
+-   📖 Read chapter 81 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (02:26 18 June 2026)
+-   📖 Read chapter 30 of [Sachaejigan](https://anilist.co/manga/204894) (02:22 18 June 2026)
+-   📖 Read chapter 11 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (02:18 18 June 2026)
+-   📖 Read chapter 239 of [The World After the Fall](https://anilist.co/manga/144957) (02:17 18 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
