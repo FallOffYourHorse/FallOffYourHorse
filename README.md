@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 255 - 256 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (20:12 19 June 2026)
+-   📖 Read chapter 255 - 261 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (22:37 19 June 2026)
 -   📖 Read chapter 43 - 47 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (19:57 19 June 2026)
 -   📖 Read chapter 47 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (19:45 19 June 2026)
 -   📖 Read chapter 35 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (18:07 19 June 2026)
