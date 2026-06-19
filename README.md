@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 206 of [Pick Me Up](https://anilist.co/manga/159441) (02:32 18 June 2026)
--   📖 Read chapter 81 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (02:26 18 June 2026)
--   📖 Read chapter 30 of [Sachaejigan](https://anilist.co/manga/204894) (02:22 18 June 2026)
--   📖 Read chapter 11 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (02:18 18 June 2026)
--   📖 Read chapter 239 of [The World After the Fall](https://anilist.co/manga/144957) (02:17 18 June 2026)
+-   📖 Read chapter 40 of [The Patron of Villains](https://anilist.co/manga/201009) (07:41 19 June 2026)
+-   📖 Read chapter 153 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (07:35 19 June 2026)
+-   📖 Read chapter 40 of [Superhuman Streamer](https://anilist.co/manga/202499) (07:31 19 June 2026)
+-   📖 Read chapter 63 of [The Executioner](https://anilist.co/manga/176845) (07:25 19 June 2026)
+-   📖 Read chapter 129 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:22 19 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
