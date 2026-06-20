@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 186 of [The Art of Reincarnation](https://anilist.co/manga/153880) (20:24 20 June 2026)
 -   📖 Read chapter 139 of [A Flame Reborn](https://anilist.co/manga/173233) (17:22 20 June 2026)
 -   📖 Read chapter 89 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (17:19 20 June 2026)
 -   📖 Read chapter 147 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (17:13 20 June 2026)
 -   📖 Read chapter 77 of [Ending Maker](https://anilist.co/manga/150170) (17:08 20 June 2026)
--   📖 Read chapter 37 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (17:01 20 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
