@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 255 - 261 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (22:37 19 June 2026)
+-   📖 Read chapter 57 of [The Villain's Survival Route](https://anilist.co/manga/187427) (00:56 20 June 2026)
+-   📖 Read chapter 255 - 264 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (00:52 20 June 2026)
 -   📖 Read chapter 43 - 47 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (19:57 19 June 2026)
 -   📖 Read chapter 47 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (19:45 19 June 2026)
 -   📖 Read chapter 35 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (18:07 19 June 2026)
--   📖 Read chapter 111 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (18:03 19 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
