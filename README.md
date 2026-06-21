@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 148 of [Returned by the King](https://anilist.co/manga/170724) (23:26 20 June 2026)
--   📖 Read chapter 211 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (23:23 20 June 2026)
--   📖 Read chapter 186 of [The Art of Reincarnation](https://anilist.co/manga/153880) (20:24 20 June 2026)
--   📖 Read chapter 139 of [A Flame Reborn](https://anilist.co/manga/173233) (17:22 20 June 2026)
--   📖 Read chapter 89 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (17:19 20 June 2026)
+-   📖 Read chapter 132 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (22:47 21 June 2026)
+-   📖 Read chapter 168 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:44 21 June 2026)
+-   📖 Read chapter 90 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (22:40 21 June 2026)
+-   📖 Read chapter 141 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (20:35 21 June 2026)
+-   📖 Read chapter 85 of [Ultimate Shut-in](https://anilist.co/manga/186019) (20:33 21 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
