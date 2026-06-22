@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 136 of [Killer Peter](https://anilist.co/manga/170688) (01:48 22 June 2026)
+-   📖 Read chapter 34 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (01:42 22 June 2026)
+-   📖 Read chapter 126 of [The Player Hides His Past](https://anilist.co/manga/166154) (01:40 22 June 2026)
+-   📖 Read chapter 53 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (01:35 22 June 2026)
 -   📖 Read chapter 132 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (22:47 21 June 2026)
--   📖 Read chapter 168 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:44 21 June 2026)
--   📖 Read chapter 90 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (22:40 21 June 2026)
--   📖 Read chapter 141 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (20:35 21 June 2026)
--   📖 Read chapter 85 of [Ultimate Shut-in](https://anilist.co/manga/186019) (20:33 21 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
