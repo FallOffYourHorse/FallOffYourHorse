@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 82 - 87 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (19:13 23 June 2026)
--   📖 Read chapter 237 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:50 23 June 2026)
--   📖 Read chapter 121 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (18:47 23 June 2026)
--   📖 Read chapter 162 of [The Novel's Extra](https://anilist.co/manga/152128) (10:08 23 June 2026)
--   📖 Read chapter 136 of [Killer Peter](https://anilist.co/manga/170688) (01:48 22 June 2026)
+-   📖 Read chapter 94 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (19:30 24 June 2026)
+-   📖 Read chapter 76 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (19:28 24 June 2026)
+-   📖 Read chapter 88 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (19:23 24 June 2026)
+-   📖 Read chapter 174 of [The Infinite Mage](https://anilist.co/manga/159930) (19:19 24 June 2026)
+-   📖 Read chapter 40 - 41 of [Became the Lout First Prince](https://anilist.co/manga/207089) (19:15 24 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
