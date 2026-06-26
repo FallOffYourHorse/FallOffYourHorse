@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 84 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (02:35 25 June 2026)
--   📖 Read chapter 45 - 50 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (02:29 25 June 2026)
--   📖 Read chapter 207 of [Pick Me Up](https://anilist.co/manga/159441) (23:29 24 June 2026)
--   📖 Read chapter 94 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (19:30 24 June 2026)
--   📖 Read chapter 76 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (19:28 24 June 2026)
+-   📖 Read chapter 265 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (06:41 26 June 2026)
+-   📖 Read chapter 41 of [The Patron of Villains](https://anilist.co/manga/201009) (06:33 26 June 2026)
+-   📖 Read chapter 36 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (06:28 26 June 2026)
+-   📖 Read chapter 31 of [Sachaejigan](https://anilist.co/manga/204894) (06:22 26 June 2026)
+-   📖 Read chapter 64 of [The Executioner](https://anilist.co/manga/176845) (06:19 26 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
