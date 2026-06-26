@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 38 of [Boyish Girlfriend](https://anilist.co/manga/187624) (22:02 26 June 2026)
+-   📖 Plans to read [Boyish Girlfriend](https://anilist.co/manga/187624) (21:07 26 June 2026)
 -   📖 Read chapter 265 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (06:41 26 June 2026)
 -   📖 Read chapter 41 of [The Patron of Villains](https://anilist.co/manga/201009) (06:33 26 June 2026)
 -   📖 Read chapter 36 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (06:28 26 June 2026)
--   📖 Read chapter 31 of [Sachaejigan](https://anilist.co/manga/204894) (06:22 26 June 2026)
--   📖 Read chapter 64 of [The Executioner](https://anilist.co/manga/176845) (06:19 26 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
