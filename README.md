@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 38 of [Boyish Girlfriend](https://anilist.co/manga/187624) (22:02 26 June 2026)
+-   📖 Read chapter 187 - 188 of [Hero Killer](https://anilist.co/manga/132093) (23:44 26 June 2026)
+-   📖 Read chapter 240 of [The World After the Fall](https://anilist.co/manga/144957) (22:41 26 June 2026)
+-   📖 Read chapter 112 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:37 26 June 2026)
+-   📖 Read chapter 1 - 58 of [Boyish Girlfriend](https://anilist.co/manga/187624) (22:24 26 June 2026)
 -   📖 Plans to read [Boyish Girlfriend](https://anilist.co/manga/187624) (21:07 26 June 2026)
--   📖 Read chapter 265 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (06:41 26 June 2026)
--   📖 Read chapter 41 of [The Patron of Villains](https://anilist.co/manga/201009) (06:33 26 June 2026)
--   📖 Read chapter 36 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (06:28 26 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
