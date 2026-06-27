@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 187 - 190 of [Hero Killer](https://anilist.co/manga/132093) (06:21 27 June 2026)
--   📖 Read chapter 187 - 190 of [Hero Killer](https://anilist.co/manga/132093) (06:21 27 June 2026)
--   📖 Read chapter 240 of [The World After the Fall](https://anilist.co/manga/144957) (22:41 26 June 2026)
--   📖 Read chapter 112 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:37 26 June 2026)
--   📖 Read chapter 1 - 58 of [Boyish Girlfriend](https://anilist.co/manga/187624) (22:24 26 June 2026)
+-   📖 Read chapter 187 - 252 of [Hero Killer](https://anilist.co/manga/132093) (09:18 27 June 2026)
+-   📖 Read chapter 187 - 250 of [Hero Killer](https://anilist.co/manga/132093) (09:12 27 June 2026)
+-   📖 Read chapter 187 - 246 of [Hero Killer](https://anilist.co/manga/132093) (09:04 27 June 2026)
+-   📖 Read chapter 187 - 235 of [Hero Killer](https://anilist.co/manga/132093) (08:41 27 June 2026)
+-   📖 Read chapter 187 - 233 of [Hero Killer](https://anilist.co/manga/132093) (08:35 27 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
