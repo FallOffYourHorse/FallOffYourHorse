@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 187 - 252 of [Hero Killer](https://anilist.co/manga/132093) (09:18 27 June 2026)
--   📖 Read chapter 187 - 250 of [Hero Killer](https://anilist.co/manga/132093) (09:12 27 June 2026)
--   📖 Read chapter 187 - 246 of [Hero Killer](https://anilist.co/manga/132093) (09:04 27 June 2026)
--   📖 Read chapter 187 - 235 of [Hero Killer](https://anilist.co/manga/132093) (08:41 27 June 2026)
--   📖 Read chapter 187 - 233 of [Hero Killer](https://anilist.co/manga/132093) (08:35 27 June 2026)
+-   📖 Read chapter 86 of [Ultimate Shut-in](https://anilist.co/manga/186019) (19:32 27 June 2026)
+-   📖 Read chapter 140 of [A Flame Reborn](https://anilist.co/manga/173233) (19:29 27 June 2026)
+-   📖 Read chapter 148 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (19:25 27 June 2026)
+-   📖 Read chapter 38 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (19:21 27 June 2026)
+-   📖 Read chapter 170 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (19:18 27 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
