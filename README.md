@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 188 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (04:57 28 June 2026)
--   📖 Read chapter 142 - 143 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (04:53 28 June 2026)
--   📖 Read chapter 31 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (04:48 28 June 2026)
--   📖 Read chapter 86 of [Ultimate Shut-in](https://anilist.co/manga/186019) (19:32 27 June 2026)
--   📖 Read chapter 140 of [A Flame Reborn](https://anilist.co/manga/173233) (19:29 27 June 2026)
+-   📖 Read chapter 35 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (05:01 29 June 2026)
+-   📖 Read chapter 169 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:19 29 June 2026)
+-   📖 Read chapter 54 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (04:11 29 June 2026)
+-   📖 Read chapter 91 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (04:09 29 June 2026)
+-   📖 Read chapter 127 of [The Player Hides His Past](https://anilist.co/manga/166154) (04:02 29 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
