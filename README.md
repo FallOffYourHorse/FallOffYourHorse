@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 169 - 171 of [My S-Class Hunters](https://anilist.co/manga/141958) (20:07 30 June 2026)
 -   📖 Read chapter 241 of [The World After the Fall](https://anilist.co/manga/144957) (08:46 30 June 2026)
 -   📖 Read chapter 95 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (08:41 30 June 2026)
 -   📖 Read chapter 171 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (08:37 30 June 2026)
 -   📖 Read chapter 55 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (08:33 30 June 2026)
--   📖 Read chapter 131 of [I Killed the Main Player](https://anilist.co/manga/173020) (08:31 30 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
