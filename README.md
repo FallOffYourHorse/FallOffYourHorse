@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 352 - 353 of [Tomb Raider King](https://anilist.co/manga/110462) (22:37 29 June 2026)
+-   📖 Read chapter 352 - 356 of [Tomb Raider King](https://anilist.co/manga/110462) (00:21 30 June 2026)
 -   📖 Read chapter 130 of [I Killed the Main Player](https://anilist.co/manga/173020) (07:27 29 June 2026)
 -   📖 Read chapter 133 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:21 29 June 2026)
 -   📖 Read chapter 51 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (05:47 29 June 2026)
