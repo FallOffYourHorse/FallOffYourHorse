@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 77 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (06:31 01 July 2026)
 -   📖 Read chapter 357 - 363 of [Tomb Raider King](https://anilist.co/manga/110462) (01:36 01 July 2026)
 -   📖 Read chapter 127 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (22:39 30 June 2026)
 -   📖 Read chapter 42 of [Became the Lout First Prince](https://anilist.co/manga/207089) (22:36 30 June 2026)
 -   📖 Read chapter 89 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (22:32 30 June 2026)
--   📖 Read chapter 175 of [The Infinite Mage](https://anilist.co/manga/159930) (22:29 30 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
