@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The Villager of Level 999](https://anilist.co/anime/197715) (07:24 02 July 2026)
+-   📖 Read chapter 208 of [Pick Me Up](https://anilist.co/manga/159441) (07:20 02 July 2026)
+-   📖 Read chapter 83 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (07:16 02 July 2026)
 -   📖 Read chapter 189 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (18:57 01 July 2026)
 -   📖 Read chapter 77 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (06:31 01 July 2026)
--   📖 Read chapter 357 - 363 of [Tomb Raider King](https://anilist.co/manga/110462) (01:36 01 July 2026)
--   📖 Read chapter 127 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (22:39 30 June 2026)
--   📖 Read chapter 42 of [Became the Lout First Prince](https://anilist.co/manga/207089) (22:36 30 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
