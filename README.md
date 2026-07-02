@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Witch and Hound](https://anilist.co/manga/161638) (19:17 02 July 2026)
+-   📖 Read chapter 85 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (19:17 02 July 2026)
+-   📖 Read chapter 65 of [The Executioner](https://anilist.co/manga/176845) (19:11 02 July 2026)
 -   📖 Read chapter 239 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:08 02 July 2026)
 -   📺 Watched episode 1 - 2 of [The Villager of Level 999](https://anilist.co/anime/197715) (07:24 02 July 2026)
--   📖 Read chapter 208 of [Pick Me Up](https://anilist.co/manga/159441) (07:20 02 July 2026)
--   📖 Read chapter 83 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (07:16 02 July 2026)
--   📖 Read chapter 189 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (18:57 01 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
