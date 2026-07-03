@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 of [Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu  ](https://anilist.co/manga/122663) (05:17 03 July 2026)
--   📖 Read chapter 155 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (03:17 03 July 2026)
--   📖 Read chapter 42 of [The Patron of Villains](https://anilist.co/manga/201009) (03:14 03 July 2026)
--   📖 Read chapter 37 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (03:06 03 July 2026)
--   📖 Read chapter 49 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (23:35 02 July 2026)
+-   📖 Read chapter 1 - 102 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (09:01 03 July 2026)
+-   📖 Read chapter 1 - 97 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (08:55 03 July 2026)
+-   📖 Read chapter 1 - 93 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (08:52 03 July 2026)
+-   📖 Read chapter 1 - 85 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (08:40 03 July 2026)
+-   📖 Read chapter 1 - 78 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (08:31 03 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
