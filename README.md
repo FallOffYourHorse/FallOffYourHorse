@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Witch and Hound](https://anilist.co/manga/161638) (21:34 02 July 2026)
+-   📖 Read chapter 49 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (23:35 02 July 2026)
+-   📖 Read chapter 1 - 7 of [Witch and Hound](https://anilist.co/manga/161638) (23:24 02 July 2026)
 -   📖 Read chapter 1 - 3 of [Witch and Hound](https://anilist.co/manga/161638) (21:34 02 July 2026)
 -   📖 Plans to read [Witch and Hound](https://anilist.co/manga/161638) (19:17 02 July 2026)
 -   📖 Read chapter 85 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (19:17 02 July 2026)
--   📖 Read chapter 65 of [The Executioner](https://anilist.co/manga/176845) (19:11 02 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
