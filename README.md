@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 121 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (19:52 03 July 2026)
+-   📖 Read chapter 1 - 138 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (22:56 03 July 2026)
+-   📖 Read chapter 1 - 136 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (22:55 03 July 2026)
+-   📖 Read chapter 1 - 126 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (22:30 03 July 2026)
 -   📖 Read chapter 91 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (19:26 03 July 2026)
 -   📖 Read chapter 113 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (19:22 03 July 2026)
--   📖 Read chapter 1 - 97 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (08:55 03 July 2026)
--   📖 Read chapter 1 - 93 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (08:52 03 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
