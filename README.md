@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 48 of [Isekai Yurutto Survival Seikatsu: Gakkou no Minna to Isekai no Mujintou ni Tenishitakedo Ore Dake Rakushou desu  ](https://anilist.co/manga/122663) (05:17 03 July 2026)
+-   📖 Read chapter 155 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (03:17 03 July 2026)
+-   📖 Read chapter 42 of [The Patron of Villains](https://anilist.co/manga/201009) (03:14 03 July 2026)
+-   📖 Read chapter 37 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (03:06 03 July 2026)
 -   📖 Read chapter 49 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (23:35 02 July 2026)
--   📖 Read chapter 1 - 7 of [Witch and Hound](https://anilist.co/manga/161638) (23:24 02 July 2026)
--   📖 Read chapter 1 - 3 of [Witch and Hound](https://anilist.co/manga/161638) (21:34 02 July 2026)
--   📖 Plans to read [Witch and Hound](https://anilist.co/manga/161638) (19:17 02 July 2026)
--   📖 Read chapter 85 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (19:17 02 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
