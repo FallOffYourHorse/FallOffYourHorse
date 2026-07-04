@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 157 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (07:36 04 July 2026)
+-   📖 Completed [Tsuki 50-man moratte mo Ikigai no nai Tonari no Onee-san ni 30-man de Yatowarete "Okaeri" tte Iu Oshigoto ga Tanoshii](https://anilist.co/manga/120051) (08:38 04 July 2026)
+-   📖 Read chapter 21 - 29 of [Tsuki 50-man moratte mo Ikigai no nai Tonari no Onee-san ni 30-man de Yatowarete "Okaeri" tte Iu Oshigoto ga Tanoshii](https://anilist.co/manga/120051) (08:34 04 July 2026)
+-   📖 Read chapter 87 of [Ultimate Shut-in](https://anilist.co/manga/186019) (07:56 04 July 2026)
+-   📖 Read chapter 1 - 171 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (07:52 04 July 2026)
 -   📖 Read chapter 149 - 150 of [Returned by the King](https://anilist.co/manga/170724) (07:25 04 July 2026)
--   📖 Read chapter 149 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (07:18 04 July 2026)
--   📖 Read chapter 39 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (07:15 04 July 2026)
--   📖 Read chapter 1 - 136 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (22:55 03 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
