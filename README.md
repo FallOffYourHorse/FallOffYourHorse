@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 148 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (04:26 04 July 2026)
+-   📖 Read chapter 1 - 157 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (07:36 04 July 2026)
+-   📖 Read chapter 149 - 150 of [Returned by the King](https://anilist.co/manga/170724) (07:25 04 July 2026)
+-   📖 Read chapter 149 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (07:18 04 July 2026)
+-   📖 Read chapter 39 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (07:15 04 July 2026)
 -   📖 Read chapter 1 - 136 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (22:55 03 July 2026)
--   📖 Read chapter 1 - 126 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (22:30 03 July 2026)
--   📖 Read chapter 91 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (19:26 03 July 2026)
--   📖 Read chapter 113 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (19:22 03 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
