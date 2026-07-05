@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 137 - 138 of [Killer Peter](https://anilist.co/manga/170688) (19:05 05 July 2026)
+-   📖 Read chapter 52 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (18:53 05 July 2026)
 -   📖 Read chapter 32 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (08:35 05 July 2026)
 -   📖 Read chapter 141 of [A Flame Reborn](https://anilist.co/manga/173233) (06:51 05 July 2026)
 -   📖 Read chapter 144 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:42 05 July 2026)
--   📖 Read chapter 79 of [Ending Maker](https://anilist.co/manga/150170) (06:33 05 July 2026)
--   📺 Watched episode 4 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (04:07 05 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
