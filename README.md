@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Daemons of the Shadow Realm](https://anilist.co/anime/195600) (04:07 05 July 2026)
 -   📖 Read chapter 213 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (20:30 04 July 2026)
 -   📖 Read chapter 187 - 188 of [The Art of Reincarnation](https://anilist.co/manga/153880) (20:28 04 July 2026)
 -   📖 Completed [Tsuki 50-man moratte mo Ikigai no nai Tonari no Onee-san ni 30-man de Yatowarete "Okaeri" tte Iu Oshigoto ga Tanoshii](https://anilist.co/manga/120051) (08:38 04 July 2026)
 -   📖 Read chapter 21 - 29 of [Tsuki 50-man moratte mo Ikigai no nai Tonari no Onee-san ni 30-man de Yatowarete "Okaeri" tte Iu Oshigoto ga Tanoshii](https://anilist.co/manga/120051) (08:34 04 July 2026)
--   📖 Read chapter 87 of [Ultimate Shut-in](https://anilist.co/manga/186019) (07:56 04 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
