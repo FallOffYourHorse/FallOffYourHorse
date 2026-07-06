@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 55 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (02:31 06 July 2026)
+-   📖 Read chapter 92 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (01:59 06 July 2026)
 -   📖 Read chapter 137 - 138 of [Killer Peter](https://anilist.co/manga/170688) (19:05 05 July 2026)
 -   📖 Read chapter 52 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (18:53 05 July 2026)
 -   📖 Read chapter 32 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (08:35 05 July 2026)
--   📖 Read chapter 141 of [A Flame Reborn](https://anilist.co/manga/173233) (06:51 05 July 2026)
--   📖 Read chapter 144 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:42 05 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
