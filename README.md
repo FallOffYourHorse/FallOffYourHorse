@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 38 - 39 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (23:38 06 July 2026)
 -   📖 Read chapter 110 - 115 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (07:51 06 July 2026)
 -   📖 Read chapter 134 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:40 06 July 2026)
 -   📖 Read chapter 36 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (06:28 06 July 2026)
 -   📖 Read chapter 128 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:18 06 July 2026)
--   📖 Read chapter 170 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:54 06 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
