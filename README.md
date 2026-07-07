@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 176 of [The Infinite Mage](https://anilist.co/manga/159930) (22:20 07 July 2026)
 -   📖 Read chapter 242 of [The World After the Fall](https://anilist.co/manga/144957) (20:26 07 July 2026)
 -   📖 Read chapter 123 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (20:20 07 July 2026)
 -   📖 Read chapter 96 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (20:17 07 July 2026)
 -   📖 Read chapter 163 of [The Novel's Extra](https://anilist.co/manga/152128) (18:31 07 July 2026)
--   📖 Read chapter 56 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (13:56 07 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
