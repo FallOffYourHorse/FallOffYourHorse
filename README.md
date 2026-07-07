@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 163 of [The Novel's Extra](https://anilist.co/manga/152128) (18:31 07 July 2026)
 -   📖 Read chapter 56 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (13:56 07 July 2026)
 -   📖 Read chapter 38 - 40 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (03:03 07 July 2026)
 -   📖 Read chapter 110 - 115 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (07:51 06 July 2026)
 -   📖 Read chapter 134 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:40 06 July 2026)
--   📖 Read chapter 36 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (06:28 06 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
