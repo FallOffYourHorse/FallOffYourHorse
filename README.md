@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 172 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:13 08 July 2026)
 -   📖 Read chapter 128 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (01:42 08 July 2026)
 -   📖 Read chapter 43 of [Became the Lout First Prince](https://anilist.co/manga/207089) (01:38 08 July 2026)
 -   📖 Read chapter 176 of [The Infinite Mage](https://anilist.co/manga/159930) (22:20 07 July 2026)
 -   📖 Read chapter 242 of [The World After the Fall](https://anilist.co/manga/144957) (20:26 07 July 2026)
--   📖 Read chapter 123 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (20:20 07 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
