@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 66 of [The Executioner](https://anilist.co/manga/176845) (06:35 09 July 2026)
+-   📖 Read chapter 132 of [I Killed the Main Player](https://anilist.co/manga/173020) (06:30 09 July 2026)
 -   📖 Read chapter 86 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (02:04 09 July 2026)
 -   📖 Read chapter 209 of [Pick Me Up](https://anilist.co/manga/159441) (23:32 08 July 2026)
 -   📖 Read chapter 84 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (23:28 08 July 2026)
--   📖 Read chapter 78 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (20:42 08 July 2026)
--   📖 Read chapter 33 of [Sachaejigan](https://anilist.co/manga/204894) (20:37 08 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
