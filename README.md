@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 114 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:25 10 July 2026)
+-   📖 Read chapter 92 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (11:21 10 July 2026)
 -   📖 Read chapter 266 - 267 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (06:25 10 July 2026)
 -   📖 Read chapter 38 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (06:20 10 July 2026)
 -   📖 Read chapter 43 of [The Patron of Villains](https://anilist.co/manga/201009) (06:16 10 July 2026)
--   📖 Read chapter 50 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (06:09 10 July 2026)
--   📖 Read chapter 190 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (02:50 10 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
