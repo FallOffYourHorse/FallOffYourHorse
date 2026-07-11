@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 151 of [Returned by the King](https://anilist.co/manga/170724) (03:00 11 July 2026)
--   📖 Read chapter 150 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (02:55 11 July 2026)
--   📖 Read chapter 40 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (02:50 11 July 2026)
--   📖 Read chapter 58 of [The Villain's Survival Route](https://anilist.co/manga/187427) (02:36 11 July 2026)
--   📺 Watched episode 14 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (21:05 10 July 2026)
+-   📖 Read chapter 1 - 3 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (21:38 11 July 2026)
+-   📖 Plans to read [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (21:26 11 July 2026)
+-   📖 Read chapter 189 of [The Art of Reincarnation](https://anilist.co/manga/153880) (21:25 11 July 2026)
+-   📖 Read chapter 142 of [A Flame Reborn](https://anilist.co/manga/173233) (21:22 11 July 2026)
+-   📖 Completed [Villains Are Destined to Die](https://anilist.co/manga/118408) (21:18 11 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
