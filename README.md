@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 151 of [Returned by the King](https://anilist.co/manga/170724) (03:00 11 July 2026)
+-   📖 Read chapter 150 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (02:55 11 July 2026)
+-   📖 Read chapter 40 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (02:50 11 July 2026)
+-   📖 Read chapter 58 of [The Villain's Survival Route](https://anilist.co/manga/187427) (02:36 11 July 2026)
 -   📺 Watched episode 14 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (21:05 10 July 2026)
--   📖 Read chapter 48 - 51 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (19:31 10 July 2026)
--   📖 Read chapter 114 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:25 10 July 2026)
--   📖 Read chapter 92 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (11:21 10 July 2026)
--   📖 Read chapter 266 - 267 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (06:25 10 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
