@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 15 of [Helck](https://anilist.co/anime/145140) (07:57 12 July 2026)
 -   📖 Read chapter 1 - 5 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (21:45 11 July 2026)
 -   📖 Plans to read [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (21:26 11 July 2026)
 -   📖 Read chapter 189 of [The Art of Reincarnation](https://anilist.co/manga/153880) (21:25 11 July 2026)
 -   📖 Read chapter 142 of [A Flame Reborn](https://anilist.co/manga/173233) (21:22 11 July 2026)
--   📖 Completed [Villains Are Destined to Die](https://anilist.co/manga/118408) (21:18 11 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
