@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Völundio ~Divergent Sword Saga~](https://anilist.co/manga/123314) (11:16 12 July 2026)
+-   📖 Plans to read [Völundio ~Divergent Sword Saga~](https://anilist.co/manga/123314) (11:05 12 July 2026)
 -   📖 Read chapter 70 - 106 of [Helck](https://anilist.co/manga/86720) (10:54 12 July 2026)
 -   📖 Plans to read [Helck](https://anilist.co/manga/86720) (08:49 12 July 2026)
 -   📺 Completed [Helck](https://anilist.co/anime/145140) (08:47 12 July 2026)
--   📺 Watched episode 1 - 23 of [Helck](https://anilist.co/anime/145140) (08:40 12 July 2026)
--   📖 Read chapter 1 - 5 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (21:45 11 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
