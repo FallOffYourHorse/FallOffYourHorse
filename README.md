@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 139 of [Killer Peter](https://anilist.co/manga/170688) (20:23 12 July 2026)
+-   📖 Read chapter 88 of [Ultimate Shut-in](https://anilist.co/manga/186019) (20:16 12 July 2026)
+-   📖 Read chapter 33 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (20:13 12 July 2026)
 -   📖 Read chapter 1 of [Völundio ~Divergent Sword Saga~](https://anilist.co/manga/123314) (11:16 12 July 2026)
 -   📖 Plans to read [Völundio ~Divergent Sword Saga~](https://anilist.co/manga/123314) (11:05 12 July 2026)
--   📖 Read chapter 70 - 106 of [Helck](https://anilist.co/manga/86720) (10:54 12 July 2026)
--   📖 Plans to read [Helck](https://anilist.co/manga/86720) (08:49 12 July 2026)
--   📺 Completed [Helck](https://anilist.co/anime/145140) (08:47 12 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
