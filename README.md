@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 139 of [Killer Peter](https://anilist.co/manga/170688) (20:23 12 July 2026)
--   📖 Read chapter 88 of [Ultimate Shut-in](https://anilist.co/manga/186019) (20:16 12 July 2026)
--   📖 Read chapter 33 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (20:13 12 July 2026)
--   📖 Read chapter 1 of [Völundio ~Divergent Sword Saga~](https://anilist.co/manga/123314) (11:16 12 July 2026)
--   📖 Plans to read [Völundio ~Divergent Sword Saga~](https://anilist.co/manga/123314) (11:05 12 July 2026)
+-   📖 Read chapter 37 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:07 13 July 2026)
+-   📖 Read chapter 135 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:03 13 July 2026)
+-   📖 Read chapter 171 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:00 13 July 2026)
+-   📖 Read chapter 56 - 58 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (03:56 13 July 2026)
+-   📖 Read chapter 93 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (03:48 13 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
