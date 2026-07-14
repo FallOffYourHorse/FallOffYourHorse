@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [Became the Lout First Prince](https://anilist.co/manga/207089) (22:23 14 July 2026)
+-   📖 Read chapter 243 of [The World After the Fall](https://anilist.co/manga/144957) (22:17 14 July 2026)
 -   📖 Read chapter 124 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (16:51 14 July 2026)
 -   📖 Read chapter 1 - 6 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (05:36 14 July 2026)
 -   📖 Plans to read [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (04:46 14 July 2026)
--   📖 Read chapter 116 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (04:45 14 July 2026)
--   📖 Read chapter 97 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:40 14 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
