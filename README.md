@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (05:36 14 July 2026)
+-   📖 Plans to read [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (04:46 14 July 2026)
+-   📖 Read chapter 116 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (04:45 14 July 2026)
 -   📖 Read chapter 97 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:40 14 July 2026)
 -   📖 Read chapter 164 of [The Novel's Extra](https://anilist.co/manga/152128) (04:21 14 July 2026)
--   📖 Read chapter 56 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (20:49 13 July 2026)
--   📖 Read chapter 53 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (14:49 13 July 2026)
--   📖 Read chapter 145 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (14:45 13 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
