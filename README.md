@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 173 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (21:52 15 July 2026)
 -   📖 Read chapter 3 - 4 of [Saikai no Yuusha](https://anilist.co/manga/204333) (08:12 15 July 2026)
 -   📖 Read chapter 15 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (07:00 15 July 2026)
 -   📖 Read chapter 79 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (06:47 15 July 2026)
 -   📖 Read chapter 133 of [I Killed the Main Player](https://anilist.co/manga/173020) (06:41 15 July 2026)
--   📖 Read chapter 57 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (06:37 15 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
