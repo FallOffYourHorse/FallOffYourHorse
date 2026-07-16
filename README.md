@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 of [The Executioner](https://anilist.co/manga/176845) (22:23 16 July 2026)
+-   📖 Read chapter 51 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (22:00 16 July 2026)
 -   📖 Read chapter 169 - 172 of [Marriage Toxin](https://anilist.co/manga/147329) (06:10 16 July 2026)
 -   📖 Read chapter 191 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:03 16 July 2026)
 -   📖 Read chapter 87 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:54 16 July 2026)
--   📖 Read chapter 210 of [Pick Me Up](https://anilist.co/manga/159441) (05:27 16 July 2026)
--   📖 Read chapter 85 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (05:16 16 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
