@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 173 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (21:52 15 July 2026)
--   📖 Read chapter 3 - 4 of [Saikai no Yuusha](https://anilist.co/manga/204333) (08:12 15 July 2026)
--   📖 Read chapter 15 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (07:00 15 July 2026)
--   📖 Read chapter 79 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (06:47 15 July 2026)
--   📖 Read chapter 133 of [I Killed the Main Player](https://anilist.co/manga/173020) (06:41 15 July 2026)
+-   📖 Read chapter 169 - 172 of [Marriage Toxin](https://anilist.co/manga/147329) (06:10 16 July 2026)
+-   📖 Read chapter 191 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:03 16 July 2026)
+-   📖 Read chapter 87 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (05:54 16 July 2026)
+-   📖 Read chapter 210 of [Pick Me Up](https://anilist.co/manga/159441) (05:27 16 July 2026)
+-   📖 Read chapter 85 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (05:16 16 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
