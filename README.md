@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 115 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:14 17 July 2026)
 -   📖 Read chapter 66 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (06:12 17 July 2026)
 -   📖 Read chapter 39 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (06:08 17 July 2026)
 -   📖 Read chapter 268 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (06:05 17 July 2026)
 -   📖 Read chapter 44 of [The Patron of Villains](https://anilist.co/manga/201009) (06:00 17 July 2026)
--   📖 Read chapter 157 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (03:07 17 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
