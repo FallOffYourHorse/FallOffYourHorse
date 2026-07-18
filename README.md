@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 202 of [The Swordmaster's Son](https://anilist.co/manga/149332) (18:31 18 July 2026)
+-   📖 Read chapter 101 - 102 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (18:24 18 July 2026)
+-   📖 Read chapter 190 of [The Art of Reincarnation](https://anilist.co/manga/153880) (18:14 18 July 2026)
 -   📖 Read chapter 80 of [Ending Maker](https://anilist.co/manga/150170) (12:17 18 July 2026)
 -   📖 Read chapter 41 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (12:12 18 July 2026)
--   📖 Read chapter 52 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (05:32 18 July 2026)
--   📖 Read chapter 59 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:28 18 July 2026)
--   📖 Read chapter 115 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:14 17 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
