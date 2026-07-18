@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 of [Ending Maker](https://anilist.co/manga/150170) (12:17 18 July 2026)
+-   📖 Read chapter 41 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (12:12 18 July 2026)
 -   📖 Read chapter 52 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (05:32 18 July 2026)
 -   📖 Read chapter 59 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:28 18 July 2026)
 -   📖 Read chapter 115 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:14 17 July 2026)
--   📖 Read chapter 66 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (06:12 17 July 2026)
--   📖 Read chapter 39 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (06:08 17 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
