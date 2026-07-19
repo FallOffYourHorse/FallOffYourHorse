@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 146 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (20:07 19 July 2026)
+-   📖 Read chapter 143 of [A Flame Reborn](https://anilist.co/manga/173233) (20:04 19 July 2026)
 -   📖 Read chapter 151 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (11:30 19 July 2026)
 -   📖 Read chapter 34 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (11:26 19 July 2026)
 -   📖 Read chapter 202 of [The Swordmaster's Son](https://anilist.co/manga/149332) (18:31 18 July 2026)
--   📖 Read chapter 101 - 102 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (18:24 18 July 2026)
--   📖 Read chapter 190 of [The Art of Reincarnation](https://anilist.co/manga/153880) (18:14 18 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
