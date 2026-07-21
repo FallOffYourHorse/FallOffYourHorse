@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (01:32 21 July 2026)
 -   📖 Read chapter 80 - 82 of [The Eminence in Shadow](https://anilist.co/manga/106758) (23:09 20 July 2026)
 -   📖 Read chapter 57 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (03:33 20 July 2026)
 -   📖 Read chapter 58 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (03:30 20 July 2026)
 -   📖 Read chapter 136 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:27 20 July 2026)
--   📖 Read chapter 38 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (03:24 20 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
