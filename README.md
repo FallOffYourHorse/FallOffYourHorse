@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 of [Became the Lout First Prince](https://anilist.co/manga/207089) (00:05 22 July 2026)
+-   📖 Read chapter 125 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (00:02 22 July 2026)
 -   📖 Read chapter 7 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (08:55 21 July 2026)
 -   📖 Read chapter 240 - 241 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (08:51 21 July 2026)
 -   📖 Read chapter 54 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (08:47 21 July 2026)
--   📖 Read chapter 165 of [The Novel's Extra](https://anilist.co/manga/152128) (08:45 21 July 2026)
--   📖 Read chapter 98 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (01:32 21 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
