@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 134 of [I Killed the Main Player](https://anilist.co/manga/173020) (05:41 22 July 2026)
--   📖 Read chapter 174 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:37 22 July 2026)
--   📖 Read chapter 129 - 130 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (05:30 22 July 2026)
--   📖 Read chapter 129 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (05:26 22 July 2026)
--   📖 Read chapter 173 of [Marriage Toxin](https://anilist.co/manga/147329) (05:25 22 July 2026)
+-   📖 Read chapter 1 - 13 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (19:51 22 July 2026)
+-   📖 Plans to read [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (18:57 22 July 2026)
+-   📖 Read chapter 34 - 35 of [Sachaejigan](https://anilist.co/manga/204894) (18:56 22 July 2026)
+-   📖 Read chapter 80 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (18:48 22 July 2026)
+-   📖 Read chapter 192 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (18:40 22 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
