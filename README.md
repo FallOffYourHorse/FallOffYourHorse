@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 45 of [Became the Lout First Prince](https://anilist.co/manga/207089) (00:05 22 July 2026)
--   📖 Read chapter 125 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (00:02 22 July 2026)
--   📖 Read chapter 7 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (08:55 21 July 2026)
--   📖 Read chapter 240 - 241 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (08:51 21 July 2026)
--   📖 Read chapter 54 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (08:47 21 July 2026)
+-   📖 Read chapter 134 of [I Killed the Main Player](https://anilist.co/manga/173020) (05:41 22 July 2026)
+-   📖 Read chapter 174 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (05:37 22 July 2026)
+-   📖 Read chapter 129 - 130 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (05:30 22 July 2026)
+-   📖 Read chapter 129 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (05:26 22 July 2026)
+-   📖 Read chapter 173 of [Marriage Toxin](https://anilist.co/manga/147329) (05:25 22 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
