@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:21 24 July 2026)
+-   📖 Read chapter 45 of [The Patron of Villains](https://anilist.co/manga/201009) (02:29 24 July 2026)
+-   📖 Read chapter 269 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (02:23 24 July 2026)
 -   📖 Read chapter 211 of [Pick Me Up](https://anilist.co/manga/159441) (18:09 23 July 2026)
 -   📖 Read chapter 182 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (18:07 23 July 2026)
--   📖 Read chapter 86 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (18:01 23 July 2026)
--   📖 Read chapter 1 - 13 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (19:51 22 July 2026)
--   📖 Plans to read [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (18:57 22 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
