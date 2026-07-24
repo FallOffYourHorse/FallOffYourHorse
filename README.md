@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (06:26 24 July 2026)
+-   📖 Read chapter 14 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (06:22 24 July 2026)
+-   📖 Read chapter 116 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (06:20 24 July 2026)
+-   📖 Read chapter 68 of [The Executioner](https://anilist.co/manga/176845) (06:13 24 July 2026)
 -   📖 Read chapter 40 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:21 24 July 2026)
--   📖 Read chapter 45 of [The Patron of Villains](https://anilist.co/manga/201009) (02:29 24 July 2026)
--   📖 Read chapter 269 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (02:23 24 July 2026)
--   📖 Read chapter 211 of [Pick Me Up](https://anilist.co/manga/159441) (18:09 23 July 2026)
--   📖 Read chapter 182 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (18:07 23 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
