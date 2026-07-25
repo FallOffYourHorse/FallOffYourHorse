@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 52 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (06:26 24 July 2026)
--   📖 Read chapter 14 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (06:22 24 July 2026)
--   📖 Read chapter 116 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (06:20 24 July 2026)
--   📖 Read chapter 68 of [The Executioner](https://anilist.co/manga/176845) (06:13 24 July 2026)
--   📖 Read chapter 40 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:21 24 July 2026)
+-   📖 Read chapter 89 - 90 of [Ultimate Shut-in](https://anilist.co/manga/186019) (06:23 25 July 2026)
+-   📖 Read chapter 152 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (06:17 25 July 2026)
+-   📖 Read chapter 42 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:15 25 July 2026)
+-   📖 Read chapter 60 of [The Villain's Survival Route](https://anilist.co/manga/187427) (06:13 25 July 2026)
+-   📖 Read chapter 93 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (06:11 25 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
