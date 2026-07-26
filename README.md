@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 141 of [Killer Peter](https://anilist.co/manga/170688) (18:52 26 July 2026)
+-   📖 Read chapter 166 - 173 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:43 26 July 2026)
 -   📖 Read chapter 147 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (09:30 26 July 2026)
 -   📖 Read chapter 152 - 153 of [Returned by the King](https://anilist.co/manga/170724) (09:27 26 July 2026)
 -   📖 Read chapter 35 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (09:18 26 July 2026)
--   📖 Plans to read [The Legend of Enxue](https://anilist.co/manga/198931) (09:12 26 July 2026)
--   📖 Read chapter 144 of [A Flame Reborn](https://anilist.co/manga/173233) (09:12 26 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
