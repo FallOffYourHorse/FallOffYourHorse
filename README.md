@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 17 of [The Villainess Who Came to Marry Into the Frontier Noble's Household Is an Exceptionally Capable Wife, Isn't She?](https://anilist.co/manga/184974) (03:13 26 July 2026)
 -   📖 Read chapter 89 - 90 of [Ultimate Shut-in](https://anilist.co/manga/186019) (06:23 25 July 2026)
 -   📖 Read chapter 152 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (06:17 25 July 2026)
 -   📖 Read chapter 42 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:15 25 July 2026)
 -   📖 Read chapter 60 of [The Villain's Survival Route](https://anilist.co/manga/187427) (06:13 25 July 2026)
--   📖 Read chapter 93 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (06:11 25 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
