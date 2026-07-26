@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 203 - 204 of [The Swordmaster's Son](https://anilist.co/manga/149332) (08:08 26 July 2026)
--   📖 Read chapter 191 of [The Art of Reincarnation](https://anilist.co/manga/153880) (07:25 26 July 2026)
--   📖 Read chapter 130 - 131 of [The Player Hides His Past](https://anilist.co/manga/166154) (07:21 26 July 2026)
--   📖 Read chapter 103 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (07:17 26 July 2026)
--   📖 Read chapter 81 of [Ending Maker](https://anilist.co/manga/150170) (07:14 26 July 2026)
+-   📖 Read chapter 147 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (09:30 26 July 2026)
+-   📖 Read chapter 152 - 153 of [Returned by the King](https://anilist.co/manga/170724) (09:27 26 July 2026)
+-   📖 Read chapter 35 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (09:18 26 July 2026)
+-   📖 Plans to read [The Legend of Enxue](https://anilist.co/manga/198931) (09:12 26 July 2026)
+-   📖 Read chapter 144 of [A Flame Reborn](https://anilist.co/manga/173233) (09:12 26 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
