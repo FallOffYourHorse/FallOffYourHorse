@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (06:18 27 July 2026)
 -   📖 Read chapter 137 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:13 27 July 2026)
 -   📖 Read chapter 55 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (01:53 27 July 2026)
 -   📖 Read chapter 95 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (01:38 27 July 2026)
 -   📖 Read chapter 172 - 173 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:30 27 July 2026)
--   📖 Read chapter 141 of [Killer Peter](https://anilist.co/manga/170688) (18:52 26 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
