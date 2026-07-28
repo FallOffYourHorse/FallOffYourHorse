@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 - 11 of [Date or Kill: Himitsu no Matching](https://anilist.co/manga/190910) (19:13 28 July 2026)
 -   📖 Read chapter 244 of [The World After the Fall](https://anilist.co/manga/144957) (19:07 28 July 2026)
 -   📖 Read chapter 242 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:59 28 July 2026)
 -   📖 Read chapter 135 of [I Killed the Main Player](https://anilist.co/manga/173020) (18:56 28 July 2026)
 -   📖 Read chapter 1 - 8 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (04:05 28 July 2026)
--   📖 Read chapter 8 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (02:04 28 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
