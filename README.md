@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 8 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (04:05 28 July 2026)
+-   📖 Read chapter 8 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (02:04 28 July 2026)
 -   📖 Read chapter 99 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (00:20 28 July 2026)
 -   📖 Read chapter 166 of [The Novel's Extra](https://anilist.co/manga/152128) (00:16 28 July 2026)
 -   📖 Read chapter 59 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (00:13 28 July 2026)
--   📖 Read chapter 58 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (00:11 28 July 2026)
--   📖 Plans to read [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (20:31 27 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
