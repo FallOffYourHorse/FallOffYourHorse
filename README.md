@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 99 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (00:20 28 July 2026)
+-   📖 Read chapter 166 of [The Novel's Extra](https://anilist.co/manga/152128) (00:16 28 July 2026)
+-   📖 Read chapter 59 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (00:13 28 July 2026)
+-   📖 Read chapter 58 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (00:11 28 July 2026)
 -   📖 Plans to read [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (20:31 27 July 2026)
--   📖 Read chapter 39 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (06:18 27 July 2026)
--   📖 Read chapter 137 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:13 27 July 2026)
--   📖 Read chapter 55 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (01:53 27 July 2026)
--   📖 Read chapter 95 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (01:38 27 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
