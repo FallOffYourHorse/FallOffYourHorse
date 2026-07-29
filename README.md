@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 121 - 122 of [House Mayton's Youngest](https://anilist.co/manga/156558) (07:04 29 July 2026)
+-   📖 Read chapter 126 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (06:07 29 July 2026)
 -   📖 Read chapter 179 of [The Infinite Mage](https://anilist.co/manga/159930) (00:13 29 July 2026)
 -   📖 Read chapter 46 of [Became the Lout First Prince](https://anilist.co/manga/207089) (00:09 29 July 2026)
 -   📖 Read chapter 131 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (00:07 29 July 2026)
--   📖 Read chapter 9 - 11 of [Date or Kill: Himitsu no Matching](https://anilist.co/manga/190910) (19:13 28 July 2026)
--   📖 Read chapter 244 of [The World After the Fall](https://anilist.co/manga/144957) (19:07 28 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
