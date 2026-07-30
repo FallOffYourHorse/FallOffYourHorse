@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 of [Teisou Gyakuten Sekai de Yuiitsu no Otoko Kishi no Ore, Onna Kishi Gakuen ni Nyuugaku Shitara Nazeka Eiyuu Atsukai Sareta: Zetsurin Skill de Harem Musou](https://anilist.co/manga/200712) (04:36 30 July 2026)
 -   📖 Read chapter 172 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (17:47 29 July 2026)
 -   📖 Read chapter 174 of [Marriage Toxin](https://anilist.co/manga/147329) (15:14 29 July 2026)
 -   📖 Read chapter 121 - 122 of [House Mayton's Youngest](https://anilist.co/manga/156558) (07:04 29 July 2026)
 -   📖 Read chapter 126 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (06:07 29 July 2026)
--   📖 Read chapter 179 of [The Infinite Mage](https://anilist.co/manga/159930) (00:13 29 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
