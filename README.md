@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (02:37 31 July 2026)
--   📖 Read chapter 159 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (01:58 31 July 2026)
--   📖 Read chapter 46 of [The Patron of Villains](https://anilist.co/manga/201009) (01:54 31 July 2026)
--   📖 Read chapter 53 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (01:47 31 July 2026)
--   📖 Read chapter 69 of [The Executioner](https://anilist.co/manga/176845) (01:44 31 July 2026)
+-   📖 Read chapter 15 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (20:53 31 July 2026)
+-   📖 Read chapter 1 - 2 of [Jeonjikjijon](https://anilist.co/manga/214541) (20:49 31 July 2026)
+-   📖 Plans to read [Jeonjikjijon](https://anilist.co/manga/214541) (20:38 31 July 2026)
+-   📖 Read chapter 270 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (20:38 31 July 2026)
+-   📖 Read chapter 94 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (20:21 31 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
