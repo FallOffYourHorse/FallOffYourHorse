@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 46 of [The Patron of Villains](https://anilist.co/manga/201009) (01:54 31 July 2026)
+-   📖 Read chapter 53 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (01:47 31 July 2026)
+-   📖 Read chapter 69 of [The Executioner](https://anilist.co/manga/176845) (01:44 31 July 2026)
 -   📖 Read chapter 183 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (06:18 30 July 2026)
 -   📖 Read chapter 88 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (06:13 30 July 2026)
--   📖 Read chapter 212 of [Pick Me Up](https://anilist.co/manga/159441) (06:10 30 July 2026)
--   📖 Read chapter 193 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:08 30 July 2026)
--   📖 Read chapter 87 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (06:05 30 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
