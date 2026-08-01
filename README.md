@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (01:53 01 August 2026)
+-   📖 Read chapter 153 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (01:49 01 August 2026)
 -   📖 Read chapter 87 - 101 of [Breakers](https://anilist.co/manga/197888) (21:26 31 July 2026)
 -   📖 Read chapter 41 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (20:57 31 July 2026)
 -   📖 Read chapter 15 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (20:53 31 July 2026)
--   📖 Read chapter 1 - 2 of [Jeonjikjijon](https://anilist.co/manga/214541) (20:49 31 July 2026)
--   📖 Plans to read [Jeonjikjijon](https://anilist.co/manga/214541) (20:38 31 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
