@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [I'm Quitting Heroing](https://anilist.co/anime/140457) (19:50 01 August 2026)
+-   📺 Watched episode 1 - 2 of [I'm Quitting Heroing](https://anilist.co/anime/140457) (20:08 01 August 2026)
 -   📖 Plans to read [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:20 01 August 2026)
 -   📖 Read chapter 91 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:14 01 August 2026)
 -   📖 Read chapter 104 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (02:11 01 August 2026)
