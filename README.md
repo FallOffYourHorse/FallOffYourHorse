@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [I'm Quitting Heroing](https://anilist.co/anime/140457) (19:50 01 August 2026)
 -   📖 Plans to read [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:20 01 August 2026)
 -   📖 Read chapter 91 of [Ultimate Shut-in](https://anilist.co/manga/186019) (02:14 01 August 2026)
 -   📖 Read chapter 104 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (02:11 01 August 2026)
 -   📖 Read chapter 82 of [Ending Maker](https://anilist.co/manga/150170) (02:03 01 August 2026)
--   📖 Read chapter 61 of [The Villain's Survival Route](https://anilist.co/manga/187427) (01:59 01 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
