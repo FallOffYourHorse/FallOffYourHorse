@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 174 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:23 02 August 2026)
+-   📖 Read chapter 56 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (17:53 02 August 2026)
 -   📖 Read chapter 89 of [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (06:51 02 August 2026)
 -   📖 Read chapter 148 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:20 02 August 2026)
 -   📖 Plans to read [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (06:09 02 August 2026)
--   📖 Read chapter 9 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (00:10 02 August 2026)
--   📖 Read chapter 36 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (00:03 02 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
