@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 of [My Death Flags Show No Sign of Ending](https://anilist.co/manga/123181) (06:51 02 August 2026)
+-   📖 Read chapter 148 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:20 02 August 2026)
+-   📖 Plans to read [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (06:09 02 August 2026)
 -   📖 Read chapter 9 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (00:10 02 August 2026)
 -   📖 Read chapter 36 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (00:03 02 August 2026)
--   📖 Read chapter 205 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:01 02 August 2026)
--   📖 Read chapter 154 of [Returned by the King](https://anilist.co/manga/170724) (23:56 01 August 2026)
--   📖 Read chapter 142 of [Killer Peter](https://anilist.co/manga/170688) (23:51 01 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
