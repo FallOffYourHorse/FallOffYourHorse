@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 132 of [The Player Hides His Past](https://anilist.co/manga/166154) (23:43 01 August 2026)
--   📖 Read chapter 192 of [The Art of Reincarnation](https://anilist.co/manga/153880) (23:38 01 August 2026)
--   📖 Read chapter 145 of [A Flame Reborn](https://anilist.co/manga/173233) (23:36 01 August 2026)
--   📖 Read chapter 145 of [A Flame Reborn](https://anilist.co/manga/173233) (23:36 01 August 2026)
--   📺 Watched episode 1 - 2 of [I'm Quitting Heroing](https://anilist.co/anime/140457) (20:08 01 August 2026)
+-   📖 Read chapter 9 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (00:10 02 August 2026)
+-   📖 Read chapter 36 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (00:03 02 August 2026)
+-   📖 Read chapter 205 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:01 02 August 2026)
+-   📖 Read chapter 154 of [Returned by the King](https://anilist.co/manga/170724) (23:56 01 August 2026)
+-   📖 Read chapter 142 of [Killer Peter](https://anilist.co/manga/170688) (23:51 01 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
