@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 60 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (19:26 03 August 2026)
 -   📖 Read chapter 59 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (08:25 03 August 2026)
 -   📖 Read chapter 138 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (08:18 03 August 2026)
 -   📖 Read chapter 40 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (07:03 03 August 2026)
 -   📖 Read chapter 96 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (06:59 03 August 2026)
--   📖 Read chapter 174 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:23 02 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
