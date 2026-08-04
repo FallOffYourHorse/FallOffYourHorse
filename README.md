@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Saijaku Kizoku ni Tensei Shita no de Akuyakutachi wo Atsumete Mita](https://anilist.co/manga/185560) (06:31 04 August 2026)
+-   📖 Read chapter 9 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (06:25 04 August 2026)
 -   📖 Read chapter 100 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (06:19 04 August 2026)
 -   📖 Read chapter 167 of [The Novel's Extra](https://anilist.co/manga/152128) (06:01 04 August 2026)
 -   📖 Read chapter 60 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (19:26 03 August 2026)
--   📖 Read chapter 59 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (08:25 03 August 2026)
--   📖 Read chapter 138 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (08:18 03 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
