@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 of [Jeonjikjijon](https://anilist.co/manga/214541) (04:37 05 August 2026)
+-   📖 Read chapter 36 - 37 of [Sachaejigan](https://anilist.co/manga/204894) (01:51 05 August 2026)
+-   📖 Read chapter 180 of [The Infinite Mage](https://anilist.co/manga/159930) (01:44 05 August 2026)
 -   📖 Read chapter 47 of [Became the Lout First Prince](https://anilist.co/manga/207089) (01:39 05 August 2026)
 -   📖 Read chapter 176 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (01:35 05 August 2026)
--   📖 Read chapter 127 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (01:31 05 August 2026)
--   📖 Read chapter 245 - 246 of [The World After the Fall](https://anilist.co/manga/144957) (01:26 05 August 2026)
--   📖 Read chapter 136 of [I Killed the Main Player](https://anilist.co/manga/173020) (01:17 05 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
