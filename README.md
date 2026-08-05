@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 213 of [Pick Me Up](https://anilist.co/manga/159441) (23:36 05 August 2026)
+-   📖 Read chapter 82 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (23:30 05 August 2026)
 -   📖 Read chapter 132 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:08 05 August 2026)
 -   📖 Read chapter 3 - 4 of [Jeonjikjijon](https://anilist.co/manga/214541) (04:59 05 August 2026)
 -   📖 Read chapter 36 - 37 of [Sachaejigan](https://anilist.co/manga/204894) (01:51 05 August 2026)
--   📖 Read chapter 180 of [The Infinite Mage](https://anilist.co/manga/159930) (01:44 05 August 2026)
--   📖 Read chapter 47 of [Became the Lout First Prince](https://anilist.co/manga/207089) (01:39 05 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
