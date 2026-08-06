@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 160 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:03 06 August 2026)
+-   📖 Read chapter 184 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (07:57 06 August 2026)
 -   📖 Read chapter 194 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:51 06 August 2026)
 -   📖 Read chapter 89 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (06:49 06 August 2026)
 -   📖 Read chapter 213 of [Pick Me Up](https://anilist.co/manga/159441) (23:36 05 August 2026)
--   📖 Read chapter 82 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (23:30 05 August 2026)
--   📖 Read chapter 132 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:08 05 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
