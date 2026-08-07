@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 54 of [Dragon-eul Yugoehada](https://anilist.co/manga/203800) (15:05 07 August 2026)
 -   📖 Read chapter 10 of [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (04:48 07 August 2026)
 -   📖 Read chapter 42 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:44 07 August 2026)
 -   📖 Read chapter 47 of [The Patron of Villains](https://anilist.co/manga/201009) (04:14 07 August 2026)
 -   📖 Read chapter 16 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (04:08 07 August 2026)
--   📖 Read chapter 117 - 118 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (23:06 06 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
