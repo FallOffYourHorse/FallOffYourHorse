@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 154 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (02:05 08 August 2026)
+-   📖 Read chapter 83 of [Ending Maker](https://anilist.co/manga/150170) (02:01 08 August 2026)
+-   📖 Read chapter 44 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (01:56 08 August 2026)
 -   📖 Read chapter 95 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (17:53 07 August 2026)
 -   📖 Read chapter 54 of [Dragonnap](https://anilist.co/manga/203800) (15:05 07 August 2026)
--   📖 Read chapter 10 of [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (04:48 07 August 2026)
--   📖 Read chapter 42 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:44 07 August 2026)
--   📖 Read chapter 47 of [The Patron of Villains](https://anilist.co/manga/201009) (04:14 07 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
