@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Pokémon: Giratina and the Sky Warrior](https://anilist.co/anime/4026) (05:32 08 August 2026)
+-   📖 Read chapter 92 of [Ultimate Shut-in](https://anilist.co/manga/186019) (05:27 08 August 2026)
 -   📖 Read chapter 154 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (02:05 08 August 2026)
 -   📖 Read chapter 83 of [Ending Maker](https://anilist.co/manga/150170) (02:01 08 August 2026)
 -   📖 Read chapter 44 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (01:56 08 August 2026)
--   📖 Read chapter 95 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (17:53 07 August 2026)
--   📖 Read chapter 54 of [Dragonnap](https://anilist.co/manga/203800) (15:05 07 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
