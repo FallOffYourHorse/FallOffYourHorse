@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 146 of [A Flame Reborn](https://anilist.co/manga/173233) (14:55 08 August 2026)
+-   📖 Read chapter 193 of [The Art of Reincarnation](https://anilist.co/manga/153880) (14:51 08 August 2026)
 -   📖 Read chapter 105 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (05:37 08 August 2026)
 -   📺 Completed [Pokémon: Giratina and the Sky Warrior](https://anilist.co/anime/4026) (05:32 08 August 2026)
 -   📖 Read chapter 92 of [Ultimate Shut-in](https://anilist.co/manga/186019) (05:27 08 August 2026)
--   📖 Read chapter 154 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (02:05 08 August 2026)
--   📖 Read chapter 83 of [Ending Maker](https://anilist.co/manga/150170) (02:01 08 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
