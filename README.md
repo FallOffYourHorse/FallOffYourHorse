@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 97 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (21:11 09 August 2026)
+-   📖 Read chapter 117 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (21:07 09 August 2026)
+-   📖 Read chapter 61 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (20:59 09 August 2026)
 -   📖 Read chapter 3 - 8 of [Saijaku Kizoku ni Tensei Shita no de Akuyakutachi wo Atsumete Mita](https://anilist.co/manga/185560) (17:10 09 August 2026)
 -   📖 Read chapter 149 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (05:21 09 August 2026)
--   📖 Read chapter 143 of [Killer Peter](https://anilist.co/manga/170688) (05:15 09 August 2026)
--   📺 Watched episode 1 of [Young Ladies Don't Play Fighting Games](https://anilist.co/anime/128757) (05:03 09 August 2026)
--   📖 Read chapter 206 of [The Swordmaster's Son](https://anilist.co/manga/149332) (03:34 09 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
