@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 149 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (05:21 09 August 2026)
+-   📖 Read chapter 143 of [Killer Peter](https://anilist.co/manga/170688) (05:15 09 August 2026)
+-   📺 Watched episode 1 of [Young Ladies Don't Play Fighting Games](https://anilist.co/anime/128757) (05:03 09 August 2026)
 -   📖 Read chapter 206 of [The Swordmaster's Son](https://anilist.co/manga/149332) (03:34 09 August 2026)
 -   📖 Read chapter 37 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:28 09 August 2026)
--   📖 Read chapter 10 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (03:23 09 August 2026)
--   📖 Read chapter 133 of [The Player Hides His Past](https://anilist.co/manga/166154) (19:59 08 August 2026)
--   📖 Read chapter 155 of [Returned by the King](https://anilist.co/manga/170724) (19:57 08 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
