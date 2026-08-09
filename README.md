@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 4 of [Saijaku Kizoku ni Tensei Shita no de Akuyakutachi wo Atsumete Mita](https://anilist.co/manga/185560) (14:43 09 August 2026)
+-   📖 Read chapter 3 - 8 of [Saijaku Kizoku ni Tensei Shita no de Akuyakutachi wo Atsumete Mita](https://anilist.co/manga/185560) (17:10 09 August 2026)
 -   📖 Read chapter 149 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (05:21 09 August 2026)
 -   📖 Read chapter 143 of [Killer Peter](https://anilist.co/manga/170688) (05:15 09 August 2026)
 -   📺 Watched episode 1 of [Young Ladies Don't Play Fighting Games](https://anilist.co/anime/128757) (05:03 09 August 2026)
