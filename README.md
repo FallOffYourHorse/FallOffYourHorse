@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 168 of [The Novel's Extra](https://anilist.co/manga/152128) (21:38 10 August 2026)
 -   📖 Read chapter 60 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (16:23 10 August 2026)
 -   📖 Read chapter 60 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (16:23 10 August 2026)
 -   📖 Read chapter 139 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:16 10 August 2026)
 -   📖 Read chapter 41 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:10 10 August 2026)
--   📖 Read chapter 175 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (21:53 09 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
