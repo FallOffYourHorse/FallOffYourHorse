@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (20:52 11 August 2026)
 -   📖 Read chapter 247 of [The World After the Fall](https://anilist.co/manga/144957) (15:19 11 August 2026)
 -   📖 Read chapter 101 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (06:09 11 August 2026)
 -   📖 Read chapter 10 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (06:05 11 August 2026)
 -   📖 Read chapter 168 of [The Novel's Extra](https://anilist.co/manga/152128) (21:38 10 August 2026)
--   📖 Read chapter 60 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (16:23 10 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
