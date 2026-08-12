@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 38 of [Sachaejigan](https://anilist.co/manga/204894) (18:51 12 August 2026)
 -   📖 Read chapter 175 of [Marriage Toxin](https://anilist.co/manga/147329) (18:47 12 August 2026)
 -   📖 Read chapter 83 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (18:45 12 August 2026)
 -   📖 Read chapter 243 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (06:54 12 August 2026)
 -   📖 Read chapter 133 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:51 12 August 2026)
--   📖 Read chapter 137 of [I Killed the Main Player](https://anilist.co/manga/173020) (06:48 12 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
