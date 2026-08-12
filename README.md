@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 243 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (06:54 12 August 2026)
+-   📖 Read chapter 133 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:51 12 August 2026)
+-   📖 Read chapter 137 of [I Killed the Main Player](https://anilist.co/manga/173020) (06:48 12 August 2026)
+-   📖 Read chapter 48 of [Became the Lout First Prince](https://anilist.co/manga/207089) (06:42 12 August 2026)
 -   📖 Read chapter 128 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (02:51 12 August 2026)
--   📖 Read chapter 1 - 6 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (20:52 11 August 2026)
--   📖 Read chapter 247 of [The World After the Fall](https://anilist.co/manga/144957) (15:19 11 August 2026)
--   📖 Read chapter 101 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (06:09 11 August 2026)
--   📖 Read chapter 10 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (06:05 11 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
