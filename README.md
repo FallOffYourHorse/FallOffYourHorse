@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 of [The Villain's Survival Route](https://anilist.co/manga/187427) (17:09 14 August 2026)
 -   📖 Read chapter 71 of [The Executioner](https://anilist.co/manga/176845) (05:07 14 August 2026)
 -   📖 Read chapter 48 of [The Patron of Villains](https://anilist.co/manga/201009) (05:03 14 August 2026)
 -   📖 Read chapter 42 of [Superhuman Streamer](https://anilist.co/manga/202499) (04:56 14 August 2026)
 -   📖 Read chapter 17 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (04:47 14 August 2026)
--   📖 Read chapter 43 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:43 14 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
