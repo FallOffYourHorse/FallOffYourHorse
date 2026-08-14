@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (23:46 13 August 2026)
 -   📖 Read chapter 177 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (21:10 13 August 2026)
 -   📖 Read chapter 161 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:06 13 August 2026)
 -   📖 Read chapter 55 of [Dragonnap](https://anilist.co/manga/203800) (21:03 13 August 2026)
 -   📖 Read chapter 185 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (21:00 13 August 2026)
--   📖 Read chapter 90 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (20:57 13 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
