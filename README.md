@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (04:14 15 August 2026)
+-   📖 Read chapter 1 - 18 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (05:09 15 August 2026)
 -   📖 Read chapter 125 of [The New Gate](https://anilist.co/manga/85978) (02:34 15 August 2026)
 -   📖 Read chapter 96 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (02:16 15 August 2026)
 -   📖 Read chapter 45 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (02:11 15 August 2026)
