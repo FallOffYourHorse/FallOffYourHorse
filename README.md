@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 155 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (01:58 15 August 2026)
+-   📖 Read chapter 84 of [Ending Maker](https://anilist.co/manga/150170) (01:36 15 August 2026)
 -   📖 Read chapter 62 of [The Villain's Survival Route](https://anilist.co/manga/187427) (17:09 14 August 2026)
 -   📖 Read chapter 71 of [The Executioner](https://anilist.co/manga/176845) (05:07 14 August 2026)
 -   📖 Read chapter 48 of [The Patron of Villains](https://anilist.co/manga/201009) (05:03 14 August 2026)
--   📖 Read chapter 42 of [Superhuman Streamer](https://anilist.co/manga/202499) (04:56 14 August 2026)
--   📖 Read chapter 17 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (04:47 14 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
