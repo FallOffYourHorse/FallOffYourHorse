@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 93 of [Ultimate Shut-in](https://anilist.co/manga/186019) (07:00 15 August 2026)
 -   📖 Read chapter 106 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (06:06 15 August 2026)
 -   📖 Read chapter 1 - 30 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (06:03 15 August 2026)
 -   📖 Read chapter 125 of [The New Gate](https://anilist.co/manga/85978) (02:34 15 August 2026)
 -   📖 Read chapter 96 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (02:16 15 August 2026)
--   📖 Read chapter 45 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (02:11 15 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
