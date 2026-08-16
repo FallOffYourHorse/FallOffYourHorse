@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 - 57 of [How to Handle My Sassy Big Sis](https://anilist.co/manga/179506) (03:03 16 August 2026)
+-   📖 Read chapter 156 of [Returned by the King](https://anilist.co/manga/170724) (02:56 16 August 2026)
 -   📖 Read chapter 38 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (00:12 16 August 2026)
 -   📖 Read chapter 144 of [Killer Peter](https://anilist.co/manga/170688) (00:09 16 August 2026)
 -   📖 Read chapter 207 of [The Swordmaster's Son](https://anilist.co/manga/149332) (23:45 15 August 2026)
--   📖 Read chapter 147 of [A Flame Reborn](https://anilist.co/manga/173233) (23:42 15 August 2026)
--   📖 Read chapter 134 of [The Player Hides His Past](https://anilist.co/manga/166154) (23:38 15 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
