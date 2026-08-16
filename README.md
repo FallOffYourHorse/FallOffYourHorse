@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (05:15 16 August 2026)
+-   📖 Read chapter 11 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (06:05 16 August 2026)
+-   📖 Read chapter 1 - 20 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (05:57 16 August 2026)
 -   📖 Read chapter 53 - 57 of [How to Handle My Sassy Big Sis](https://anilist.co/manga/179506) (03:03 16 August 2026)
 -   📖 Read chapter 156 of [Returned by the King](https://anilist.co/manga/170724) (02:56 16 August 2026)
 -   📖 Read chapter 38 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (00:12 16 August 2026)
--   📖 Read chapter 144 of [Killer Peter](https://anilist.co/manga/170688) (00:09 16 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
