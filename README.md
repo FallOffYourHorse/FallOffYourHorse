@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 174 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:13 16 August 2026)
+-   📖 Read chapter 150 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (18:22 16 August 2026)
+-   📖 Read chapter 61 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (18:18 16 August 2026)
+-   📖 Read chapter 174 - 175 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:14 16 August 2026)
 -   📖 Plans to read [Crimson Karma](https://anilist.co/manga/116264) (06:30 16 August 2026)
 -   📖 Read chapter 11 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (06:05 16 August 2026)
--   📖 Read chapter 1 - 20 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (05:57 16 August 2026)
--   📖 Read chapter 53 - 57 of [How to Handle My Sassy Big Sis](https://anilist.co/manga/179506) (03:03 16 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
