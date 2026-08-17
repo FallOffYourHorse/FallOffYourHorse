@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (13:28 17 August 2026)
+-   📖 Read chapter 1 - 9 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (13:41 17 August 2026)
 -   📖 Read chapter 176 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (08:50 17 August 2026)
 -   📖 Read chapter 57 - 58 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (04:35 17 August 2026)
 -   📖 Read chapter 98 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (04:20 17 August 2026)
