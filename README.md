@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 57 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (04:26 17 August 2026)
+-   📖 Read chapter 57 - 58 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (04:35 17 August 2026)
 -   📖 Read chapter 98 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (04:20 17 August 2026)
 -   📖 Plans to read [Goblin Jusikoesa](https://anilist.co/manga/214220) (03:55 17 August 2026)
 -   📖 Read chapter 140 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:53 17 August 2026)
