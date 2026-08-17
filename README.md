@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (04:26 17 August 2026)
+-   📖 Read chapter 98 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (04:20 17 August 2026)
+-   📖 Plans to read [Goblin Jusikoesa](https://anilist.co/manga/214220) (03:55 17 August 2026)
+-   📖 Read chapter 140 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:53 17 August 2026)
 -   📖 Read chapter 59 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (03:35 17 August 2026)
--   📖 Read chapter 62 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (22:25 16 August 2026)
--   📖 Read chapter 150 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (18:22 16 August 2026)
--   📖 Read chapter 61 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (18:18 16 August 2026)
--   📖 Read chapter 174 - 175 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:14 16 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
