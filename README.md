@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (21:52 18 August 2026)
 -   📖 Plans to read [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (21:13 18 August 2026)
 -   📖 Read chapter 49 of [Became the Lout First Prince](https://anilist.co/manga/207089) (21:11 18 August 2026)
 -   📖 Read chapter 181 - 182 of [The Infinite Mage](https://anilist.co/manga/159930) (21:04 18 August 2026)
 -   📖 Read chapter 244 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:38 18 August 2026)
--   📖 Read chapter 138 of [I Killed the Main Player](https://anilist.co/manga/173020) (16:16 18 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
