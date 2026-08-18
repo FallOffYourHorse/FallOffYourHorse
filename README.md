@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (21:13 18 August 2026)
+-   📖 Read chapter 49 of [Became the Lout First Prince](https://anilist.co/manga/207089) (21:11 18 August 2026)
+-   📖 Read chapter 181 - 182 of [The Infinite Mage](https://anilist.co/manga/159930) (21:04 18 August 2026)
+-   📖 Read chapter 244 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:38 18 August 2026)
 -   📖 Read chapter 138 of [I Killed the Main Player](https://anilist.co/manga/173020) (16:16 18 August 2026)
--   📖 Read chapter 248 of [The World After the Fall](https://anilist.co/manga/144957) (02:23 18 August 2026)
--   📖 Read chapter 11 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (02:20 18 August 2026)
--   📖 Read chapter 1 - 24 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (21:49 17 August 2026)
--   📖 Read chapter 176 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (08:50 17 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
