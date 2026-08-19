@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 24 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (03:35 19 August 2026)
+-   📖 Read chapter 60 - 61 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (04:04 19 August 2026)
+-   📖 Read chapter 176 of [Marriage Toxin](https://anilist.co/manga/147329) (04:02 19 August 2026)
+-   📖 Read chapter 1 - 32 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (04:00 19 August 2026)
+-   📖 Read chapter 1 - 32 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (04:00 19 August 2026)
 -   📖 Read chapter 178 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (02:23 19 August 2026)
--   📖 Read chapter 134 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (02:19 19 August 2026)
--   📖 Plans to read [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (21:13 18 August 2026)
--   📖 Read chapter 49 of [Became the Lout First Prince](https://anilist.co/manga/207089) (21:11 18 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
