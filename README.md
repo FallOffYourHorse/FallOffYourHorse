@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 84 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (13:34 19 August 2026)
 -   📖 Read chapter 60 - 61 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (04:04 19 August 2026)
 -   📖 Read chapter 176 of [Marriage Toxin](https://anilist.co/manga/147329) (04:02 19 August 2026)
 -   📖 Read chapter 1 - 32 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (04:00 19 August 2026)
 -   📖 Read chapter 1 - 32 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (04:00 19 August 2026)
--   📖 Read chapter 178 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (02:23 19 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
