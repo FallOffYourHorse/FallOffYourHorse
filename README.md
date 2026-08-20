@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 of [Dragonnap](https://anilist.co/manga/203800) (13:34 20 August 2026)
+-   📖 Read chapter 186 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (13:31 20 August 2026)
 -   📖 Read chapter 195 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (01:45 20 August 2026)
 -   📖 Read chapter 90 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (00:30 20 August 2026)
 -   📖 Read chapter 91 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (00:22 20 August 2026)
--   📖 Read chapter 215 of [Pick Me Up](https://anilist.co/manga/159441) (21:36 19 August 2026)
--   📖 Read chapter 1 - 32 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (16:14 19 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
