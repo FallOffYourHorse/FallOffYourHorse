@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (00:30 20 August 2026)
+-   📖 Read chapter 91 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (00:22 20 August 2026)
 -   📖 Read chapter 215 of [Pick Me Up](https://anilist.co/manga/159441) (21:36 19 August 2026)
 -   📖 Read chapter 1 - 32 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (16:14 19 August 2026)
 -   📖 Read chapter 1 - 7 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (14:12 19 August 2026)
--   📖 Read chapter 84 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (13:34 19 August 2026)
--   📖 Read chapter 60 - 61 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (04:04 19 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
