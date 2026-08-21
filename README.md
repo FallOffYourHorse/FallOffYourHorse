@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 16 of [Overgeared](https://anilist.co/manga/117460) (22:11 21 August 2026)
+-   📖 Read chapter 1 - 25 of [Overgeared](https://anilist.co/manga/117460) (22:34 21 August 2026)
 -   📖 Read chapter 102 - 107 of [Breakers](https://anilist.co/manga/197888) (21:21 21 August 2026)
 -   📖 Read chapter 53 - 57 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (17:08 21 August 2026)
 -   📖 Read chapter 120 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (16:58 21 August 2026)
