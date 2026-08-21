@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (01:18 21 August 2026)
+-   📖 Read chapter 49 of [The Patron of Villains](https://anilist.co/manga/201009) (01:14 21 August 2026)
+-   📖 Read chapter 271 - 273 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (01:09 21 August 2026)
+-   📖 Read chapter 18 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (00:49 21 August 2026)
 -   📖 Read chapter 162 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (00:42 21 August 2026)
--   📖 Read chapter 72 of [The Executioner](https://anilist.co/manga/176845) (00:37 21 August 2026)
--   📖 Read chapter 43 of [Superhuman Streamer](https://anilist.co/manga/202499) (00:34 21 August 2026)
--   📖 Read chapter 56 of [Dragonnap](https://anilist.co/manga/203800) (13:34 20 August 2026)
--   📖 Read chapter 186 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (13:31 20 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
