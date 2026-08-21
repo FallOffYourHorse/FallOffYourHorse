@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 - 104 of [Breakers](https://anilist.co/manga/197888) (21:13 21 August 2026)
 -   📖 Read chapter 53 - 57 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (17:08 21 August 2026)
 -   📖 Read chapter 120 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (16:58 21 August 2026)
 -   📖 Read chapter 44 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (01:18 21 August 2026)
 -   📖 Read chapter 49 of [The Patron of Villains](https://anilist.co/manga/201009) (01:14 21 August 2026)
--   📖 Read chapter 271 - 273 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (01:09 21 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
