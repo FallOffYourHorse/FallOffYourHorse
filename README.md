@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 156 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (01:06 22 August 2026)
+-   📖 Read chapter 46 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (01:02 22 August 2026)
+-   📖 Read chapter 64 of [The Villain's Survival Route](https://anilist.co/manga/187427) (00:51 22 August 2026)
 -   📖 Read chapter 1 - 25 of [Overgeared](https://anilist.co/manga/117460) (22:34 21 August 2026)
 -   📖 Read chapter 102 - 107 of [Breakers](https://anilist.co/manga/197888) (21:21 21 August 2026)
--   📖 Read chapter 53 - 57 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (17:08 21 August 2026)
--   📖 Read chapter 120 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (16:58 21 August 2026)
--   📖 Read chapter 44 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (01:18 21 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
