@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 - 88 of [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (23:30 22 August 2026)
 -   📖 Read chapter 156 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (01:06 22 August 2026)
 -   📖 Read chapter 46 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (01:02 22 August 2026)
 -   📖 Read chapter 64 of [The Villain's Survival Route](https://anilist.co/manga/187427) (00:51 22 August 2026)
 -   📖 Read chapter 1 - 25 of [Overgeared](https://anilist.co/manga/117460) (22:34 21 August 2026)
--   📖 Read chapter 102 - 107 of [Breakers](https://anilist.co/manga/197888) (21:21 21 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
