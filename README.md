@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 208 of [The Swordmaster's Son](https://anilist.co/manga/149332) (03:48 23 August 2026)
+-   📖 Read chapter 151 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (03:43 23 August 2026)
 -   📖 Read chapter 148 of [A Flame Reborn](https://anilist.co/manga/173233) (03:35 23 August 2026)
 -   📖 Read chapter 12 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (03:31 23 August 2026)
 -   📖 Read chapter 39 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:25 23 August 2026)
--   📖 Read chapter 15 - 16 of [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (03:23 23 August 2026)
--   📖 Plans to read [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (03:16 23 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
