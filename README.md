@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 85 - 89 of [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (01:36 23 August 2026)
--   📖 Read chapter 156 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (01:06 22 August 2026)
--   📖 Read chapter 46 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (01:02 22 August 2026)
--   📖 Read chapter 64 of [The Villain's Survival Route](https://anilist.co/manga/187427) (00:51 22 August 2026)
--   📖 Read chapter 1 - 25 of [Overgeared](https://anilist.co/manga/117460) (22:34 21 August 2026)
+-   📖 Read chapter 148 of [A Flame Reborn](https://anilist.co/manga/173233) (03:35 23 August 2026)
+-   📖 Read chapter 12 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (03:31 23 August 2026)
+-   📖 Read chapter 39 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:25 23 August 2026)
+-   📖 Read chapter 15 - 16 of [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (03:23 23 August 2026)
+-   📖 Plans to read [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (03:16 23 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
