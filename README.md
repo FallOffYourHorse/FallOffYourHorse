@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 118 - 120 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (20:18 24 August 2026)
+-   📖 Read chapter 118 - 122 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (20:24 24 August 2026)
 -   📖 Read chapter 62 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (10:23 24 August 2026)
 -   📖 Read chapter 59 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (10:21 24 August 2026)
 -   📖 Read chapter 42 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:18 24 August 2026)
