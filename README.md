@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:18 24 August 2026)
 -   📖 Read chapter 177 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:12 24 August 2026)
 -   📖 Read chapter 99 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (02:09 24 August 2026)
 -   📖 Read chapter 145 of [Killer Peter](https://anilist.co/manga/170688) (18:26 23 August 2026)
 -   📖 Read chapter 176 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (18:05 23 August 2026)
--   📖 Read chapter 208 of [The Swordmaster's Son](https://anilist.co/manga/149332) (03:48 23 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
