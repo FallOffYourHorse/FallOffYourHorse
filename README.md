@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 15 - 18 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (00:36 25 August 2026)
+-   📖 Read chapter 169 of [The Novel's Extra](https://anilist.co/manga/152128) (03:24 25 August 2026)
+-   📺 Watched episode 5 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (03:13 25 August 2026)
+-   📺 Watched episode 15 - 19 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (02:37 25 August 2026)
 -   📖 Read chapter 118 - 122 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (20:24 24 August 2026)
 -   📖 Read chapter 62 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (10:23 24 August 2026)
--   📖 Read chapter 59 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (10:21 24 August 2026)
--   📖 Read chapter 42 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:18 24 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
