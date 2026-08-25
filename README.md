@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 - 103 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (05:20 25 August 2026)
+-   📖 Read chapter 12 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (05:12 25 August 2026)
 -   📖 Read chapter 169 of [The Novel's Extra](https://anilist.co/manga/152128) (03:24 25 August 2026)
 -   📺 Watched episode 5 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (03:13 25 August 2026)
 -   📺 Watched episode 15 - 19 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (02:37 25 August 2026)
--   📖 Read chapter 118 - 122 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (20:24 24 August 2026)
--   📖 Read chapter 62 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (10:23 24 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
