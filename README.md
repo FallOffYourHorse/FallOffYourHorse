@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 249 of [The World After the Fall](https://anilist.co/manga/144957) (00:24 26 August 2026)
--   📖 Read chapter 102 - 103 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (05:20 25 August 2026)
--   📖 Read chapter 12 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (05:12 25 August 2026)
--   📖 Read chapter 169 of [The Novel's Extra](https://anilist.co/manga/152128) (03:24 25 August 2026)
--   📺 Watched episode 5 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (03:13 25 August 2026)
+-   📺 Watched episode 1 - 8 of [A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://anilist.co/anime/199408) (10:42 27 August 2026)
+-   📖 Read chapter 92 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (08:59 27 August 2026)
+-   📖 Read chapter 85 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (05:49 27 August 2026)
+-   📖 Read chapter 183 of [The Infinite Mage](https://anilist.co/manga/159930) (05:46 27 August 2026)
+-   📖 Read chapter 139 of [I Killed the Main Player](https://anilist.co/manga/173020) (05:44 27 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
