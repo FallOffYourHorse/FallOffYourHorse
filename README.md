@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 163 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (21:36 27 August 2026)
--   📖 Read chapter 187 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (21:32 27 August 2026)
--   📖 Read chapter 83 - 84 of [The Eminence in Shadow](https://anilist.co/manga/106758) (21:28 27 August 2026)
--   📖 Read chapter 177 of [Marriage Toxin](https://anilist.co/manga/147329) (21:20 27 August 2026)
--   📺 Watched episode 1 - 8 of [A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://anilist.co/anime/199408) (10:42 27 August 2026)
+-   📖 Read chapter 73 of [The Executioner](https://anilist.co/manga/176845) (07:18 28 August 2026)
+-   📖 Read chapter 19 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (07:14 28 August 2026)
+-   📖 Read chapter 121 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (07:12 28 August 2026)
+-   📖 Read chapter 50 of [The Patron of Villains](https://anilist.co/manga/201009) (07:08 28 August 2026)
+-   📖 Read chapter 45 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (07:03 28 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
