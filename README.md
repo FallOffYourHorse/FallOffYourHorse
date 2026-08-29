@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 65 of [The Villain's Survival Route](https://anilist.co/manga/187427) (23:46 28 August 2026)
--   📖 Read chapter 73 of [The Executioner](https://anilist.co/manga/176845) (07:18 28 August 2026)
--   📖 Read chapter 19 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (07:14 28 August 2026)
--   📖 Read chapter 121 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (07:12 28 August 2026)
--   📖 Read chapter 50 of [The Patron of Villains](https://anilist.co/manga/201009) (07:08 28 August 2026)
+-   📖 Read chapter 16 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (08:47 29 August 2026)
+-   📖 Read chapter 140 - 145 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (08:11 29 August 2026)
+-   📺 Watched episode 20 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (04:39 29 August 2026)
+-   📖 Read chapter 158 of [Returned by the King](https://anilist.co/manga/170724) (03:08 29 August 2026)
+-   📖 Read chapter 33 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (03:04 29 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
