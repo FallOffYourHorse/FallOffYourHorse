@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (01:02 30 August 2026)
--   📖 Read chapter 22 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (00:52 30 August 2026)
--   📖 Read chapter 209 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:47 30 August 2026)
--   📖 Read chapter 149 of [A Flame Reborn](https://anilist.co/manga/173233) (00:44 30 August 2026)
--   📖 Read chapter 194 of [The Art of Reincarnation](https://anilist.co/manga/153880) (00:41 30 August 2026)
+-   📖 Read chapter 113 - 114 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:21 30 August 2026)
+-   📖 Read chapter 7 - 11 of [Love for Sale](https://anilist.co/manga/213988) (06:31 30 August 2026)
+-   📺 Watched episode 6 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (06:14 30 August 2026)
+-   📖 Read chapter 40 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:43 30 August 2026)
+-   📖 Read chapter 152 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (03:41 30 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
