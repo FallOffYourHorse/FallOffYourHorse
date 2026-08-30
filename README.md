@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 of [Raidorl Seiken Senki](https://anilist.co/manga/160053) (08:47 29 August 2026)
--   📖 Read chapter 140 - 145 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (08:11 29 August 2026)
--   📺 Watched episode 20 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (04:39 29 August 2026)
--   📖 Read chapter 158 of [Returned by the King](https://anilist.co/manga/170724) (03:08 29 August 2026)
--   📖 Read chapter 33 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (03:04 29 August 2026)
+-   📖 Read chapter 13 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (01:02 30 August 2026)
+-   📖 Read chapter 22 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (00:52 30 August 2026)
+-   📖 Read chapter 209 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:47 30 August 2026)
+-   📖 Read chapter 149 of [A Flame Reborn](https://anilist.co/manga/173233) (00:44 30 August 2026)
+-   📖 Read chapter 194 of [The Art of Reincarnation](https://anilist.co/manga/153880) (00:41 30 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
