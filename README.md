@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 135 - 136 of [The Player Hides His Past](https://anilist.co/manga/166154) (18:14 30 August 2026)
 -   📖 Read chapter 113 - 114 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:21 30 August 2026)
 -   📖 Read chapter 7 - 11 of [Love for Sale](https://anilist.co/manga/213988) (06:31 30 August 2026)
 -   📺 Watched episode 6 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (06:14 30 August 2026)
 -   📖 Read chapter 40 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:43 30 August 2026)
--   📖 Read chapter 152 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (03:41 30 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
