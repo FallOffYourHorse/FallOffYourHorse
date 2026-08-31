@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (18:29 30 August 2026)
--   📖 Read chapter 135 - 136 of [The Player Hides His Past](https://anilist.co/manga/166154) (18:14 30 August 2026)
--   📖 Read chapter 113 - 114 of [Synced for Pleasure](https://anilist.co/manga/187194) (08:21 30 August 2026)
--   📖 Read chapter 7 - 11 of [Love for Sale](https://anilist.co/manga/213988) (06:31 30 August 2026)
--   📺 Watched episode 6 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (06:14 30 August 2026)
+-   📖 Read chapter 1 - 35 of [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (06:23 31 August 2026)
+-   📖 Plans to read [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (04:49 31 August 2026)
+-   📖 Read chapter 58 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (04:49 31 August 2026)
+-   📖 Read chapter 142 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:45 31 August 2026)
+-   📖 Read chapter 43 - 44 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:41 31 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
