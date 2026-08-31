@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 35 of [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (06:23 31 August 2026)
+-   📖 Read chapter 1 - 10 of [30 Second Demon King](https://anilist.co/manga/143101) (08:12 31 August 2026)
+-   📖 Plans to read [30 Second Demon King](https://anilist.co/manga/143101) (07:37 31 August 2026)
+-   📖 Read chapter 1 - 53 of [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (07:36 31 August 2026)
 -   📖 Plans to read [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (04:49 31 August 2026)
 -   📖 Read chapter 58 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (04:49 31 August 2026)
--   📖 Read chapter 142 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:45 31 August 2026)
--   📖 Read chapter 43 - 44 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:41 31 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
