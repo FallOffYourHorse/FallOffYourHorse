@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 10 of [30 Second Demon King](https://anilist.co/manga/143101) (08:12 31 August 2026)
--   📖 Plans to read [30 Second Demon King](https://anilist.co/manga/143101) (07:37 31 August 2026)
--   📖 Read chapter 1 - 53 of [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (07:36 31 August 2026)
--   📖 Plans to read [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (04:49 31 August 2026)
--   📖 Read chapter 58 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (04:49 31 August 2026)
+-   📖 Read chapter 250 of [The World After the Fall](https://anilist.co/manga/144957) (14:03 01 September 2026)
+-   📖 Read chapter 33 - 34 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (13:58 01 September 2026)
+-   📖 Read chapter 13 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (13:52 01 September 2026)
+-   📖 Read chapter 170 of [The Novel's Extra](https://anilist.co/manga/152128) (13:47 01 September 2026)
+-   📖 Read chapter 104 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (13:43 01 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
