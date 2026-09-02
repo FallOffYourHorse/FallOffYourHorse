@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 50 - 51 of [Became the Lout First Prince](https://anilist.co/manga/207089) (23:17 01 September 2026)
+-   📖 Read chapter 140 of [I Killed the Main Player](https://anilist.co/manga/173020) (23:08 01 September 2026)
+-   📖 Read chapter 184 of [The Infinite Mage](https://anilist.co/manga/159930) (23:02 01 September 2026)
+-   📖 Read chapter 245 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (22:58 01 September 2026)
 -   📖 Read chapter 250 of [The World After the Fall](https://anilist.co/manga/144957) (14:03 01 September 2026)
--   📖 Read chapter 33 - 34 of [Geomsul Goinmurui Game Bangsong](https://anilist.co/manga/212619) (13:58 01 September 2026)
--   📖 Read chapter 13 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (13:52 01 September 2026)
--   📖 Read chapter 170 of [The Novel's Extra](https://anilist.co/manga/152128) (13:47 01 September 2026)
--   📖 Read chapter 104 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (13:43 01 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
