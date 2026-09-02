@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 86 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (07:22 02 September 2026)
 -   📖 Read chapter 178 of [Marriage Toxin](https://anilist.co/manga/147329) (04:09 02 September 2026)
 -   📖 Read chapter 136 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (04:08 02 September 2026)
 -   📖 Read chapter 50 - 51 of [Became the Lout First Prince](https://anilist.co/manga/207089) (23:17 01 September 2026)
 -   📖 Read chapter 140 of [I Killed the Main Player](https://anilist.co/manga/173020) (23:08 01 September 2026)
--   📖 Read chapter 184 of [The Infinite Mage](https://anilist.co/manga/159930) (23:02 01 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
