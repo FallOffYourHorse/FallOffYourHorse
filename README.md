@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 of [Superhuman Streamer](https://anilist.co/manga/202499) (21:06 03 September 2026)
 -   📖 Read chapter 164 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:23 03 September 2026)
 -   📖 Read chapter 188 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (08:20 03 September 2026)
 -   📖 Read chapter 75 of [Rooftop Sex King](https://anilist.co/manga/188101) (05:03 03 September 2026)
 -   📖 Reread chapter 97 of [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (04:18 03 September 2026)
--   📖 Read chapter 6 - 13 of [Joreop Hu Ban Chingudeureul Da Ttameogeum](https://anilist.co/manga/213751) (04:15 03 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
