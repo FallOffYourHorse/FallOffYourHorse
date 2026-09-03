@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 39 - 40 of [Sachaejigan](https://anilist.co/manga/204894) (18:31 02 September 2026)
--   📖 Read chapter 33 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (18:24 02 September 2026)
--   📖 Read chapter 179 - 180 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (18:22 02 September 2026)
--   📖 Read chapter 86 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (07:22 02 September 2026)
--   📖 Read chapter 178 of [Marriage Toxin](https://anilist.co/manga/147329) (04:09 02 September 2026)
+-   📖 Read chapter 75 of [Rooftop Sex King](https://anilist.co/manga/188101) (05:03 03 September 2026)
+-   📖 Reread chapter 97 of [Returned Soldier's Female Conquest Diary](https://anilist.co/manga/175754) (04:18 03 September 2026)
+-   📖 Read chapter 6 - 13 of [Joreop Hu Ban Chingudeureul Da Ttameogeum](https://anilist.co/manga/213751) (04:15 03 September 2026)
+-   📖 Read chapter 12 - 13 of [Love for Sale](https://anilist.co/manga/213988) (04:11 03 September 2026)
+-   📖 Read chapter 1 of [Akuyaku Reijou desu ga, Shiawase ni Natte Misemasu wa! Anthology Comic](https://anilist.co/manga/112403) (04:05 03 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
