@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 91 - 92 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (07:58 04 September 2026)
+-   📖 Read chapter 10 - 25 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (07:50 04 September 2026)
+-   📖 Read chapter 274 - 275 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (06:16 04 September 2026)
 -   📖 Read chapter 51 of [The Patron of Villains](https://anilist.co/manga/201009) (02:08 04 September 2026)
 -   📖 Read chapter 45 of [Superhuman Streamer](https://anilist.co/manga/202499) (21:06 03 September 2026)
--   📖 Read chapter 164 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:23 03 September 2026)
--   📖 Read chapter 188 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (08:20 03 September 2026)
--   📖 Read chapter 75 of [Rooftop Sex King](https://anilist.co/manga/188101) (05:03 03 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
