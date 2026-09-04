@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 122 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (18:43 04 September 2026)
--   📖 Read chapter 74 of [The Executioner](https://anilist.co/manga/176845) (18:37 04 September 2026)
--   📖 Read chapter 46 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (18:33 04 September 2026)
--   📖 Read chapter 91 - 92 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (07:58 04 September 2026)
--   📖 Read chapter 10 - 25 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (07:50 04 September 2026)
+-   📖 Read chapter 66 of [The Villain's Survival Route](https://anilist.co/manga/187427) (22:02 04 September 2026)
+-   📖 Read chapter 1 - 25 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (22:00 04 September 2026)
+-   📖 Plans to read [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (20:37 04 September 2026)
+-   📖 Read chapter 60 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (20:36 04 September 2026)
+-   📖 Plans to read [Reveries of the Moonlight](https://anilist.co/manga/207220) (20:22 04 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
