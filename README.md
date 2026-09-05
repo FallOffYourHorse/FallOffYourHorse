@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 62 - 109 of [Act Like a Boss Monster, Mr. Swallow!](https://anilist.co/manga/172623) (09:36 05 September 2026)
+-   📖 Read chapter 137 of [The Player Hides His Past](https://anilist.co/manga/166154) (11:47 05 September 2026)
+-   📖 Read chapter 62 - 142 of [Act Like a Boss Monster, Mr. Swallow!](https://anilist.co/manga/172623) (11:45 05 September 2026)
 -   📖 Read chapter 96 of [Ultimate Shut-in](https://anilist.co/manga/186019) (06:37 05 September 2026)
 -   📖 Read chapter 158 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (23:55 04 September 2026)
 -   📖 Read chapter 34 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (23:42 04 September 2026)
--   📖 Read chapter 48 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (23:40 04 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
