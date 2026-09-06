@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 - 25 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (08:38 06 September 2026)
+-   📺 Watched episode 7 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (05:54 06 September 2026)
 -   📖 Read chapter 14 - 15 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (01:45 06 September 2026)
 -   📖 Read chapter 153 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (23:29 05 September 2026)
 -   📖 Read chapter 23 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (23:26 05 September 2026)
--   📖 Read chapter 210 of [The Swordmaster's Son](https://anilist.co/manga/149332) (23:20 05 September 2026)
--   📖 Read chapter 197 of [The Art of Reincarnation](https://anilist.co/manga/153880) (23:16 05 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
