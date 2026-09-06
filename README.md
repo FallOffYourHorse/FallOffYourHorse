@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 9 of [Reincarnated Into a Game as the Hero’s Friend: Running the Kingdom Behind the Scenes](https://anilist.co/manga/158407) (11:50 06 September 2026)
+-   📖 Plans to read [Reincarnated Into a Game as the Hero’s Friend: Running the Kingdom Behind the Scenes](https://anilist.co/manga/158407) (11:17 06 September 2026)
 -   📖 Read chapter 6 - 25 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (08:38 06 September 2026)
 -   📺 Watched episode 7 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (05:54 06 September 2026)
 -   📖 Read chapter 14 - 15 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (01:45 06 September 2026)
--   📖 Read chapter 153 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (23:29 05 September 2026)
--   📖 Read chapter 23 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (23:26 05 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
