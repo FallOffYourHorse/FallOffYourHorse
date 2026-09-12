@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 151 of [A Flame Reborn](https://anilist.co/manga/173233) (22:49 12 September 2026)
+-   📖 Read chapter 109 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (22:45 12 September 2026)
+-   📖 Read chapter 97 of [Ultimate Shut-in](https://anilist.co/manga/186019) (22:40 12 September 2026)
+-   📖 Read chapter 160 of [Returned by the King](https://anilist.co/manga/170724) (22:27 12 September 2026)
 -   📖 Read chapter 43 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (05:02 12 September 2026)
--   📖 Read chapter 159 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (04:57 12 September 2026)
--   📖 Read chapter 35 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (04:54 12 September 2026)
--   📖 Plans to read [The Dark History of the Reincarnated Villainess](https://anilist.co/manga/117662) (08:40 11 September 2026)
--   📖 Read chapter 52 of [The Patron of Villains](https://anilist.co/manga/201009) (08:39 11 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
