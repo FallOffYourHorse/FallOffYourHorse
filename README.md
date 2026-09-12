@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 9 of [Reincarnated Into a Game as the Hero’s Friend: Running the Kingdom Behind the Scenes](https://anilist.co/manga/158407) (11:50 06 September 2026)
--   📖 Plans to read [Reincarnated Into a Game as the Hero’s Friend: Running the Kingdom Behind the Scenes](https://anilist.co/manga/158407) (11:17 06 September 2026)
--   📖 Read chapter 6 - 25 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (08:38 06 September 2026)
--   📺 Watched episode 7 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (05:54 06 September 2026)
--   📖 Read chapter 14 - 15 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (01:45 06 September 2026)
+-   📖 Read chapter 43 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (05:02 12 September 2026)
+-   📖 Read chapter 159 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (04:57 12 September 2026)
+-   📖 Read chapter 35 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (04:54 12 September 2026)
+-   📖 Plans to read [The Dark History of the Reincarnated Villainess](https://anilist.co/manga/117662) (08:40 11 September 2026)
+-   📖 Read chapter 52 of [The Patron of Villains](https://anilist.co/manga/201009) (08:39 11 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
