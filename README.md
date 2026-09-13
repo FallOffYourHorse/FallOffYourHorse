@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (18:53 13 September 2026)
 -   📺 Watched episode 22 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (09:26 13 September 2026)
 -   📺 Watched episode 8 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (09:09 13 September 2026)
 -   📖 Read chapter 41 - 42 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:23 13 September 2026)
 -   📖 Read chapter 198 of [The Art of Reincarnation](https://anilist.co/manga/153880) (06:19 13 September 2026)
--   📖 Read chapter 138 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:16 13 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
