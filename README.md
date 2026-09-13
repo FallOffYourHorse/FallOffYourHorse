@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 126 of [The New Gate](https://anilist.co/manga/85978) (19:31 13 September 2026)
--   📖 Read chapter 148 of [Killer Peter](https://anilist.co/manga/170688) (19:18 13 September 2026)
--   📖 Read chapter 64 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (18:53 13 September 2026)
--   📺 Watched episode 22 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (09:26 13 September 2026)
--   📺 Watched episode 8 of [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (09:09 13 September 2026)
+-   📖 Plans to read [Jeamjincheongyeong](https://anilist.co/manga/213806) (23:09 13 September 2026)
+-   📖 Plans to read [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (23:09 13 September 2026)
+-   📖 Plans to read [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (23:09 13 September 2026)
+-   📖 Read chapter 61 - 62 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (23:09 13 September 2026)
+-   📖 Read chapter 65 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (23:00 13 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
