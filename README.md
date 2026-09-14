@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 46 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:14 14 September 2026)
+-   📖 Read chapter 1 - 4 of [Jeamjincheongyeong](https://anilist.co/manga/213806) (02:04 14 September 2026)
+-   📖 Read chapter 1 - 20 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (01:51 14 September 2026)
+-   📖 Read chapter 1 - 6 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (00:48 14 September 2026)
 -   📖 Plans to read [Jeamjincheongyeong](https://anilist.co/manga/213806) (23:09 13 September 2026)
--   📖 Plans to read [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (23:09 13 September 2026)
--   📖 Plans to read [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (23:09 13 September 2026)
--   📖 Read chapter 61 - 62 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (23:09 13 September 2026)
--   📖 Read chapter 65 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (23:00 13 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
