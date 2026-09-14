@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 125 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (03:52 14 September 2026)
 -   📖 Read chapter 46 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:14 14 September 2026)
 -   📖 Read chapter 1 - 4 of [Jeamjincheongyeong](https://anilist.co/manga/213806) (02:04 14 September 2026)
 -   📖 Read chapter 1 - 20 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (01:51 14 September 2026)
 -   📖 Read chapter 1 - 6 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (00:48 14 September 2026)
--   📖 Plans to read [Jeamjincheongyeong](https://anilist.co/manga/213806) (23:09 13 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
