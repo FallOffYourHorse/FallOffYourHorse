@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 - 28 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (03:08 15 September 2026)
+-   📖 Read chapter 106 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:55 15 September 2026)
+-   📖 Read chapter 15 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (02:51 15 September 2026)
+-   📖 Read chapter 172 of [The Novel's Extra](https://anilist.co/manga/152128) (02:49 15 September 2026)
 -   📖 Read chapter 144 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (21:56 14 September 2026)
--   📖 Read chapter 125 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (03:52 14 September 2026)
--   📖 Read chapter 46 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:14 14 September 2026)
--   📖 Read chapter 1 - 4 of [Jeamjincheongyeong](https://anilist.co/manga/213806) (02:04 14 September 2026)
--   📖 Read chapter 1 - 20 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (01:51 14 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
