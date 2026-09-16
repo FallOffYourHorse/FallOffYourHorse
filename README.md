@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 14 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (04:51 16 September 2026)
+-   📖 Plans to read [Myeolgwisudojeon](https://anilist.co/manga/214315) (03:49 16 September 2026)
+-   📖 Read chapter 247 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (03:46 16 September 2026)
+-   📖 Read chapter 173 - 179 of [The Exiled Heavy Knight Knows How to Game the System](https://anilist.co/manga/150193) (03:34 16 September 2026)
 -   📖 Read chapter 44 - 58 of [The Crimson Lady](https://anilist.co/manga/153514) (02:13 16 September 2026)
--   📖 Read chapter 186 of [The Infinite Mage](https://anilist.co/manga/159930) (23:57 15 September 2026)
--   📖 Read chapter 53 of [Became the Lout First Prince](https://anilist.co/manga/207089) (23:54 15 September 2026)
--   📖 Read chapter 14 of [Joreop Hu Ban Chingudeureul Da Ttameogeum](https://anilist.co/manga/213751) (21:31 15 September 2026)
--   📖 Read chapter 113 - 114 of [Breakers](https://anilist.co/manga/197888) (21:29 15 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
