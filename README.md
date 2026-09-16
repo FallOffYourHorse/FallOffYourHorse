@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 138 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (20:42 16 September 2026)
 -   📖 Read chapter 88 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (20:38 16 September 2026)
 -   📖 Read chapter 59 - 60 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (18:53 16 September 2026)
 -   📖 Read chapter 42 of [Sachaejigan](https://anilist.co/manga/204894) (18:48 16 September 2026)
 -   📖 Read chapter 201 - 202 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (18:21 16 September 2026)
--   📖 Read chapter 182 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (15:42 16 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
