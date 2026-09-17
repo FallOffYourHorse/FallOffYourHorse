@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Nani no Torie mo Nai Heibon na Ore ga Bijin Futago Shimai wo Inochigake de Tasuketa Kekka, Jitsu wa Yandere Datta Futari wo Gachi Horesasete Shimatta Ken](https://anilist.co/manga/216227) (16:21 17 September 2026)
+-   📖 Plans to read [Nani no Torie mo Nai Heibon na Ore ga Bijin Futago Shimai wo Inochigake de Tasuketa Kekka, Jitsu wa Yandere Datta Futari wo Gachi Horesasete Shimatta Ken](https://anilist.co/manga/216227) (16:18 17 September 2026)
 -   📖 Read chapter 190 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (13:34 17 September 2026)
 -   📖 Read chapter 95 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (01:44 17 September 2026)
 -   📖 Read chapter 94 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (01:35 17 September 2026)
--   📖 Plans to read [The Flowers of Evil](https://anilist.co/manga/54705) (01:32 17 September 2026)
--   📖 Read chapter 219 of [Pick Me Up](https://anilist.co/manga/159441) (01:31 17 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
