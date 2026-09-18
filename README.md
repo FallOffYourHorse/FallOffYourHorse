@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 48 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (01:56 18 September 2026)
+-   📖 Read chapter 27 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (01:47 18 September 2026)
 -   📖 Read chapter 47 of [Superhuman Streamer](https://anilist.co/manga/202499) (22:39 17 September 2026)
 -   📖 Plans to read [Vampire Lord-ro Saneun Beop](https://anilist.co/manga/203154) (21:31 17 September 2026)
 -   📖 Read chapter 1 - 2 of [Nani no Torie mo Nai Heibon na Ore ga Bijin Futago Shimai wo Inochigake de Tasuketa Kekka, Jitsu wa Yandere Datta Futari wo Gachi Horesasete Shimatta Ken](https://anilist.co/manga/216227) (16:21 17 September 2026)
--   📖 Plans to read [Nani no Torie mo Nai Heibon na Ore ga Bijin Futago Shimai wo Inochigake de Tasuketa Kekka, Jitsu wa Yandere Datta Futari wo Gachi Horesasete Shimatta Ken](https://anilist.co/manga/216227) (16:18 17 September 2026)
--   📖 Read chapter 190 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (13:34 17 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
