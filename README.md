@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [The Patron of Villains](https://anilist.co/manga/201009) (11:36 19 September 2026)
 -   📖 Read chapter 124 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (04:23 18 September 2026)
 -   📖 Read chapter 26 - 27 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (02:44 18 September 2026)
 -   📖 Read chapter 48 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (01:56 18 September 2026)
 -   📖 Read chapter 27 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (01:47 18 September 2026)
--   📖 Read chapter 47 of [Superhuman Streamer](https://anilist.co/manga/202499) (22:39 17 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
