@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 of [The Patron of Villains](https://anilist.co/manga/201009) (11:36 19 September 2026)
--   📖 Read chapter 124 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (04:23 18 September 2026)
--   📖 Read chapter 26 - 27 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (02:44 18 September 2026)
--   📖 Read chapter 48 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (01:56 18 September 2026)
--   📖 Read chapter 27 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (01:47 18 September 2026)
+-   📖 Read chapter 155 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (04:57 20 September 2026)
+-   📖 Read chapter 110 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (04:53 20 September 2026)
+-   📖 Read chapter 98 of [Ultimate Shut-in](https://anilist.co/manga/186019) (04:50 20 September 2026)
+-   📖 Read chapter 161 of [Returned by the King](https://anilist.co/manga/170724) (04:47 20 September 2026)
+-   📖 Read chapter 67 of [The Villain's Survival Route](https://anilist.co/manga/187427) (04:44 20 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
