@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 126 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (03:33 21 September 2026)
--   📖 Read chapter 149 of [Killer Peter](https://anilist.co/manga/170688) (03:30 21 September 2026)
--   📖 Read chapter 65 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (03:24 21 September 2026)
--   📖 Read chapter 152 of [A Flame Reborn](https://anilist.co/manga/173233) (03:20 21 September 2026)
--   📖 Read chapter 18 of [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (03:16 21 September 2026)
+-   📖 Read chapter 66 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (06:58 21 September 2026)
+-   📖 Read chapter 63 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (06:09 21 September 2026)
+-   📖 Read chapter 90 of [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (06:06 21 September 2026)
+-   📖 Read chapter 47 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (06:00 21 September 2026)
+-   📖 Read chapter 181 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:58 21 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
