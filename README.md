@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 155 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (04:57 20 September 2026)
--   📖 Read chapter 110 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (04:53 20 September 2026)
--   📖 Read chapter 98 of [Ultimate Shut-in](https://anilist.co/manga/186019) (04:50 20 September 2026)
--   📖 Read chapter 161 of [Returned by the King](https://anilist.co/manga/170724) (04:47 20 September 2026)
--   📖 Read chapter 67 of [The Villain's Survival Route](https://anilist.co/manga/187427) (04:44 20 September 2026)
+-   📖 Read chapter 126 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (03:33 21 September 2026)
+-   📖 Read chapter 149 of [Killer Peter](https://anilist.co/manga/170688) (03:30 21 September 2026)
+-   📖 Read chapter 65 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (03:24 21 September 2026)
+-   📖 Read chapter 152 of [A Flame Reborn](https://anilist.co/manga/173233) (03:20 21 September 2026)
+-   📖 Read chapter 18 of [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (03:16 21 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
