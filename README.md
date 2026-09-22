@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 14 of [The Faraway Paladin](https://anilist.co/manga/101521) (08:40 22 September 2026)
+-   📖 Read chapter 1 - 19 of [The Faraway Paladin](https://anilist.co/manga/101521) (11:53 22 September 2026)
 -   📖 Read chapter 16 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (08:05 22 September 2026)
 -   📖 Read chapter 173 of [The Novel's Extra](https://anilist.co/manga/152128) (23:42 21 September 2026)
 -   📖 Read chapter 107 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (23:38 21 September 2026)
