@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [The Faraway Paladin](https://anilist.co/manga/101521) (23:47 21 September 2026)
+-   📖 Read chapter 173 of [The Novel's Extra](https://anilist.co/manga/152128) (23:42 21 September 2026)
+-   📖 Read chapter 107 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (23:38 21 September 2026)
 -   📖 Plans to read [Yasaengeseo Gallery-reul Eodeotda](https://anilist.co/manga/217098) (20:36 21 September 2026)
 -   📖 Read chapter 29 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (20:29 21 September 2026)
--   📖 Read chapter 66 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (06:58 21 September 2026)
--   📖 Read chapter 63 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (06:09 21 September 2026)
--   📖 Read chapter 90 of [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (06:06 21 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
