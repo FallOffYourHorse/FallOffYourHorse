@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 36 of [The Faraway Paladin](https://anilist.co/manga/101521) (23:56 22 September 2026)
--   📖 Read chapter 16 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (08:05 22 September 2026)
--   📖 Read chapter 173 of [The Novel's Extra](https://anilist.co/manga/152128) (23:42 21 September 2026)
--   📖 Read chapter 107 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (23:38 21 September 2026)
--   📖 Plans to read [Yasaengeseo Gallery-reul Eodeotda](https://anilist.co/manga/217098) (20:36 21 September 2026)
+-   📖 Read chapter 15 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (06:46 23 September 2026)
+-   📖 Read chapter 139 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:23 23 September 2026)
+-   📖 Read chapter 115 - 116 of [Breakers](https://anilist.co/manga/197888) (05:55 23 September 2026)
+-   📖 Read chapter 187 of [The Infinite Mage](https://anilist.co/manga/159930) (05:50 23 September 2026)
+-   📖 Read chapter 54 of [Became the Lout First Prince](https://anilist.co/manga/207089) (05:47 23 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
