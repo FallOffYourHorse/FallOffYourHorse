@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [My New Devil Wife](https://anilist.co/manga/121762) (09:45 23 September 2026)
+-   📖 Plans to read [My New Devil Wife](https://anilist.co/manga/121762) (09:39 23 September 2026)
+-   📖 Read chapter 37 of [The Sword God's Livestream](https://anilist.co/manga/212619) (07:34 23 September 2026)
+-   📖 Read chapter 180 of [Marriage Toxin](https://anilist.co/manga/147329) (07:17 23 September 2026)
 -   📖 Read chapter 15 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (06:46 23 September 2026)
--   📖 Read chapter 139 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (06:23 23 September 2026)
--   📖 Read chapter 115 - 116 of [Breakers](https://anilist.co/manga/197888) (05:55 23 September 2026)
--   📖 Read chapter 187 of [The Infinite Mage](https://anilist.co/manga/159930) (05:50 23 September 2026)
--   📖 Read chapter 54 of [Became the Lout First Prince](https://anilist.co/manga/207089) (05:47 23 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
