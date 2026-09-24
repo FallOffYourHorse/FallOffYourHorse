@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) (13:06 24 September 2026)
+-   📺 Watched episode 1 - 6 of [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) (13:27 24 September 2026)
 -   📺 Watched episode 23 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (11:30 24 September 2026)
 -   📖 Read chapter 2 - 135 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (09:39 24 September 2026)
 -   📖 Plans to read [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (07:14 24 September 2026)
