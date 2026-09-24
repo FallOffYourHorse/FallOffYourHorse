@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 8 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (02:15 24 September 2026)
--   📖 Read chapter 1 of [My New Devil Wife](https://anilist.co/manga/121762) (09:45 23 September 2026)
--   📖 Plans to read [My New Devil Wife](https://anilist.co/manga/121762) (09:39 23 September 2026)
--   📖 Read chapter 37 of [The Sword God's Livestream](https://anilist.co/manga/212619) (07:34 23 September 2026)
--   📖 Read chapter 180 of [Marriage Toxin](https://anilist.co/manga/147329) (07:17 23 September 2026)
+-   📖 Read chapter 2 - 34 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (07:57 24 September 2026)
+-   📖 Plans to read [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (07:14 24 September 2026)
+-   📖 Read chapter 251 - 253 of [The World After the Fall](https://anilist.co/manga/144957) (07:13 24 September 2026)
+-   📖 Read chapter 43 of [Sachaejigan](https://anilist.co/manga/204894) (05:15 24 September 2026)
+-   📖 Read chapter 96 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (02:43 24 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
