@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 152 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (18:42 25 September 2026)
+-   📖 Read chapter 15 - 20 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (18:40 25 September 2026)
+-   📺 Completed [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (18:23 25 September 2026)
 -   📖 Read chapter 125 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (14:54 25 September 2026)
 -   📖 Read chapter 23 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (14:48 25 September 2026)
--   📖 Read chapter 76 of [The Executioner](https://anilist.co/manga/176845) (14:39 25 September 2026)
--   📖 Read chapter 54 of [The Patron of Villains](https://anilist.co/manga/201009) (14:34 25 September 2026)
--   📖 Read chapter 28 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (14:19 25 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
