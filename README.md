@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 13 - 29 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (00:00 25 September 2026)
+-   📖 Read chapter 146 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (04:59 25 September 2026)
+-   📺 Completed [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) (04:06 25 September 2026)
+-   📺 Watched episode 7 - 11 of [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) (03:57 25 September 2026)
+-   📖 Read chapter 13 - 73 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (02:24 25 September 2026)
 -   📖 Read chapter 61 of [Dragonnap](https://anilist.co/manga/203800) (23:05 24 September 2026)
--   📖 Read chapter 48 of [Superhuman Streamer](https://anilist.co/manga/202499) (23:02 24 September 2026)
--   📖 Read chapter 95 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (22:58 24 September 2026)
--   📖 Read chapter 136 - 137 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (22:51 24 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
