@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 146 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (04:59 25 September 2026)
--   📺 Completed [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) (04:06 25 September 2026)
--   📺 Watched episode 7 - 11 of [Smoking Behind the Supermarket with You](https://anilist.co/anime/196187) (03:57 25 September 2026)
--   📖 Read chapter 13 - 73 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (02:24 25 September 2026)
--   📖 Read chapter 61 of [Dragonnap](https://anilist.co/manga/203800) (23:05 24 September 2026)
+-   📖 Read chapter 125 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (14:54 25 September 2026)
+-   📖 Read chapter 23 of [7-hwangjaneun Aemaehaeseo Talchulhamnida](https://anilist.co/manga/212674) (14:48 25 September 2026)
+-   📖 Read chapter 76 of [The Executioner](https://anilist.co/manga/176845) (14:39 25 September 2026)
+-   📖 Read chapter 54 of [The Patron of Villains](https://anilist.co/manga/201009) (14:34 25 September 2026)
+-   📖 Read chapter 28 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (14:19 25 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
