@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 - 75 of [Shadow of the Supreme](https://anilist.co/manga/180890) (18:50 26 September 2026)
+-   📖 Read chapter 211 - 214 of [The Swordmaster's Son](https://anilist.co/manga/149332) (21:41 26 September 2026)
+-   📖 Read chapter 139 - 140 of [The Player Hides His Past](https://anilist.co/manga/166154) (21:31 26 September 2026)
+-   📖 Read chapter 30 - 107 of [Shadow of the Supreme](https://anilist.co/manga/180890) (21:24 26 September 2026)
 -   📖 Read chapter 111 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (14:02 26 September 2026)
 -   📖 Read chapter 4 - 7 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (13:35 26 September 2026)
--   📖 Read chapter 1 - 12 of [Your Grace, Please Just Forget About This Wicked Wife!](https://anilist.co/manga/186926) (11:28 26 September 2026)
--   📖 Plans to read [Your Grace, Please Just Forget About This Wicked Wife!](https://anilist.co/manga/186926) (11:08 26 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
