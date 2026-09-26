@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 162 of [Returned by the King](https://anilist.co/manga/170724) (06:24 26 September 2026)
--   📖 Read chapter 50 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:21 26 September 2026)
--   📖 Read chapter 37 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (06:16 26 September 2026)
--   📖 Read chapter 8 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (06:12 26 September 2026)
--   📖 Read chapter 22 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (06:08 26 September 2026)
+-   📖 Read chapter 30 - 45 of [Shadow of the Supreme](https://anilist.co/manga/180890) (14:48 26 September 2026)
+-   📖 Read chapter 111 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (14:02 26 September 2026)
+-   📖 Read chapter 4 - 7 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (13:35 26 September 2026)
+-   📖 Read chapter 1 - 12 of [Your Grace, Please Just Forget About This Wicked Wife!](https://anilist.co/manga/186926) (11:28 26 September 2026)
+-   📖 Plans to read [Your Grace, Please Just Forget About This Wicked Wife!](https://anilist.co/manga/186926) (11:08 26 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
