@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 11 of [The Cuckolding Wizard's Adventure](https://anilist.co/manga/166072) (22:03 25 September 2026)
--   📖 Read chapter 1 - 3 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (21:12 25 September 2026)
--   📖 Plans to read [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (20:56 25 September 2026)
--   📖 Read chapter 152 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (18:42 25 September 2026)
--   📖 Read chapter 15 - 20 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (18:40 25 September 2026)
+-   📖 Read chapter 162 of [Returned by the King](https://anilist.co/manga/170724) (06:24 26 September 2026)
+-   📖 Read chapter 50 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (06:21 26 September 2026)
+-   📖 Read chapter 37 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (06:16 26 September 2026)
+-   📖 Read chapter 8 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (06:12 26 September 2026)
+-   📖 Read chapter 22 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (06:08 26 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
