@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 211 - 214 of [The Swordmaster's Son](https://anilist.co/manga/149332) (21:41 26 September 2026)
--   📖 Read chapter 139 - 140 of [The Player Hides His Past](https://anilist.co/manga/166154) (21:31 26 September 2026)
--   📖 Read chapter 30 - 107 of [Shadow of the Supreme](https://anilist.co/manga/180890) (21:24 26 September 2026)
--   📖 Read chapter 111 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (14:02 26 September 2026)
--   📖 Read chapter 4 - 7 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (13:35 26 September 2026)
+-   📖 Read chapter 18 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (02:23 27 September 2026)
+-   📖 Plans to read [The Warrior's Ballad](https://anilist.co/manga/217014) (01:08 27 September 2026)
+-   📖 Read chapter 44 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (01:08 27 September 2026)
+-   📖 Read chapter 150 of [Killer Peter](https://anilist.co/manga/170688) (01:06 27 September 2026)
+-   📖 Read chapter 156 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (01:00 27 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
