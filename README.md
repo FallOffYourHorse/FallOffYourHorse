@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 19 of [Nano Machine](https://anilist.co/manga/120980) (15:49 27 September 2026)
+-   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (12:48 27 September 2026)
+-   📖 Read chapter 177 - 180 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:47 27 September 2026)
 -   📖 Read chapter 18 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (02:23 27 September 2026)
 -   📖 Plans to read [The Warrior's Ballad](https://anilist.co/manga/217014) (01:08 27 September 2026)
--   📖 Read chapter 44 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (01:08 27 September 2026)
--   📖 Read chapter 150 of [Killer Peter](https://anilist.co/manga/170688) (01:06 27 September 2026)
--   📖 Read chapter 156 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (01:00 27 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
