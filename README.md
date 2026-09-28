@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 203 of [Nano Machine](https://anilist.co/manga/120980) (04:32 28 September 2026)
--   📖 Plans to read [Nano Machine](https://anilist.co/manga/120980) (12:48 27 September 2026)
--   📖 Read chapter 177 - 180 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (12:47 27 September 2026)
--   📖 Read chapter 18 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (02:23 27 September 2026)
--   📖 Plans to read [The Warrior's Ballad](https://anilist.co/manga/217014) (01:08 27 September 2026)
+-   📖 Read chapter 1 - 8 of [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (21:33 28 September 2026)
+-   📖 Read chapter 127 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (19:52 28 September 2026)
+-   📖 Read chapter 30 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (19:47 28 September 2026)
+-   📖 Read chapter 67 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (19:43 28 September 2026)
+-   📖 Read chapter 146 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (18:44 28 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
