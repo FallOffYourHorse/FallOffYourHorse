@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (21:33 28 September 2026)
+-   📖 Read chapter 1 - 11 of [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (23:48 28 September 2026)
+-   📖 Read chapter 174 of [The Novel's Extra](https://anilist.co/manga/152128) (23:28 28 September 2026)
 -   📖 Read chapter 127 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (19:52 28 September 2026)
 -   📖 Read chapter 30 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (19:47 28 September 2026)
 -   📖 Read chapter 67 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (19:43 28 September 2026)
--   📖 Read chapter 146 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (18:44 28 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
