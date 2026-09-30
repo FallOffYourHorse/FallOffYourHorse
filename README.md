@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 204 - 255 of [Nano Machine](https://anilist.co/manga/120980) (23:39 29 September 2026)
+-   📖 Read chapter 12 - 13 of [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (13:43 29 September 2026)
+-   📖 Read chapter 17 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (13:38 29 September 2026)
+-   📖 Read chapter 108 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (12:00 29 September 2026)
 -   📖 Read chapter 1 - 11 of [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (23:48 28 September 2026)
--   📖 Read chapter 174 of [The Novel's Extra](https://anilist.co/manga/152128) (23:28 28 September 2026)
--   📖 Read chapter 127 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (19:52 28 September 2026)
--   📖 Read chapter 30 of [The Margrave’s 10th-Class Outcast](https://anilist.co/manga/211153) (19:47 28 September 2026)
--   📖 Read chapter 67 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (19:43 28 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
