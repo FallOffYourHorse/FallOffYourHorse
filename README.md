@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 of [Dragonnap](https://anilist.co/manga/203800) (08:41 01 October 2026)
 -   📖 Read chapter 14 - 38 of [Gals Can’t Be Kind to Otaku!?](https://anilist.co/manga/138380) (06:24 01 October 2026)
 -   📖 Read chapter 97 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (06:03 01 October 2026)
 -   📖 Read chapter 280 - 332 of [Nano Machine](https://anilist.co/manga/120980) (05:58 01 October 2026)
 -   📖 Read chapter 221 of [Pick Me Up](https://anilist.co/manga/159441) (05:55 01 October 2026)
--   📖 Read chapter 90 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (05:46 01 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
