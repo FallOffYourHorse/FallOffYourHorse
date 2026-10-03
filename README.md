@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 138 - 140 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (04:41 03 October 2026)
+-   📖 Read chapter 38 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:04 03 October 2026)
+-   📖 Read chapter 23 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (02:00 03 October 2026)
 -   📖 Read chapter 55 of [The Patron of Villains](https://anilist.co/manga/201009) (05:30 02 October 2026)
 -   📖 Read chapter 278 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (05:25 02 October 2026)
--   📖 Plans to read [Masin](https://anilist.co/manga/206966) (01:51 02 October 2026)
--   📖 Read chapter 167 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (01:50 02 October 2026)
--   📖 Plans to read [RTA Sousha wa Game Sekai kara Kaerarenai](https://anilist.co/manga/162453) (01:43 02 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
