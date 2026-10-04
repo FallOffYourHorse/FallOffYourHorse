@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 138 - 140 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (04:41 03 October 2026)
--   📖 Read chapter 38 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:04 03 October 2026)
--   📖 Read chapter 23 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (02:00 03 October 2026)
--   📖 Read chapter 55 of [The Patron of Villains](https://anilist.co/manga/201009) (05:30 02 October 2026)
--   📖 Read chapter 278 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (05:25 02 October 2026)
+-   📖 Read chapter 141 - 143 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (11:42 04 October 2026)
+-   📖 Read chapter 181 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (09:29 04 October 2026)
+-   📖 Read chapter 51 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (09:29 04 October 2026)
+-   📖 Read chapter 19 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (09:25 04 October 2026)
+-   📖 Read chapter 26 - 27 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (09:20 04 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
