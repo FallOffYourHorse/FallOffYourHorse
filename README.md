@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Bultan Samagui Moraesulsa](https://anilist.co/manga/211365) (23:42 04 October 2026)
--   📖 Read chapter 105 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:07 04 October 2026)
--   📖 Read chapter 183 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:04 04 October 2026)
--   📖 Read chapter 50 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (23:01 04 October 2026)
--   📖 Read chapter 162 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (22:57 04 October 2026)
+-   📖 Read chapter 157 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (18:49 05 October 2026)
+-   📖 Read chapter 68 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (18:44 05 October 2026)
+-   📖 Read chapter 154 of [A Flame Reborn](https://anilist.co/manga/173233) (18:40 05 October 2026)
+-   📖 Read chapter 28 - 29 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (05:55 05 October 2026)
+-   📖 Read chapter 119 of [Breakers](https://anilist.co/manga/197888) (05:44 05 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
