@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 141 - 143 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (11:42 04 October 2026)
--   📖 Read chapter 181 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (09:29 04 October 2026)
--   📖 Read chapter 51 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (09:29 04 October 2026)
--   📖 Read chapter 19 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (09:25 04 October 2026)
--   📖 Read chapter 26 - 27 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (09:20 04 October 2026)
+-   📖 Read chapter 1 - 8 of [Bultan Samagui Moraesulsa](https://anilist.co/manga/211365) (23:42 04 October 2026)
+-   📖 Read chapter 105 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:07 04 October 2026)
+-   📖 Read chapter 183 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:04 04 October 2026)
+-   📖 Read chapter 50 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (23:01 04 October 2026)
+-   📖 Read chapter 162 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (22:57 04 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
