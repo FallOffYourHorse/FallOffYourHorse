@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 123 of [House Mayton's Youngest](https://anilist.co/manga/156558) (13:42 06 October 2026)
+-   📖 Read chapter 151 of [Killer Peter](https://anilist.co/manga/170688) (12:44 06 October 2026)
+-   📖 Completed [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (12:37 06 October 2026)
+-   📖 Read chapter 141 of [The Player Hides His Past](https://anilist.co/manga/166154) (12:33 06 October 2026)
 -   📖 Read chapter 100 of [Ultimate Shut-in](https://anilist.co/manga/186019) (01:38 06 October 2026)
--   📖 Read chapter 126 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (01:36 06 October 2026)
--   📖 Read chapter 108 - 109 of [Shadow of the Supreme](https://anilist.co/manga/180890) (01:30 06 October 2026)
--   📖 Read chapter 147 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:24 06 October 2026)
--   📖 Read chapter 128 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (01:20 06 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
