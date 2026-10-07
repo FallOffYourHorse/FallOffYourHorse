@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Na Honja Sword Master](https://anilist.co/manga/217593) (05:16 07 October 2026)
+-   📖 Read chapter 189 of [The Infinite Mage](https://anilist.co/manga/159930) (05:16 07 October 2026)
 -   📖 Plans to read [Tamer: Trash-Tier to Top-Tier](https://anilist.co/manga/125563) (20:25 06 October 2026)
 -   📖 Read chapter 123 of [House Mayton's Youngest](https://anilist.co/manga/156558) (13:42 06 October 2026)
 -   📖 Read chapter 151 of [Killer Peter](https://anilist.co/manga/170688) (12:44 06 October 2026)
--   📖 Completed [The Villainesses Are Unwavering](https://anilist.co/manga/184349) (12:37 06 October 2026)
--   📖 Read chapter 141 of [The Player Hides His Past](https://anilist.co/manga/166154) (12:33 06 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
