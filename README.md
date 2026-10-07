@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Na Honja Sword Master](https://anilist.co/manga/217593) (05:16 07 October 2026)
--   📖 Read chapter 189 of [The Infinite Mage](https://anilist.co/manga/159930) (05:16 07 October 2026)
--   📖 Plans to read [Tamer: Trash-Tier to Top-Tier](https://anilist.co/manga/125563) (20:25 06 October 2026)
--   📖 Read chapter 123 of [House Mayton's Youngest](https://anilist.co/manga/156558) (13:42 06 October 2026)
--   📖 Read chapter 151 of [Killer Peter](https://anilist.co/manga/170688) (12:44 06 October 2026)
+-   📖 Read chapter 37 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (20:22 07 October 2026)
+-   📖 Read chapter 181 - 182 of [Marriage Toxin](https://anilist.co/manga/147329) (20:21 07 October 2026)
+-   📖 Read chapter 109 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (20:17 07 October 2026)
+-   📖 Read chapter 18 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (20:14 07 October 2026)
+-   📖 Read chapter 249 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:06 07 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
