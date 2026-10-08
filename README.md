@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (19:36 08 October 2026)
 -   📖 Read chapter 98 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (04:21 08 October 2026)
 -   📖 Read chapter 1 - 21 of [Na Honja Sword Master](https://anilist.co/manga/217593) (03:50 08 October 2026)
 -   📖 Read chapter 222 of [Pick Me Up](https://anilist.co/manga/159441) (23:35 07 October 2026)
 -   📖 Read chapter 255 of [The World After the Fall](https://anilist.co/manga/144957) (23:30 07 October 2026)
--   📖 Read chapter 21 - 22 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (23:26 07 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
