@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 37 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (20:22 07 October 2026)
--   📖 Read chapter 181 - 182 of [Marriage Toxin](https://anilist.co/manga/147329) (20:21 07 October 2026)
--   📖 Read chapter 109 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (20:17 07 October 2026)
--   📖 Read chapter 18 of [Naega Jugin Dragon-gwa Gyeolhonhaetda](https://anilist.co/manga/214050) (20:14 07 October 2026)
--   📖 Read chapter 249 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (20:06 07 October 2026)
+-   📖 Read chapter 222 of [Pick Me Up](https://anilist.co/manga/159441) (23:35 07 October 2026)
+-   📖 Read chapter 255 of [The World After the Fall](https://anilist.co/manga/144957) (23:30 07 October 2026)
+-   📖 Read chapter 21 - 22 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (23:26 07 October 2026)
+-   📖 Read chapter 74 - 78 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (20:35 07 October 2026)
+-   📖 Read chapter 91 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (20:27 07 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
