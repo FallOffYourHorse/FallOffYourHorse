@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 3 - 5 of [Nani no Torie mo Nai Heibon na Ore ga Bijin Futago Shimai wo Inochigake de Tasuketa Kekka, Jitsu wa Yandere Datta Futari wo Gachi Horesasete Shimatta Ken](https://anilist.co/manga/216227) (09:05 09 October 2026)
 -   📖 Read chapter 63 of [Dragonnap](https://anilist.co/manga/203800) (23:08 08 October 2026)
 -   📖 Read chapter 1 of [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (22:16 08 October 2026)
 -   📖 Plans to read [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (19:36 08 October 2026)
 -   📖 Read chapter 98 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (04:21 08 October 2026)
--   📖 Read chapter 1 - 21 of [Na Honja Sword Master](https://anilist.co/manga/217593) (03:50 08 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
