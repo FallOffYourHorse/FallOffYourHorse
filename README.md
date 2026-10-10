@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (23:42 09 October 2026)
+-   📖 Read chapter 1 - 8 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (23:50 09 October 2026)
 -   📖 Plans to read [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (23:31 09 October 2026)
 -   📖 Read chapter 1 - 20 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (23:31 09 October 2026)
 -   📖 Plans to read [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (21:27 09 October 2026)
