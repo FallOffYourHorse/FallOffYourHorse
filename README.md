@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 - 63 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (10:34 10 October 2026)
+-   📖 Read chapter 146 of [Act Like a Boss Monster, Mr. Swallow!](https://anilist.co/manga/172623) (10:27 10 October 2026)
+-   📖 Read chapter 202 of [The Art of Reincarnation](https://anilist.co/manga/153880) (10:24 10 October 2026)
 -   📖 Read chapter 1 - 7 of [Error The Echo](https://anilist.co/manga/217286) (05:52 10 October 2026)
 -   📖 Plans to read [Error The Echo](https://anilist.co/manga/217286) (05:37 10 October 2026)
--   📖 Read chapter 112 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (05:23 10 October 2026)
--   📖 Read chapter 39 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (05:19 10 October 2026)
--   📖 Read chapter 68 - 69 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:15 10 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
