@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 8 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (23:50 09 October 2026)
--   📖 Plans to read [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (23:31 09 October 2026)
--   📖 Read chapter 1 - 20 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (23:31 09 October 2026)
--   📖 Plans to read [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (21:27 09 October 2026)
--   📖 Read chapter 3 - 5 of [Nani no Torie mo Nai Heibon na Ore ga Bijin Futago Shimai wo Inochigake de Tasuketa Kekka, Jitsu wa Yandere Datta Futari wo Gachi Horesasete Shimatta Ken](https://anilist.co/manga/216227) (09:05 09 October 2026)
+-   📖 Read chapter 1 - 7 of [Error The Echo](https://anilist.co/manga/217286) (05:52 10 October 2026)
+-   📖 Plans to read [Error The Echo](https://anilist.co/manga/217286) (05:37 10 October 2026)
+-   📖 Read chapter 112 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (05:23 10 October 2026)
+-   📖 Read chapter 39 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (05:19 10 October 2026)
+-   📖 Read chapter 68 - 69 of [The Villain's Survival Route](https://anilist.co/manga/187427) (05:15 10 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
