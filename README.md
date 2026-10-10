@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 - 63 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (10:34 10 October 2026)
--   📖 Read chapter 146 of [Act Like a Boss Monster, Mr. Swallow!](https://anilist.co/manga/172623) (10:27 10 October 2026)
--   📖 Read chapter 202 of [The Art of Reincarnation](https://anilist.co/manga/153880) (10:24 10 October 2026)
--   📖 Read chapter 1 - 7 of [Error The Echo](https://anilist.co/manga/217286) (05:52 10 October 2026)
--   📖 Plans to read [Error The Echo](https://anilist.co/manga/217286) (05:37 10 October 2026)
+-   📖 Read chapter 215 of [The Swordmaster's Son](https://anilist.co/manga/149332) (23:46 10 October 2026)
+-   📖 Read chapter 56 of [The Patron of Villains](https://anilist.co/manga/201009) (23:41 10 October 2026)
+-   📖 Read chapter 46 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (23:34 10 October 2026)
+-   📖 Read chapter 148 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:33 10 October 2026)
+-   📖 Read chapter 49 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (23:29 10 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
