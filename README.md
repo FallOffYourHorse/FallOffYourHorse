@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 215 of [The Swordmaster's Son](https://anilist.co/manga/149332) (23:46 10 October 2026)
--   📖 Read chapter 56 of [The Patron of Villains](https://anilist.co/manga/201009) (23:41 10 October 2026)
--   📖 Read chapter 46 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (23:34 10 October 2026)
--   📖 Read chapter 148 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:33 10 October 2026)
--   📖 Read chapter 49 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (23:29 10 October 2026)
+-   📖 Read chapter 30 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (04:25 11 October 2026)
+-   📖 Read chapter 10 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (03:16 11 October 2026)
+-   📖 Read chapter 69 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (03:13 11 October 2026)
+-   📖 Read chapter 129 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (03:11 11 October 2026)
+-   📖 Read chapter 20 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (03:08 11 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
