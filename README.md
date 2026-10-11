@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (09:34 11 October 2026)
--   📖 Read chapter 1 - 28 of [Even Monsters Like Fairytales](https://anilist.co/manga/169706) (09:18 11 October 2026)
--   📖 Plans to read [Even Monsters Like Fairytales](https://anilist.co/manga/169706) (08:04 11 October 2026)
--   📖 Read chapter 333 of [Nano Machine](https://anilist.co/manga/120980) (08:00 11 October 2026)
--   📖 Read chapter 134 - 136 of [Helmut](https://anilist.co/manga/154782) (07:25 11 October 2026)
+-   📖 Read chapter 62 - 63 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (20:42 11 October 2026)
+-   📖 Read chapter 120 - 121 of [Breakers](https://anilist.co/manga/197888) (20:39 11 October 2026)
+-   📖 Read chapter 30 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (20:36 11 October 2026)
+-   📖 Read chapter 152 of [Killer Peter](https://anilist.co/manga/170688) (20:32 11 October 2026)
+-   📖 Read chapter 168 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (20:24 11 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
