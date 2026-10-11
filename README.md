@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (04:25 11 October 2026)
--   📖 Read chapter 10 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (03:16 11 October 2026)
--   📖 Read chapter 69 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (03:13 11 October 2026)
--   📖 Read chapter 129 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (03:11 11 October 2026)
--   📖 Read chapter 20 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (03:08 11 October 2026)
+-   📖 Read chapter 10 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (09:34 11 October 2026)
+-   📖 Read chapter 1 - 28 of [Even Monsters Like Fairytales](https://anilist.co/manga/169706) (09:18 11 October 2026)
+-   📖 Plans to read [Even Monsters Like Fairytales](https://anilist.co/manga/169706) (08:04 11 October 2026)
+-   📖 Read chapter 333 of [Nano Machine](https://anilist.co/manga/120980) (08:00 11 October 2026)
+-   📖 Read chapter 134 - 136 of [Helmut](https://anilist.co/manga/154782) (07:25 11 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
