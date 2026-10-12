@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 45 of [Sachaejigan](https://anilist.co/manga/204894) (23:47 11 October 2026)
--   📖 Read chapter 50 of [Superhuman Streamer](https://anilist.co/manga/202499) (23:37 11 October 2026)
--   📖 Read chapter 184 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:33 11 October 2026)
--   📖 Read chapter 106 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:30 11 October 2026)
--   📖 Read chapter 10 - 11 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (21:22 11 October 2026)
+-   📖 Read chapter 15 - 17 of [Joreop Hu Ban Chingudeureul Da Ttameogeum](https://anilist.co/manga/213751) (03:39 12 October 2026)
+-   📖 Read chapter 1 - 2 of [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (02:31 12 October 2026)
+-   📖 Plans to read [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (02:27 12 October 2026)
+-   📖 Read chapter 185 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (02:23 12 October 2026)
+-   📖 Read chapter 50 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:19 12 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
