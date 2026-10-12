@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 62 - 63 of [My Gyaru Wife's Secrets](https://anilist.co/manga/169734) (20:42 11 October 2026)
--   📖 Read chapter 120 - 121 of [Breakers](https://anilist.co/manga/197888) (20:39 11 October 2026)
--   📖 Read chapter 30 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (20:36 11 October 2026)
--   📖 Read chapter 152 of [Killer Peter](https://anilist.co/manga/170688) (20:32 11 October 2026)
--   📖 Read chapter 168 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (20:24 11 October 2026)
+-   📖 Read chapter 45 of [Sachaejigan](https://anilist.co/manga/204894) (23:47 11 October 2026)
+-   📖 Read chapter 50 of [Superhuman Streamer](https://anilist.co/manga/202499) (23:37 11 October 2026)
+-   📖 Read chapter 184 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:33 11 October 2026)
+-   📖 Read chapter 106 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:30 11 October 2026)
+-   📖 Read chapter 10 - 11 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (21:22 11 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
