@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 - 60 of [Overgeared](https://anilist.co/manga/117460) (10:56 12 October 2026)
+-   📺 Watched episode 1 - 3 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (07:44 12 October 2026)
 -   📖 Read chapter 15 - 17 of [Joreop Hu Ban Chingudeureul Da Ttameogeum](https://anilist.co/manga/213751) (03:39 12 October 2026)
 -   📖 Read chapter 1 - 2 of [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (02:31 12 October 2026)
 -   📖 Plans to read [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (02:27 12 October 2026)
--   📖 Read chapter 185 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (02:23 12 October 2026)
--   📖 Read chapter 50 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:19 12 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
