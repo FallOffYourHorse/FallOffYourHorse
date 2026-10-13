@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [The Bugle Call: Song of War](https://anilist.co/manga/153007) (03:37 13 October 2026)
--   📖 Read chapter 1 - 8 of [Yasagure Shoukansha wa Ugokanai](https://anilist.co/manga/207025) (03:36 13 October 2026)
--   📖 Plans to read [Yasagure Shoukansha wa Ugokanai](https://anilist.co/manga/207025) (03:02 13 October 2026)
--   📖 Read chapter 110 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:07 13 October 2026)
--   📖 Read chapter 175 of [The Novel's Extra](https://anilist.co/manga/152128) (00:51 13 October 2026)
+-   📖 Read chapter 57 of [Became the Lout First Prince](https://anilist.co/manga/207089) (21:53 13 October 2026)
+-   📖 Read chapter 256 of [The World After the Fall](https://anilist.co/manga/144957) (21:49 13 October 2026)
+-   📖 Read chapter 21 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (21:45 13 October 2026)
+-   📖 Read chapter 190 of [The Infinite Mage](https://anilist.co/manga/159930) (21:42 13 October 2026)
+-   📖 Read chapter 40 of [The Sword God's Livestream](https://anilist.co/manga/212619) (21:40 13 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
