@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 60 of [Overgeared](https://anilist.co/manga/117460) (10:56 12 October 2026)
--   📺 Watched episode 1 - 3 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (07:44 12 October 2026)
--   📖 Read chapter 15 - 17 of [Joreop Hu Ban Chingudeureul Da Ttameogeum](https://anilist.co/manga/213751) (03:39 12 October 2026)
--   📖 Read chapter 1 - 2 of [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (02:31 12 October 2026)
--   📖 Plans to read [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (02:27 12 October 2026)
+-   📖 Plans to read [The Bugle Call: Song of War](https://anilist.co/manga/153007) (03:37 13 October 2026)
+-   📖 Read chapter 1 - 8 of [Yasagure Shoukansha wa Ugokanai](https://anilist.co/manga/207025) (03:36 13 October 2026)
+-   📖 Plans to read [Yasagure Shoukansha wa Ugokanai](https://anilist.co/manga/207025) (03:02 13 October 2026)
+-   📖 Read chapter 110 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:07 13 October 2026)
+-   📖 Read chapter 175 of [The Novel's Extra](https://anilist.co/manga/152128) (00:51 13 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
