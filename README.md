@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (05:16 14 October 2026)
 -   📖 Read chapter 18 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (01:56 14 October 2026)
 -   📖 Read chapter 9 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (01:44 14 October 2026)
 -   📖 Read chapter 142 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (01:37 14 October 2026)
 -   📖 Read chapter 57 of [Became the Lout First Prince](https://anilist.co/manga/207089) (21:53 13 October 2026)
--   📖 Read chapter 256 of [The World After the Fall](https://anilist.co/manga/144957) (21:49 13 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
