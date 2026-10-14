@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (22:28 14 October 2026)
+-   📖 Read chapter 186 of [Singwahamkke Doraon Gisawangnim](https://anilist.co/manga/165287) (18:52 14 October 2026)
+-   📖 Read chapter 122 of [Breakers](https://anilist.co/manga/197888) (17:51 14 October 2026)
+-   📖 Read chapter 92 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (17:48 14 October 2026)
 -   📖 Read chapter 38 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (10:48 14 October 2026)
--   📖 Read chapter 79 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (05:16 14 October 2026)
--   📖 Read chapter 18 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (01:56 14 October 2026)
--   📖 Read chapter 9 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (01:44 14 October 2026)
--   📖 Read chapter 142 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (01:37 14 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
