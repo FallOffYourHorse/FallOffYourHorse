@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 129 - 130 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (17:16 15 October 2026)
+-   📖 Read chapter 51 of [Superhuman Streamer](https://anilist.co/manga/202499) (17:00 15 October 2026)
 -   📖 Read chapter 12 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (11:31 15 October 2026)
 -   📖 Read chapter 192 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (11:26 15 October 2026)
 -   📖 Read chapter 99 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (11:22 15 October 2026)
--   📖 Read chapter 7 of [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (02:41 15 October 2026)
--   📖 Read chapter 334 of [Nano Machine](https://anilist.co/manga/120980) (02:38 15 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
