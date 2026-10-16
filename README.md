@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (07:51 16 October 2026)
+-   📖 Read chapter 51 - 52 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (07:50 16 October 2026)
 -   📖 Read chapter 57 of [The Patron of Villains](https://anilist.co/manga/201009) (07:40 16 October 2026)
 -   📖 Read chapter 78 of [The Executioner](https://anilist.co/manga/176845) (07:29 16 October 2026)
 -   📖 Read chapter 64 of [Dragonnap](https://anilist.co/manga/203800) (07:26 16 October 2026)
--   📖 Read chapter 155 - 156 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (07:22 16 October 2026)
--   📖 Read chapter 28 - 36 of [My Sister's Best Friend](https://anilist.co/manga/174315) (07:19 16 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
