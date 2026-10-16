@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 129 - 130 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (17:16 15 October 2026)
--   📖 Read chapter 51 of [Superhuman Streamer](https://anilist.co/manga/202499) (17:00 15 October 2026)
--   📖 Read chapter 12 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (11:31 15 October 2026)
--   📖 Read chapter 192 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (11:26 15 October 2026)
--   📖 Read chapter 99 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (11:22 15 October 2026)
+-   📖 Read chapter 57 of [The Patron of Villains](https://anilist.co/manga/201009) (07:40 16 October 2026)
+-   📖 Read chapter 78 of [The Executioner](https://anilist.co/manga/176845) (07:29 16 October 2026)
+-   📖 Read chapter 64 of [Dragonnap](https://anilist.co/manga/203800) (07:26 16 October 2026)
+-   📖 Read chapter 155 - 156 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (07:22 16 October 2026)
+-   📖 Read chapter 28 - 36 of [My Sister's Best Friend](https://anilist.co/manga/174315) (07:19 16 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
