@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 31 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (07:51 16 October 2026)
--   📖 Read chapter 51 - 52 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (07:50 16 October 2026)
--   📖 Read chapter 57 of [The Patron of Villains](https://anilist.co/manga/201009) (07:40 16 October 2026)
--   📖 Read chapter 78 of [The Executioner](https://anilist.co/manga/176845) (07:29 16 October 2026)
--   📖 Read chapter 64 of [Dragonnap](https://anilist.co/manga/203800) (07:26 16 October 2026)
+-   📖 Read chapter 4 of [Yoimiya Nagi ga Manager ni Yashoku wo Tsukuru Wake](https://anilist.co/manga/217046) (22:40 16 October 2026)
+-   📖 Read chapter 8 of [Error The Echo](https://anilist.co/manga/217286) (22:36 16 October 2026)
+-   📖 Read chapter 128 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:33 16 October 2026)
+-   📖 Read chapter 31 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (22:27 16 October 2026)
+-   📖 Read chapter 281 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (22:22 16 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
