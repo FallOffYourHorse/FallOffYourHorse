@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 4 of [Yoimiya Nagi ga Manager ni Yashoku wo Tsukuru Wake](https://anilist.co/manga/217046) (22:40 16 October 2026)
--   📖 Read chapter 8 of [Error The Echo](https://anilist.co/manga/217286) (22:36 16 October 2026)
--   📖 Read chapter 128 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (22:33 16 October 2026)
--   📖 Read chapter 31 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (22:27 16 October 2026)
--   📖 Read chapter 281 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (22:22 16 October 2026)
+-   📖 Plans to read [Hogamdoro Skill Boksa!](https://anilist.co/manga/217660) (05:05 17 October 2026)
+-   📖 Read chapter 11 - 12 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (05:05 17 October 2026)
+-   📖 Read chapter 24 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (05:00 17 October 2026)
+-   📖 Read chapter 97 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (04:55 17 October 2026)
+-   📖 Read chapter 53 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (04:43 17 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
