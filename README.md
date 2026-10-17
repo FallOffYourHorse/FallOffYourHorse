@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Hogamdoro Skill Boksa!](https://anilist.co/manga/217660) (05:05 17 October 2026)
--   📖 Read chapter 11 - 12 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (05:05 17 October 2026)
--   📖 Read chapter 24 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (05:00 17 October 2026)
--   📖 Read chapter 97 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (04:55 17 October 2026)
--   📖 Read chapter 53 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (04:43 17 October 2026)
+-   📖 Plans to read [Mata, Kataomou.](https://anilist.co/manga/97720) (10:08 17 October 2026)
+-   📖 Read chapter 113 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (10:08 17 October 2026)
+-   📖 Read chapter 1 - 20 of [Donjiral Necromancer](https://anilist.co/manga/218444) (10:02 17 October 2026)
+-   📖 Plans to read [Donjiral Necromancer](https://anilist.co/manga/218444) (08:47 17 October 2026)
+-   📖 Read chapter 203 of [The Art of Reincarnation](https://anilist.co/manga/153880) (08:47 17 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
