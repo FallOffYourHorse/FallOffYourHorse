@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 156 of [A Flame Reborn](https://anilist.co/manga/173233) (02:09 18 October 2026)
+-   📖 Read chapter 143 of [The Player Hides His Past](https://anilist.co/manga/166154) (02:04 18 October 2026)
+-   📖 Read chapter 164 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (23:48 17 October 2026)
 -   📖 Plans to read [Mata, Kataomou.](https://anilist.co/manga/97720) (10:08 17 October 2026)
 -   📖 Read chapter 113 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (10:08 17 October 2026)
--   📖 Read chapter 1 - 20 of [Donjiral Necromancer](https://anilist.co/manga/218444) (10:02 17 October 2026)
--   📖 Plans to read [Donjiral Necromancer](https://anilist.co/manga/218444) (08:47 17 October 2026)
--   📖 Read chapter 203 of [The Art of Reincarnation](https://anilist.co/manga/153880) (08:47 17 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
