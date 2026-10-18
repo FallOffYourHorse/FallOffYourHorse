@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 156 of [A Flame Reborn](https://anilist.co/manga/173233) (02:09 18 October 2026)
--   📖 Read chapter 143 of [The Player Hides His Past](https://anilist.co/manga/166154) (02:04 18 October 2026)
--   📖 Read chapter 164 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (23:48 17 October 2026)
--   📖 Plans to read [Mata, Kataomou.](https://anilist.co/manga/97720) (10:08 17 October 2026)
--   📖 Read chapter 113 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (10:08 17 October 2026)
+-   📺 Completed [I'm Quitting Heroing](https://anilist.co/anime/140457) (07:16 18 October 2026)
+-   📺 Watched episode 3 - 11 of [I'm Quitting Heroing](https://anilist.co/anime/140457) (07:10 18 October 2026)
+-   📺 Watched episode 4 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (05:32 18 October 2026)
+-   📺 Watched episode 2 of [Nia Liston: The Merciless Maiden](https://anilist.co/anime/206949) (05:10 18 October 2026)
+-   📖 Completed [Mata, Kataomou.](https://anilist.co/manga/97720) (03:11 18 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
