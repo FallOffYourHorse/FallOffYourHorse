@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [I'm Quitting Heroing](https://anilist.co/anime/140457) (07:16 18 October 2026)
--   📺 Watched episode 3 - 11 of [I'm Quitting Heroing](https://anilist.co/anime/140457) (07:10 18 October 2026)
--   📺 Watched episode 4 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (05:32 18 October 2026)
--   📺 Watched episode 2 of [Nia Liston: The Merciless Maiden](https://anilist.co/anime/206949) (05:10 18 October 2026)
--   📖 Completed [Mata, Kataomou.](https://anilist.co/manga/97720) (03:11 18 October 2026)
+-   📖 Read chapter 159 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (21:33 18 October 2026)
+-   📖 Read chapter 39 of [Sawaranaide Kotesashi-kun](https://anilist.co/manga/133386) (21:28 18 October 2026)
+-   📖 Read chapter 3 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (21:25 18 October 2026)
+-   📖 Read chapter 3 of [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (21:24 18 October 2026)
+-   📖 Read chapter 9 - 10 of [Bultan Samagui Moraesulsa](https://anilist.co/manga/211365) (19:41 18 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
