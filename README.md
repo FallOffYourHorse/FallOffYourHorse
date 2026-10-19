@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 47 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (23:27 18 October 2026)
+-   📖 Read chapter 107 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:24 18 October 2026)
 -   📖 Read chapter 159 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (21:33 18 October 2026)
 -   📖 Read chapter 39 of [Sawaranaide Kotesashi-kun](https://anilist.co/manga/133386) (21:28 18 October 2026)
 -   📖 Read chapter 3 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (21:25 18 October 2026)
--   📖 Read chapter 3 of [Chicchakute Dekakute Kawaii Nanase-san wo Kanchigai Motokare kara Ubatte Shiawase ni Suru](https://anilist.co/manga/217535) (21:24 18 October 2026)
--   📖 Read chapter 9 - 10 of [Bultan Samagui Moraesulsa](https://anilist.co/manga/211365) (19:41 18 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
