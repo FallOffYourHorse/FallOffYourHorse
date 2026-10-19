@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (23:27 18 October 2026)
--   📖 Read chapter 107 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:24 18 October 2026)
--   📖 Read chapter 159 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (21:33 18 October 2026)
--   📖 Read chapter 39 of [Sawaranaide Kotesashi-kun](https://anilist.co/manga/133386) (21:28 18 October 2026)
--   📖 Read chapter 3 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (21:25 18 October 2026)
+-   📖 Read chapter 1 - 6 of [Sinip gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (05:20 19 October 2026)
+-   📺 Completed [New Saga](https://anilist.co/anime/155838) (04:48 19 October 2026)
+-   📺 Watched episode 1 - 10 of [New Saga](https://anilist.co/anime/155838) (04:36 19 October 2026)
+-   📖 Plans to read [Sinip gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (02:23 19 October 2026)
+-   📖 Read chapter 185 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:27 19 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
