@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 38 - 104 of [New Saga](https://anilist.co/manga/85890) (10:48 19 October 2026)
+-   📖 Read chapter 29 - 63 of [How to Survive as a Wandering Knight](https://anilist.co/manga/202718) (08:13 19 October 2026)
 -   📖 Read chapter 1 - 6 of [Sinip gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (05:20 19 October 2026)
 -   📺 Completed [New Saga](https://anilist.co/anime/155838) (04:48 19 October 2026)
 -   📺 Watched episode 1 - 10 of [New Saga](https://anilist.co/anime/155838) (04:36 19 October 2026)
--   📖 Plans to read [Sinip gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (02:23 19 October 2026)
--   📖 Read chapter 185 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:27 19 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
