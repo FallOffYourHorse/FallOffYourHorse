@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 38 - 104 of [New Saga](https://anilist.co/manga/85890) (10:48 19 October 2026)
--   📖 Read chapter 29 - 63 of [How to Survive as a Wandering Knight](https://anilist.co/manga/202718) (08:13 19 October 2026)
--   📖 Read chapter 1 - 6 of [Sinip gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (05:20 19 October 2026)
--   📺 Completed [New Saga](https://anilist.co/anime/155838) (04:48 19 October 2026)
--   📺 Watched episode 1 - 10 of [New Saga](https://anilist.co/anime/155838) (04:36 19 October 2026)
+-   📖 Read chapter 82 - 88 of [The Hero Returns](https://anilist.co/manga/146017) (05:37 20 October 2026)
+-   📖 Read chapter 111 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (05:19 20 October 2026)
+-   📖 Read chapter 1 - 27 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (05:11 20 October 2026)
+-   📖 Plans to read [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (23:32 19 October 2026)
+-   📖 Read chapter 1 - 3 of [Hoshikita Kirara wa Kiramekitai!](https://anilist.co/manga/218095) (23:32 19 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
