@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 149 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:36 20 October 2026)
--   📖 Plans to read [Oshi Atteru Futari](https://anilist.co/manga/213062) (08:53 20 October 2026)
--   📖 Read chapter 20 of [I Married the Dragon I Killed](https://anilist.co/manga/214050) (07:15 20 October 2026)
--   📖 Read chapter 131 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (07:12 20 October 2026)
--   📖 Read chapter 2 - 12 of [The Warrior's Ballad](https://anilist.co/manga/217014) (06:38 20 October 2026)
+-   📖 Read chapter 58 of [Became the Lout First Prince](https://anilist.co/manga/207089) (22:09 20 October 2026)
+-   📖 Read chapter 22 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (22:05 20 October 2026)
+-   📖 Read chapter 51 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (22:02 20 October 2026)
+-   📖 Read chapter 41 of [The Sword God's Livestream](https://anilist.co/manga/212619) (21:56 20 October 2026)
+-   📖 Read chapter 23 of [Na Honja Sword Master](https://anilist.co/manga/217593) (21:50 20 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
