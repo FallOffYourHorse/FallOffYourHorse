@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 82 - 88 of [The Hero Returns](https://anilist.co/manga/146017) (05:37 20 October 2026)
--   📖 Read chapter 111 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (05:19 20 October 2026)
--   📖 Read chapter 1 - 27 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (05:11 20 October 2026)
--   📖 Plans to read [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (23:32 19 October 2026)
--   📖 Read chapter 1 - 3 of [Hoshikita Kirara wa Kiramekitai!](https://anilist.co/manga/218095) (23:32 19 October 2026)
+-   📖 Plans to read [Oshi Atteru Futari](https://anilist.co/manga/213062) (08:53 20 October 2026)
+-   📖 Read chapter 20 of [I Married the Dragon I Killed](https://anilist.co/manga/214050) (07:15 20 October 2026)
+-   📖 Read chapter 131 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (07:12 20 October 2026)
+-   📖 Read chapter 2 - 12 of [The Warrior's Ballad](https://anilist.co/manga/217014) (06:38 20 October 2026)
+-   📖 Read chapter 82 - 93 of [The Hero Returns](https://anilist.co/manga/146017) (05:45 20 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
