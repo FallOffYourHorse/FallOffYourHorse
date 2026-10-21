@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 58 of [Became the Lout First Prince](https://anilist.co/manga/207089) (22:09 20 October 2026)
--   📖 Read chapter 22 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (22:05 20 October 2026)
--   📖 Read chapter 51 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (22:02 20 October 2026)
--   📖 Read chapter 41 of [The Sword God's Livestream](https://anilist.co/manga/212619) (21:56 20 October 2026)
--   📖 Read chapter 23 of [Na Honja Sword Master](https://anilist.co/manga/217593) (21:50 20 October 2026)
+-   📖 Read chapter 1 of [KILLER+SITTER](https://anilist.co/manga/215403) (00:58 21 October 2026)
+-   📖 Plans to read [KILLER+SITTER](https://anilist.co/manga/215403) (00:47 21 October 2026)
+-   📖 Read chapter 46 - 47 of [Sachaejigan](https://anilist.co/manga/204894) (00:46 21 October 2026)
+-   📖 Read chapter 93 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (00:41 21 October 2026)
+-   📖 Read chapter 10 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (00:38 21 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
