@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [KILLER+SITTER](https://anilist.co/manga/215403) (00:58 21 October 2026)
--   📖 Plans to read [KILLER+SITTER](https://anilist.co/manga/215403) (00:47 21 October 2026)
--   📖 Read chapter 46 - 47 of [Sachaejigan](https://anilist.co/manga/204894) (00:46 21 October 2026)
--   📖 Read chapter 93 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (00:41 21 October 2026)
--   📖 Read chapter 10 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (00:38 21 October 2026)
+-   📖 Read chapter 257 of [The World After the Fall](https://anilist.co/manga/144957) (06:11 21 October 2026)
+-   📖 Read chapter 19 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (06:07 21 October 2026)
+-   📖 Read chapter 183 of [Marriage Toxin](https://anilist.co/manga/147329) (06:02 21 October 2026)
+-   📖 Read chapter 124 of [Breakers](https://anilist.co/manga/197888) (05:57 21 October 2026)
+-   📖 Read chapter 251 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:54 21 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
