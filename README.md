@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 205 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (11:40 22 October 2026)
 -   📖 Read chapter 89 - 113 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (07:47 22 October 2026)
 -   📖 Read chapter 65 of [Dragonnap](https://anilist.co/manga/203800) (07:06 22 October 2026)
 -   📖 Read chapter 100 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (06:09 22 October 2026)
 -   📖 Read chapter 335 of [Nano Machine](https://anilist.co/manga/120980) (06:03 22 October 2026)
--   📖 Read chapter 193 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (05:56 22 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
