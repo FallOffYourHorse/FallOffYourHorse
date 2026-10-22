@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 80 - 88 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (09:24 21 October 2026)
--   📖 Read chapter 257 of [The World After the Fall](https://anilist.co/manga/144957) (06:11 21 October 2026)
--   📖 Read chapter 19 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (06:07 21 October 2026)
--   📖 Read chapter 183 of [Marriage Toxin](https://anilist.co/manga/147329) (06:02 21 October 2026)
--   📖 Read chapter 124 of [Breakers](https://anilist.co/manga/197888) (05:57 21 October 2026)
+-   📖 Read chapter 89 - 113 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (07:47 22 October 2026)
+-   📖 Read chapter 65 of [Dragonnap](https://anilist.co/manga/203800) (07:06 22 October 2026)
+-   📖 Read chapter 100 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (06:09 22 October 2026)
+-   📖 Read chapter 335 of [Nano Machine](https://anilist.co/manga/120980) (06:03 22 October 2026)
+-   📖 Read chapter 193 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (05:56 22 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
