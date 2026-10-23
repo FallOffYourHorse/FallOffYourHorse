@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 52 of [Superhuman Streamer](https://anilist.co/manga/202499) (22:46 22 October 2026)
--   📖 Read chapter 157 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (22:22 22 October 2026)
--   📖 Read chapter 8 - 9 of [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (20:54 22 October 2026)
--   📖 Read chapter 205 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (11:40 22 October 2026)
--   📖 Read chapter 89 - 113 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (07:47 22 October 2026)
+-   📖 Read chapter 34 - 36 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (11:47 23 October 2026)
+-   📖 Read chapter 170 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:38 23 October 2026)
+-   📖 Read chapter 129 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:33 23 October 2026)
+-   📖 Read chapter 79 of [The Executioner](https://anilist.co/manga/176845) (11:27 23 October 2026)
+-   📖 Read chapter 53 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (11:24 23 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
