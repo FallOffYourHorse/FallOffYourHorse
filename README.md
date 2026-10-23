@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (17:59 23 October 2026)
+-   📖 Read chapter 282 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (17:51 23 October 2026)
+-   📖 Read chapter 127 of [The New Gate](https://anilist.co/manga/85978) (17:46 23 October 2026)
 -   📖 Read chapter 34 - 36 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (11:47 23 October 2026)
 -   📖 Read chapter 170 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:38 23 October 2026)
--   📖 Read chapter 129 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:33 23 October 2026)
--   📖 Read chapter 79 of [The Executioner](https://anilist.co/manga/176845) (11:27 23 October 2026)
--   📖 Read chapter 53 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (11:24 23 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
