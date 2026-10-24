@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 98 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (17:59 23 October 2026)
--   📖 Read chapter 282 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (17:51 23 October 2026)
--   📖 Read chapter 127 of [The New Gate](https://anilist.co/manga/85978) (17:46 23 October 2026)
--   📖 Read chapter 34 - 36 of [Betrayed by the Hero, I Formed a MILF Party with His Mom](https://anilist.co/manga/159187) (11:47 23 October 2026)
--   📖 Read chapter 170 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:38 23 October 2026)
+-   📖 Read chapter 13 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (02:26 24 October 2026)
+-   📖 Read chapter 41 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:22 24 October 2026)
+-   📖 Read chapter 114 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (02:18 24 October 2026)
+-   📖 Read chapter 54 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (02:14 24 October 2026)
+-   📖 Read chapter 12 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (01:56 24 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
