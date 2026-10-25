@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 238 of [Doctor, Live Again](https://anilist.co/manga/129579) (02:23 25 October 2026)
+-   📖 Read chapter 1 - 18 of [Doctor, Live Again](https://anilist.co/manga/129579) (13:52 25 October 2026)
 -   📖 Read chapter 13 of [The Warrior's Ballad](https://anilist.co/manga/217014) (01:42 25 October 2026)
 -   📖 Read chapter 30 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (01:24 25 October 2026)
 -   📖 Read chapter 64 - 65 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (23:15 24 October 2026)
