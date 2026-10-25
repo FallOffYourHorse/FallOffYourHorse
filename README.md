@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 238 of [Doctor, Live Again](https://anilist.co/manga/129579) (02:23 25 October 2026)
+-   📖 Read chapter 13 of [The Warrior's Ballad](https://anilist.co/manga/217014) (01:42 25 October 2026)
+-   📖 Read chapter 30 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (01:24 25 October 2026)
 -   📖 Read chapter 64 - 65 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (23:15 24 October 2026)
 -   📖 Read chapter 147 - 148 of [Act Like a Boss Monster, Mr. Swallow!](https://anilist.co/manga/172623) (23:00 24 October 2026)
--   📖 Read chapter 157 of [A Flame Reborn](https://anilist.co/manga/173233) (22:33 24 October 2026)
--   📖 Read chapter 154 of [Killer Peter](https://anilist.co/manga/170688) (22:29 24 October 2026)
--   📖 Read chapter 1 of [Tsuki wa Hitsuji wo Kazoenai](https://anilist.co/manga/192425) (17:37 24 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
