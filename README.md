@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 24 of [Doctor, Live Again](https://anilist.co/manga/129579) (17:56 25 October 2026)
+-   📖 Read chapter 1 - 39 of [Doctor, Live Again](https://anilist.co/manga/129579) (19:22 25 October 2026)
 -   📖 Read chapter 26 - 32 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (17:39 25 October 2026)
 -   📖 Read chapter 13 of [The Warrior's Ballad](https://anilist.co/manga/217014) (01:42 25 October 2026)
 -   📖 Read chapter 30 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (01:24 25 October 2026)
