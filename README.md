@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 - 65 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (23:15 24 October 2026)
+-   📖 Read chapter 147 - 148 of [Act Like a Boss Monster, Mr. Swallow!](https://anilist.co/manga/172623) (23:00 24 October 2026)
+-   📖 Read chapter 157 of [A Flame Reborn](https://anilist.co/manga/173233) (22:33 24 October 2026)
+-   📖 Read chapter 154 of [Killer Peter](https://anilist.co/manga/170688) (22:29 24 October 2026)
 -   📖 Read chapter 1 of [Tsuki wa Hitsuji wo Kazoenai](https://anilist.co/manga/192425) (17:37 24 October 2026)
--   📖 Plans to read [Tsuki wa Hitsuji wo Kazoenai](https://anilist.co/manga/192425) (17:25 24 October 2026)
--   📖 Read chapter 138 of [Helmut](https://anilist.co/manga/154782) (17:08 24 October 2026)
--   📖 Read chapter 165 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (13:19 24 October 2026)
--   📖 Read chapter 32 of [The Necromancer of the Renowned Swordmaster Family](https://anilist.co/manga/211928) (13:17 24 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
