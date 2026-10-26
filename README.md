@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 100 of [Doctor, Live Again](https://anilist.co/manga/129579) (05:26 26 October 2026)
--   📖 Read chapter 26 - 32 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (17:39 25 October 2026)
--   📖 Read chapter 13 of [The Warrior's Ballad](https://anilist.co/manga/217014) (01:42 25 October 2026)
--   📖 Read chapter 30 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (01:24 25 October 2026)
--   📖 Read chapter 64 - 65 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (23:15 24 October 2026)
+-   📖 Read chapter 7 of [Sinip gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (06:49 26 October 2026)
+-   📖 Read chapter 186 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:46 26 October 2026)
+-   📖 Read chapter 160 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:42 26 October 2026)
+-   📖 Read chapter 108 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (06:37 26 October 2026)
+-   📖 Read chapter 164 of [Returned by the King](https://anilist.co/manga/170724) (06:32 26 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
