@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 66 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (23:17 26 October 2026)
--   📖 Read chapter 177 of [The Novel's Extra](https://anilist.co/manga/152128) (23:13 26 October 2026)
--   📖 Read chapter 28 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (23:10 26 October 2026)
--   📖 Read chapter 131 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (23:08 26 October 2026)
--   📖 Read chapter 22 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (23:05 26 October 2026)
+-   📺 Completed [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (13:41 27 October 2026)
+-   📺 Watched episode 5 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (13:20 27 October 2026)
+-   📖 Read chapter 1 - 6 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (11:37 27 October 2026)
+-   📖 Read chapter 64 - 65 of [How to Survive as a Wandering Knight](https://anilist.co/manga/202718) (11:28 27 October 2026)
+-   📖 Plans to read [Eunhae Merchant Guild's Youngest Son](https://anilist.co/manga/193752) (09:17 27 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
