@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Mugen Shougou no Level 1 Hunter](https://anilist.co/manga/218936) (18:14 27 October 2026)
--   📖 Read chapter 252 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (17:35 27 October 2026)
--   📺 Watched episode 4 of [Nia Liston: The Merciless Maiden](https://anilist.co/anime/206949) (13:56 27 October 2026)
--   📺 Completed [BLEACH: Thousand-Year Blood War - The Calamity](https://anilist.co/anime/185874) (13:41 27 October 2026)
--   📺 Watched episode 5 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (13:20 27 October 2026)
+-   📖 Read chapter 1 - 6 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (23:20 27 October 2026)
+-   📖 Plans to read [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (23:04 27 October 2026)
+-   📖 Read chapter 42 of [The Sword God's Livestream](https://anilist.co/manga/212619) (23:04 27 October 2026)
+-   📖 Read chapter 24 of [Na Honja Sword Master](https://anilist.co/manga/217593) (23:04 27 October 2026)
+-   📖 Read chapter 192 of [The Infinite Mage](https://anilist.co/manga/159930) (23:01 27 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
