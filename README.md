@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 of [Sinip gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (06:49 26 October 2026)
--   📖 Read chapter 186 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:46 26 October 2026)
--   📖 Read chapter 160 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:42 26 October 2026)
--   📖 Read chapter 108 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (06:37 26 October 2026)
--   📖 Read chapter 164 of [Returned by the King](https://anilist.co/manga/170724) (06:32 26 October 2026)
+-   📖 Read chapter 66 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (23:17 26 October 2026)
+-   📖 Read chapter 177 of [The Novel's Extra](https://anilist.co/manga/152128) (23:13 26 October 2026)
+-   📖 Read chapter 28 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (23:10 26 October 2026)
+-   📖 Read chapter 131 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (23:08 26 October 2026)
+-   📖 Read chapter 22 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (23:05 26 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
