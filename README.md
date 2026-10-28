@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (23:20 27 October 2026)
+-   📖 Read chapter 1 - 24 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:05 28 October 2026)
 -   📖 Plans to read [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (23:04 27 October 2026)
 -   📖 Read chapter 42 of [The Sword God's Livestream](https://anilist.co/manga/212619) (23:04 27 October 2026)
 -   📖 Read chapter 24 of [Na Honja Sword Master](https://anilist.co/manga/217593) (23:04 27 October 2026)
