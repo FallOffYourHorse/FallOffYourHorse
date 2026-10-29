@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 104 of [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (14:40 29 October 2026)
+-   📖 Read chapter 1 - 111 of [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (15:21 29 October 2026)
 -   📖 Read chapter 101 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (13:39 29 October 2026)
 -   📖 Read chapter 66 of [Dragonnap](https://anilist.co/manga/203800) (13:28 29 October 2026)
 -   📖 Read chapter 50 - 97 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (05:19 29 October 2026)
