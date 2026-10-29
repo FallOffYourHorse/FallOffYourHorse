@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 184 of [Marriage Toxin](https://anilist.co/manga/147329) (23:52 28 October 2026)
--   📖 Plans to read [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (23:51 28 October 2026)
--   📖 Read chapter 126 of [Breakers](https://anilist.co/manga/197888) (23:50 28 October 2026)
--   📖 Read chapter 48 of [Sachaejigan](https://anilist.co/manga/204894) (23:48 28 October 2026)
--   📖 Read chapter 1 - 6 of [Chowolmuje](https://anilist.co/manga/219032) (23:39 28 October 2026)
+-   📖 Read chapter 1 - 48 of [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (07:47 29 October 2026)
+-   📖 Read chapter 50 - 97 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (05:19 29 October 2026)
+-   📖 Read chapter 194 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (03:22 29 October 2026)
+-   📖 Read chapter 144 of [The Stellar Swordmaster](https://anilist.co/manga/170400) (03:20 29 October 2026)
+-   📖 Read chapter 225 of [Pick Me Up](https://anilist.co/manga/159441) (03:15 29 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
