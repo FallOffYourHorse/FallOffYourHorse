@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 50 - 59 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (21:24 28 October 2026)
--   📖 Read chapter 1 - 49 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (05:47 28 October 2026)
--   📖 Plans to read [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (23:04 27 October 2026)
--   📖 Read chapter 42 of [The Sword God's Livestream](https://anilist.co/manga/212619) (23:04 27 October 2026)
--   📖 Read chapter 24 of [Na Honja Sword Master](https://anilist.co/manga/217593) (23:04 27 October 2026)
+-   📖 Read chapter 184 of [Marriage Toxin](https://anilist.co/manga/147329) (23:52 28 October 2026)
+-   📖 Plans to read [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (23:51 28 October 2026)
+-   📖 Read chapter 126 of [Breakers](https://anilist.co/manga/197888) (23:50 28 October 2026)
+-   📖 Read chapter 48 of [Sachaejigan](https://anilist.co/manga/204894) (23:48 28 October 2026)
+-   📖 Read chapter 1 - 6 of [Chowolmuje](https://anilist.co/manga/219032) (23:39 28 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
