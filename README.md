@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 111 of [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (15:21 29 October 2026)
--   📖 Read chapter 101 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (13:39 29 October 2026)
--   📖 Read chapter 66 of [Dragonnap](https://anilist.co/manga/203800) (13:28 29 October 2026)
--   📖 Read chapter 50 - 97 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (05:19 29 October 2026)
--   📖 Read chapter 194 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (03:22 29 October 2026)
+-   📖 Read chapter 112 - 113 of [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (08:53 30 October 2026)
+-   📖 Read chapter 283 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (08:31 30 October 2026)
+-   📖 Read chapter 53 of [Superhuman Streamer](https://anilist.co/manga/202499) (08:22 30 October 2026)
+-   📖 Read chapter 37 of [My Sister's Best Friend](https://anilist.co/manga/174315) (08:17 30 October 2026)
+-   📖 Read chapter 59 of [The Patron of Villains](https://anilist.co/manga/201009) (08:15 30 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
