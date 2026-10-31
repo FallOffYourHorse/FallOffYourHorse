@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 55 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (07:39 31 October 2026)
--   📖 Read chapter 6 of [Yoimiya Nagi ga Manager ni Yashoku wo Tsukuru Wake](https://anilist.co/manga/217046) (07:36 31 October 2026)
--   📖 Read chapter 14 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (07:34 31 October 2026)
--   📖 Read chapter 70 of [The Villain's Survival Route](https://anilist.co/manga/187427) (07:31 31 October 2026)
--   📖 Read chapter 42 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (07:29 31 October 2026)
+-   📖 Read chapter 67 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (18:19 31 October 2026)
+-   📖 Read chapter 166 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (17:21 31 October 2026)
+-   📖 Read chapter 12 - 16 of [Date or Kill: Himitsu no Matching](https://anilist.co/manga/190910) (17:17 31 October 2026)
+-   📖 Read chapter 13 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (16:56 31 October 2026)
+-   📖 Read chapter 115 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (16:53 31 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
