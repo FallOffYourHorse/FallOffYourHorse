@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 130 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (00:19 31 October 2026)
 -   📖 Read chapter 112 - 113 of [My Very Own Tower Strategy Guide](https://anilist.co/manga/177012) (08:53 30 October 2026)
 -   📖 Read chapter 283 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (08:31 30 October 2026)
 -   📖 Read chapter 53 of [Superhuman Streamer](https://anilist.co/manga/202499) (08:22 30 October 2026)
 -   📖 Read chapter 37 of [My Sister's Best Friend](https://anilist.co/manga/174315) (08:17 30 October 2026)
--   📖 Read chapter 59 of [The Patron of Villains](https://anilist.co/manga/201009) (08:15 30 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
