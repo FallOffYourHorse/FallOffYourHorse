@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [KILLER+SITTER](https://anilist.co/manga/215403) (01:59 01 November 2026)
 -   📖 Read chapter 216 - 219 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:08 01 November 2026)
 -   📖 Read chapter 31 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (00:00 01 November 2026)
 -   📖 Read chapter 158 of [A Flame Reborn](https://anilist.co/manga/173233) (23:57 31 October 2026)
 -   📖 Read chapter 145 of [The Player Hides His Past](https://anilist.co/manga/166154) (23:50 31 October 2026)
--   📖 Read chapter 165 of [Returned by the King](https://anilist.co/manga/170724) (23:46 31 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
