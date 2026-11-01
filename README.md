@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 67 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (18:19 31 October 2026)
--   📖 Read chapter 166 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (17:21 31 October 2026)
--   📖 Read chapter 12 - 16 of [Date or Kill: Himitsu no Matching](https://anilist.co/manga/190910) (17:17 31 October 2026)
--   📖 Read chapter 13 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (16:56 31 October 2026)
--   📖 Read chapter 115 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (16:53 31 October 2026)
+-   📖 Read chapter 216 - 219 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:08 01 November 2026)
+-   📖 Read chapter 31 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (00:00 01 November 2026)
+-   📖 Read chapter 158 of [A Flame Reborn](https://anilist.co/manga/173233) (23:57 31 October 2026)
+-   📖 Read chapter 145 of [The Player Hides His Past](https://anilist.co/manga/166154) (23:50 31 October 2026)
+-   📖 Read chapter 165 of [Returned by the King](https://anilist.co/manga/170724) (23:46 31 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
