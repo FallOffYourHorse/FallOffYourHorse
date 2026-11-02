@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (23:54 01 November 2026)
 -   📖 Read chapter 109 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (22:43 01 November 2026)
 -   📖 Read chapter 161 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (22:39 01 November 2026)
 -   📖 Read chapter 14 of [The Warrior's Ballad](https://anilist.co/manga/217014) (22:34 01 November 2026)
 -   📖 Read chapter 66 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (22:32 01 November 2026)
--   📖 Read chapter 91 - 92 of [The Wrong Way to Use Healing Magic](https://anilist.co/manga/99775) (22:23 01 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
