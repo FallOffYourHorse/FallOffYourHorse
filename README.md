@@ -49,7 +49,7 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 56 of [Absolute Regression](https://anilist.co/manga/180891) (11:49 02 November 2026)
+-   📖 Read chapter 1 - 73 of [Absolute Regression](https://anilist.co/manga/180891) (17:21 02 November 2026)
 -   📖 Read chapter 1 - 6 of [Bukbu Daegongui Michin Derilsawi](https://anilist.co/manga/219287) (05:42 02 November 2026)
 -   📖 Plans to read [Bukbu Daegongui Michin Derilsawi](https://anilist.co/manga/219287) (03:31 02 November 2026)
 -   📖 Read chapter 49 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:31 02 November 2026)
