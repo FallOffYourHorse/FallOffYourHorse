@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 22 of [I Married the Dragon I Killed](https://anilist.co/manga/214050) (02:49 03 November 2026)
--   📖 Read chapter 178 of [The Novel's Extra](https://anilist.co/manga/152128) (01:32 03 November 2026)
--   📖 Read chapter 8 - 9 of [Sinip Gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (01:29 03 November 2026)
--   📖 Read chapter 29 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (01:15 03 November 2026)
--   📖 Read chapter 151 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:09 03 November 2026)
+-   📖 Read chapter 133 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (08:58 03 November 2026)
+-   📖 Read chapter 1 - 11 of [Kougeki Mahou Gakuen no Shuseki Healer](https://anilist.co/manga/205930) (08:54 03 November 2026)
+-   📖 Plans to read [Kougeki Mahou Gakuen no Shuseki Healer](https://anilist.co/manga/205930) (08:31 03 November 2026)
+-   📖 Plans to read [Gongjunim Hakgyo Gasinda](https://anilist.co/manga/204275) (08:31 03 November 2026)
+-   📖 Plans to read [Perfect Surgeon](https://anilist.co/manga/146714) (08:30 03 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
