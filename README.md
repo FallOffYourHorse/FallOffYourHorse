@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 - 78 of [Absolute Regression](https://anilist.co/manga/180891) (11:55 03 November 2026)
 -   📖 Read chapter 133 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (08:58 03 November 2026)
 -   📖 Read chapter 1 - 11 of [Kougeki Mahou Gakuen no Shuseki Healer](https://anilist.co/manga/205930) (08:54 03 November 2026)
 -   📖 Plans to read [Kougeki Mahou Gakuen no Shuseki Healer](https://anilist.co/manga/205930) (08:31 03 November 2026)
 -   📖 Plans to read [Gongjunim Hakgyo Gasinda](https://anilist.co/manga/204275) (08:31 03 November 2026)
--   📖 Plans to read [Perfect Surgeon](https://anilist.co/manga/146714) (08:30 03 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
