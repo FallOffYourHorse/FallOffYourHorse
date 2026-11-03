@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 73 of [Absolute Regression](https://anilist.co/manga/180891) (17:21 02 November 2026)
--   📖 Read chapter 1 - 6 of [Bukbu Daegongui Michin Derilsawi](https://anilist.co/manga/219287) (05:42 02 November 2026)
--   📖 Plans to read [Bukbu Daegongui Michin Derilsawi](https://anilist.co/manga/219287) (03:31 02 November 2026)
--   📖 Read chapter 49 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (03:31 02 November 2026)
--   📖 Read chapter 53 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (23:54 01 November 2026)
+-   📖 Read chapter 22 of [I Married the Dragon I Killed](https://anilist.co/manga/214050) (02:49 03 November 2026)
+-   📖 Read chapter 178 of [The Novel's Extra](https://anilist.co/manga/152128) (01:32 03 November 2026)
+-   📖 Read chapter 8 - 9 of [Sinip Gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (01:29 03 November 2026)
+-   📖 Read chapter 29 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (01:15 03 November 2026)
+-   📖 Read chapter 151 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:09 03 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
