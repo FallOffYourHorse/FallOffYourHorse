@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 127 of [Breakers](https://anilist.co/manga/197888) (19:03 04 November 2026)
+-   📖 Read chapter 12 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (18:57 04 November 2026)
+-   📖 Read chapter 24 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (18:52 04 November 2026)
+-   📖 Read chapter 25 of [Na Honja Sword Master](https://anilist.co/manga/217593) (18:49 04 November 2026)
 -   📖 Read chapter 80 of [More Than a Married Couple, but Not Lovers.](https://anilist.co/manga/105011) (23:01 03 November 2026)
--   📖 Read chapter 74 - 78 of [Absolute Regression](https://anilist.co/manga/180891) (11:55 03 November 2026)
--   📖 Read chapter 133 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (08:58 03 November 2026)
--   📖 Read chapter 1 - 11 of [Kougeki Mahou Gakuen no Shuseki Healer](https://anilist.co/manga/205930) (08:54 03 November 2026)
--   📖 Plans to read [Kougeki Mahou Gakuen no Shuseki Healer](https://anilist.co/manga/205930) (08:31 03 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
