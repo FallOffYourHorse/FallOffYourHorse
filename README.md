@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (02:30 05 November 2026)
--   📖 Read chapter 79 of [Absolute Regression](https://anilist.co/manga/180891) (01:39 05 November 2026)
--   📖 Read chapter 69 - 71 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (01:35 05 November 2026)
--   📖 Read chapter 195 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (01:25 05 November 2026)
--   📖 Read chapter 25 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (21:52 04 November 2026)
+-   📖 Read chapter 44 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (20:50 05 November 2026)
+-   📖 Read chapter 337 of [Nano Machine](https://anilist.co/manga/120980) (20:45 05 November 2026)
+-   📖 Read chapter 67 of [Dragonnap](https://anilist.co/manga/203800) (20:41 05 November 2026)
+-   📖 Read chapter 98 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (20:38 05 November 2026)
+-   📖 Read chapter 40 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (20:35 05 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
