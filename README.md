@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 127 of [Breakers](https://anilist.co/manga/197888) (19:03 04 November 2026)
--   📖 Read chapter 12 of [Dragon Yeochini Gwihwanhaetda](https://anilist.co/manga/217515) (18:57 04 November 2026)
--   📖 Read chapter 24 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (18:52 04 November 2026)
--   📖 Read chapter 25 of [Na Honja Sword Master](https://anilist.co/manga/217593) (18:49 04 November 2026)
--   📖 Read chapter 80 of [More Than a Married Couple, but Not Lovers.](https://anilist.co/manga/105011) (23:01 03 November 2026)
+-   📖 Read chapter 25 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (21:52 04 November 2026)
+-   📖 Read chapter 226 of [Pick Me Up](https://anilist.co/manga/159441) (21:50 04 November 2026)
+-   📖 Read chapter 206 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (21:48 04 November 2026)
+-   📖 Read chapter 95 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (21:45 04 November 2026)
+-   📖 Read chapter 101 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (21:42 04 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
