@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (02:30 05 November 2026)
+-   📖 Read chapter 79 of [Absolute Regression](https://anilist.co/manga/180891) (01:39 05 November 2026)
+-   📖 Read chapter 69 - 71 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (01:35 05 November 2026)
+-   📖 Read chapter 195 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (01:25 05 November 2026)
 -   📖 Read chapter 25 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (21:52 04 November 2026)
--   📖 Read chapter 226 of [Pick Me Up](https://anilist.co/manga/159441) (21:50 04 November 2026)
--   📖 Read chapter 206 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (21:48 04 November 2026)
--   📖 Read chapter 95 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (21:45 04 November 2026)
--   📖 Read chapter 101 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (21:42 04 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
