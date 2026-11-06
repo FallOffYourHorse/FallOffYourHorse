@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 158 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (01:03 06 November 2026)
 -   📖 Read chapter 44 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (20:50 05 November 2026)
 -   📖 Read chapter 337 of [Nano Machine](https://anilist.co/manga/120980) (20:45 05 November 2026)
 -   📖 Read chapter 67 of [Dragonnap](https://anilist.co/manga/203800) (20:41 05 November 2026)
 -   📖 Read chapter 98 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (20:38 05 November 2026)
--   📖 Read chapter 40 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (20:35 05 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
