@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (21:44 06 November 2026)
+-   📖 Plans to read [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (21:28 06 November 2026)
+-   📖 Read chapter 139 of [Helmut](https://anilist.co/manga/154782) (21:28 06 November 2026)
+-   📖 Read chapter 100 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (21:00 06 November 2026)
 -   📖 Read chapter 158 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (01:03 06 November 2026)
--   📖 Read chapter 44 of [Reincarnation Coliseum: The Weakest Skill Conquers the Strongest Women and Creates a Harem](https://anilist.co/manga/152284) (20:50 05 November 2026)
--   📖 Read chapter 337 of [Nano Machine](https://anilist.co/manga/120980) (20:45 05 November 2026)
--   📖 Read chapter 67 of [Dragonnap](https://anilist.co/manga/203800) (20:41 05 November 2026)
--   📖 Read chapter 98 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (20:38 05 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
