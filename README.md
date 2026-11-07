@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (21:44 06 November 2026)
+-   📖 Read chapter 23 of [Donjiral Necromancer](https://anilist.co/manga/218444) (23:52 06 November 2026)
+-   📖 Read chapter 27 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (23:49 06 November 2026)
+-   📖 Read chapter 13 - 16 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (22:19 06 November 2026)
+-   📖 Read chapter 1 - 6 of [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (21:56 06 November 2026)
 -   📖 Plans to read [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (21:28 06 November 2026)
--   📖 Read chapter 139 of [Helmut](https://anilist.co/manga/154782) (21:28 06 November 2026)
--   📖 Read chapter 100 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (21:00 06 November 2026)
--   📖 Read chapter 158 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (01:03 06 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
