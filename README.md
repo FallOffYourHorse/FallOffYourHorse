@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (13:20 07 November 2026)
+-   📖 Read chapter 56 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (13:17 07 November 2026)
+-   📖 Read chapter 167 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (12:01 07 November 2026)
+-   📖 Read chapter 14 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (10:46 07 November 2026)
 -   📖 Read chapter 71 of [The Villain's Survival Route](https://anilist.co/manga/187427) (04:43 07 November 2026)
--   📖 Read chapter 11 of [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (04:38 07 November 2026)
--   📖 Read chapter 55 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (04:34 07 November 2026)
--   📖 Read chapter 60 of [The Patron of Villains](https://anilist.co/manga/201009) (04:31 07 November 2026)
--   📖 Read chapter 33 - 34 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (04:26 07 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
