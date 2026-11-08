@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 5 of [A Regressor's Tale of Cultivation](https://anilist.co/manga/194727) (08:31 08 November 2026)
+-   📖 Plans to read [A Regressor's Tale of Cultivation](https://anilist.co/manga/194727) (06:32 08 November 2026)
 -   📖 Read chapter 220 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:28 08 November 2026)
 -   📖 Read chapter 32 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (23:51 07 November 2026)
 -   📖 Read chapter 172 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (23:46 07 November 2026)
--   📖 Read chapter 15 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (23:41 07 November 2026)
--   📖 Read chapter 81 of [The Executioner](https://anilist.co/manga/176845) (23:38 07 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
