@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 146 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:18 09 November 2026)
--   📖 Read chapter 162 of [The Academy's Genius Swordsman](https://anilist.co/manga/167649) (06:14 09 November 2026)
--   📖 Read chapter 50 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (06:11 09 November 2026)
--   📖 Read chapter 21 - 22 of [Mugen Shougou no Level 1 Hunter](https://anilist.co/manga/218936) (06:07 09 November 2026)
--   📖 Read chapter 73 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (06:02 09 November 2026)
+-   📖 Read chapter 156 of [Killer Peter](https://anilist.co/manga/170688) (12:41 09 November 2026)
+-   📖 Read chapter 159 of [A Flame Reborn](https://anilist.co/manga/173233) (12:30 09 November 2026)
+-   📖 Read chapter 24 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (12:27 09 November 2026)
+-   📖 Read chapter 54 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (11:48 09 November 2026)
+-   📖 Read chapter 133 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (11:45 09 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
