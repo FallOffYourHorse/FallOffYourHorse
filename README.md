@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [A Regressor's Tale of Cultivation](https://anilist.co/manga/194727) (08:31 08 November 2026)
--   📖 Plans to read [A Regressor's Tale of Cultivation](https://anilist.co/manga/194727) (06:32 08 November 2026)
--   📖 Read chapter 220 of [The Swordmaster's Son](https://anilist.co/manga/149332) (00:28 08 November 2026)
--   📖 Read chapter 32 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (23:51 07 November 2026)
--   📖 Read chapter 172 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (23:46 07 November 2026)
+-   📖 Read chapter 69 - 70 of [The White Tower’s Rogue Mage](https://anilist.co/manga/189264) (23:51 08 November 2026)
+-   📖 Read chapter 110 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (23:44 08 November 2026)
+-   📖 Read chapter 166 of [Returned by the King](https://anilist.co/manga/170724) (23:39 08 November 2026)
+-   📖 Read chapter 67 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (23:32 08 November 2026)
+-   📖 Read chapter 188 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:27 08 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
