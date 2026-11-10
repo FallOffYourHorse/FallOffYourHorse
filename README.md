@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (01:47 10 November 2026)
 -   📖 Read chapter 156 of [Killer Peter](https://anilist.co/manga/170688) (12:41 09 November 2026)
 -   📖 Read chapter 159 of [A Flame Reborn](https://anilist.co/manga/173233) (12:30 09 November 2026)
 -   📖 Read chapter 24 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (12:27 09 November 2026)
 -   📖 Read chapter 54 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (11:48 09 November 2026)
--   📖 Read chapter 133 of [Ian the Illegitimate Son Was an Emperor](https://anilist.co/manga/179963) (11:45 09 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
