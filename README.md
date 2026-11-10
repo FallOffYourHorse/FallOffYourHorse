@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 140 of [Helmut](https://anilist.co/manga/154782) (20:07 10 November 2026)
+-   📖 Read chapter 7 of [Bukbu Daegongui Michin Derilsawi](https://anilist.co/manga/219287) (20:00 10 November 2026)
 -   📖 Read chapter 179 of [The Novel's Extra](https://anilist.co/manga/152128) (12:23 10 November 2026)
 -   📖 Read chapter 114 - 115 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (12:19 10 November 2026)
 -   📖 Read chapter 30 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (01:47 10 November 2026)
--   📖 Read chapter 156 of [Killer Peter](https://anilist.co/manga/170688) (12:41 09 November 2026)
--   📖 Read chapter 159 of [A Flame Reborn](https://anilist.co/manga/173233) (12:30 09 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
