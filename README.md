@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 140 of [Helmut](https://anilist.co/manga/154782) (20:07 10 November 2026)
--   📖 Read chapter 7 of [Bukbu Daegongui Michin Derilsawi](https://anilist.co/manga/219287) (20:00 10 November 2026)
--   📖 Read chapter 179 of [The Novel's Extra](https://anilist.co/manga/152128) (12:23 10 November 2026)
--   📖 Read chapter 114 - 115 of [Last Boss Shoujo Akari: Watashi yori Tsuyoi Yatsu no Ai ni Gendai ni Iku](https://anilist.co/manga/180583) (12:19 10 November 2026)
--   📖 Read chapter 30 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (01:47 10 November 2026)
+-   📖 Read chapter 41 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (08:52 11 November 2026)
+-   📖 Read chapter 44 of [The Sword God's Livestream](https://anilist.co/manga/212619) (08:49 11 November 2026)
+-   📖 Read chapter 10 of [Sinip Gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (08:45 11 November 2026)
+-   📖 Read chapter 134 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (08:39 11 November 2026)
+-   📺 Watched episode 5 - 6 of [Nia Liston: The Merciless Maiden](https://anilist.co/anime/206949) (08:36 11 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
