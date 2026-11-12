@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (08:52 11 November 2026)
--   📖 Read chapter 44 of [The Sword God's Livestream](https://anilist.co/manga/212619) (08:49 11 November 2026)
--   📖 Read chapter 10 of [Sinip Gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (08:45 11 November 2026)
--   📖 Read chapter 134 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (08:39 11 November 2026)
--   📺 Watched episode 5 - 6 of [Nia Liston: The Merciless Maiden](https://anilist.co/anime/206949) (08:36 11 November 2026)
+-   📖 Read chapter 196 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (05:03 12 November 2026)
+-   📖 Read chapter 68 of [Dragonnap](https://anilist.co/manga/203800) (05:00 12 November 2026)
+-   📖 Read chapter 26 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (04:57 12 November 2026)
+-   📖 Read chapter 72 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (04:53 12 November 2026)
+-   📖 Read chapter 227 of [Pick Me Up](https://anilist.co/manga/159441) (04:50 12 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
