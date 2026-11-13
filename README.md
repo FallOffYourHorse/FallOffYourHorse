@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 196 of [The Return of the Disaster-Class Hero](https://anilist.co/manga/143056) (05:03 12 November 2026)
--   📖 Read chapter 68 of [Dragonnap](https://anilist.co/manga/203800) (05:00 12 November 2026)
--   📖 Read chapter 26 of [Academy-ui Mugibokjeja](https://anilist.co/manga/216933) (04:57 12 November 2026)
--   📖 Read chapter 72 of [Solo Leveling: Ragnarok](https://anilist.co/manga/179445) (04:53 12 November 2026)
--   📖 Read chapter 227 of [Pick Me Up](https://anilist.co/manga/159441) (04:50 12 November 2026)
+-   📖 Plans to read [Tomb Raider King: End Line](https://anilist.co/manga/213617) (11:42 13 November 2026)
+-   📖 Read chapter 1 - 2 of [Doom: Satsujin Keisatsukan no Danzairoku](https://anilist.co/manga/202372) (06:03 13 November 2026)
+-   📖 Plans to read [Doom: Satsujin Keisatsukan no Danzairoku](https://anilist.co/manga/202372) (05:49 13 November 2026)
+-   📖 Read chapter 103 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (04:18 13 November 2026)
+-   📖 Read chapter 338 of [Nano Machine](https://anilist.co/manga/120980) (04:14 13 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
