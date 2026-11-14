@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 144 - 152 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (00:04 14 November 2026)
+-   📖 Read chapter 159 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (23:46 13 November 2026)
+-   📖 Read chapter 12 of [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (23:34 13 November 2026)
 -   📖 Plans to read [Tomb Raider King: End Line](https://anilist.co/manga/213617) (11:42 13 November 2026)
 -   📖 Read chapter 1 - 2 of [Doom: Satsujin Keisatsukan no Danzairoku](https://anilist.co/manga/202372) (06:03 13 November 2026)
--   📖 Plans to read [Doom: Satsujin Keisatsukan no Danzairoku](https://anilist.co/manga/202372) (05:49 13 November 2026)
--   📖 Read chapter 103 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (04:18 13 November 2026)
--   📖 Read chapter 338 of [Nano Machine](https://anilist.co/manga/120980) (04:14 13 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
