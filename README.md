@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 4 of [Let’s Run an Inn on Dungeon Island! (In a World Ruled by Women)](https://anilist.co/manga/148026) (07:09 14 November 2026)
+-   📖 Read chapter 284 - 285 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (14:36 14 November 2026)
+-   📖 Read chapter 15 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (14:27 14 November 2026)
+-   📖 Read chapter 131 - 132 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (14:24 14 November 2026)
+-   📖 Read chapter 3 - 42 of [Let’s Run an Inn on Dungeon Island! (In a World Ruled by Women)](https://anilist.co/manga/148026) (13:02 14 November 2026)
 -   📖 Read chapter 4 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (06:20 14 November 2026)
--   📖 Read chapter 105 of [Ultimate Shut-in](https://anilist.co/manga/186019) (06:01 14 November 2026)
--   📖 Read chapter 22 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (05:54 14 November 2026)
--   📖 Read chapter 167 of [Returned by the King](https://anilist.co/manga/170724) (05:50 14 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
