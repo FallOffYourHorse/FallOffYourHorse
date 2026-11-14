@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 144 - 152 of [Jinrui Kyuusai Game](https://anilist.co/manga/176423) (00:04 14 November 2026)
--   📖 Read chapter 159 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (23:46 13 November 2026)
--   📖 Read chapter 12 of [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (23:34 13 November 2026)
--   📖 Plans to read [Tomb Raider King: End Line](https://anilist.co/manga/213617) (11:42 13 November 2026)
--   📖 Read chapter 1 - 2 of [Doom: Satsujin Keisatsukan no Danzairoku](https://anilist.co/manga/202372) (06:03 13 November 2026)
+-   📖 Read chapter 3 - 4 of [Let’s Run an Inn on Dungeon Island! (In a World Ruled by Women)](https://anilist.co/manga/148026) (07:09 14 November 2026)
+-   📖 Read chapter 4 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (06:20 14 November 2026)
+-   📖 Read chapter 105 of [Ultimate Shut-in](https://anilist.co/manga/186019) (06:01 14 November 2026)
+-   📖 Read chapter 22 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (05:54 14 November 2026)
+-   📖 Read chapter 167 of [Returned by the King](https://anilist.co/manga/170724) (05:50 14 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
