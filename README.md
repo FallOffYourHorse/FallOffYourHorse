@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 284 - 285 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (14:36 14 November 2026)
--   📖 Read chapter 15 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (14:27 14 November 2026)
--   📖 Read chapter 131 - 132 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (14:24 14 November 2026)
--   📖 Read chapter 3 - 42 of [Let’s Run an Inn on Dungeon Island! (In a World Ruled by Women)](https://anilist.co/manga/148026) (13:02 14 November 2026)
--   📖 Read chapter 4 of [Tousan wa "Kensei", Kaasan wa "Kenshin", Boku wa "Ochi〇po Chanbara Master"](https://anilist.co/manga/210011) (06:20 14 November 2026)
+-   📖 Plans to read [Mollakan Myeonggaui Player](https://anilist.co/manga/202580) (09:57 15 November 2026)
+-   📖 Read chapter 173 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:32 15 November 2026)
+-   📖 Read chapter 54 of [Superhuman Streamer](https://anilist.co/manga/202499) (09:10 15 November 2026)
+-   📖 Read chapter 33 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (09:05 15 November 2026)
+-   📖 Read chapter 82 of [The Executioner](https://anilist.co/manga/176845) (09:02 15 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
