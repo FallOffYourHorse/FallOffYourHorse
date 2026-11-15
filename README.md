@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 184 - 186 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (23:10 15 November 2026)
 -   📖 Plans to read [Mollakan Myeonggaui Player](https://anilist.co/manga/202580) (09:57 15 November 2026)
 -   📖 Read chapter 173 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:32 15 November 2026)
 -   📖 Read chapter 54 of [Superhuman Streamer](https://anilist.co/manga/202499) (09:10 15 November 2026)
 -   📖 Read chapter 33 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (09:05 15 November 2026)
--   📖 Read chapter 82 of [The Executioner](https://anilist.co/manga/176845) (09:02 15 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
