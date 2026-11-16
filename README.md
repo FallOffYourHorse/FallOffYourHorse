@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 - 69 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (01:37 16 November 2026)
--   📖 Read chapter 68 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (01:23 16 November 2026)
--   📖 Read chapter 74 of [Kaikishita Ankoku Kenshi, Academy de Muzou Suru](https://anilist.co/manga/209644) (01:15 16 November 2026)
--   📖 Read chapter 23 of [Mugen Shougou no Level 1 Hunter](https://anilist.co/manga/218936) (01:07 16 November 2026)
--   📖 Read chapter 157 of [Killer Peter](https://anilist.co/manga/170688) (00:16 16 November 2026)
+-   📖 Read chapter 1 - 10 of [Log Out-i Neomu Eoryeopda](https://anilist.co/manga/219190) (12:14 16 November 2026)
+-   📖 Plans to read [Log Out-i Neomu Eoryeopda](https://anilist.co/manga/219190) (11:50 16 November 2026)
+-   📺 Watched episode 8 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (07:31 16 November 2026)
+-   📺 Watched episode 1 of [The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life](https://anilist.co/anime/207329) (06:42 16 November 2026)
+-   📖 Read chapter 189 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:35 16 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
