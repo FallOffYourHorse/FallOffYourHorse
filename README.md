@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 135 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (12:58 17 November 2026)
+-   📖 Read chapter 4 - 5 of [Moto Oshiego no Ninose-san](https://anilist.co/manga/219921) (12:54 17 November 2026)
+-   📖 Read chapter 9 of [Bukbu Daegongui Michin Derilsawi](https://anilist.co/manga/219287) (08:18 17 November 2026)
 -   📖 Read chapter 34 - 35 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (04:19 17 November 2026)
 -   📖 Read chapter 25 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (04:07 17 November 2026)
--   📖 Read chapter 21 of [Log Out-i Neomu Eoryeopda](https://anilist.co/manga/219190) (03:52 17 November 2026)
--   📖 Read chapter 31 - 32 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (03:43 17 November 2026)
--   📖 Read chapter 180 of [The Novel's Extra](https://anilist.co/manga/152128) (01:50 17 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
