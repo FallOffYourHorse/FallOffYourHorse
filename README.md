@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Log Out-i Neomu Eoryeopda](https://anilist.co/manga/219190) (12:38 16 November 2026)
--   📖 Plans to read [Log Out-i Neomu Eoryeopda](https://anilist.co/manga/219190) (11:50 16 November 2026)
--   📺 Watched episode 8 of [A Wild Last Boss Appeared! Season 2](https://anilist.co/anime/204389) (07:31 16 November 2026)
--   📺 Watched episode 1 of [The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life](https://anilist.co/anime/207329) (06:42 16 November 2026)
--   📖 Read chapter 189 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:35 16 November 2026)
+-   📖 Read chapter 34 - 35 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (04:19 17 November 2026)
+-   📖 Read chapter 25 of [Prologue-eseo 30-nyeoni Heulleotda](https://anilist.co/manga/214453) (04:07 17 November 2026)
+-   📖 Read chapter 21 of [Log Out-i Neomu Eoryeopda](https://anilist.co/manga/219190) (03:52 17 November 2026)
+-   📖 Read chapter 31 - 32 of [Neungnyeok Meokgo Level Up-neun Yeongjunim](https://anilist.co/manga/216292) (03:43 17 November 2026)
+-   📖 Read chapter 180 of [The Novel's Extra](https://anilist.co/manga/152128) (01:50 17 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
