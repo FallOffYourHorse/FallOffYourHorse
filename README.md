@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (16:34 18 November 2026)
+-   📖 Read chapter 115 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (12:38 18 November 2026)
 -   📖 Read chapter 55 of [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (12:34 18 November 2026)
 -   📖 Read chapter 1 of [Kataude no Amy](https://anilist.co/manga/128150) (12:24 18 November 2026)
 -   📖 Plans to read [Kataude no Amy](https://anilist.co/manga/128150) (12:23 18 November 2026)
--   📖 Read chapter 1 - 17 of [Osananajimi wo Miru Me ga Kawatte Shimatta](https://anilist.co/manga/208851) (04:21 18 November 2026)
--   📖 Plans to read [Osananajimi wo Miru Me ga Kawatte Shimatta](https://anilist.co/manga/208851) (03:47 18 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
