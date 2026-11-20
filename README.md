@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Yasaengeseo Gallery-reul Eodeotda](https://anilist.co/manga/217098) (08:00 19 November 2026)
--   📖 Read chapter 9 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (16:34 18 November 2026)
--   📖 Read chapter 115 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (12:38 18 November 2026)
--   📖 Read chapter 55 of [I’m the Evil Lord of an Intergalactic Empire!](https://anilist.co/manga/139699) (12:34 18 November 2026)
--   📖 Read chapter 1 of [Kataude no Amy](https://anilist.co/manga/128150) (12:24 18 November 2026)
+-   📖 Read chapter 103 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (04:51 20 November 2026)
+-   📖 Read chapter 160 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (04:47 20 November 2026)
+-   📖 Read chapter 8 of [Yoimiya Nagi ga Manager ni Yashoku wo Tsukuru Wake](https://anilist.co/manga/217046) (04:43 20 November 2026)
+-   📖 Read chapter 153 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:38 20 November 2026)
+-   📖 Read chapter 51 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (04:34 20 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
