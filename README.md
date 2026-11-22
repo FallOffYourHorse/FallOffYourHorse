@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:38 22 November 2026)
 -   📖 Read chapter 222 of [The Swordmaster's Son](https://anilist.co/manga/149332) (08:21 22 November 2026)
 -   📖 Read chapter 168 of [Returned by the King](https://anilist.co/manga/170724) (08:13 22 November 2026)
 -   📖 Read chapter 57 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (08:10 22 November 2026)
 -   📖 Read chapter 117 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (08:06 22 November 2026)
--   📖 Read chapter 133 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (08:03 22 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
