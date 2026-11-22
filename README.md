@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 58 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (02:12 21 November 2026)
--   📖 Read chapter 25 of [Donjiral Necromancer](https://anilist.co/manga/218444) (02:08 21 November 2026)
--   📖 Read chapter 28 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (00:54 21 November 2026)
--   📖 Completed [My Blasted Reincarnated Life](https://anilist.co/manga/151512) (23:36 20 November 2026)
--   📖 Read chapter 9 - 10 of [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (23:31 20 November 2026)
+-   📖 Read chapter 222 of [The Swordmaster's Son](https://anilist.co/manga/149332) (08:21 22 November 2026)
+-   📖 Read chapter 168 of [Returned by the King](https://anilist.co/manga/170724) (08:13 22 November 2026)
+-   📖 Read chapter 57 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (08:10 22 November 2026)
+-   📖 Read chapter 117 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (08:06 22 November 2026)
+-   📖 Read chapter 133 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (08:03 22 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
