@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 112 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (21:13 22 November 2026)
+-   📖 Read chapter 161 of [A Flame Reborn](https://anilist.co/manga/173233) (21:09 22 November 2026)
+-   📖 Read chapter 103 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (21:05 22 November 2026)
+-   📖 Read chapter 148 of [The Player Hides His Past](https://anilist.co/manga/166154) (21:00 22 November 2026)
 -   📖 Read chapter 34 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:38 22 November 2026)
--   📖 Read chapter 222 of [The Swordmaster's Son](https://anilist.co/manga/149332) (08:21 22 November 2026)
--   📖 Read chapter 168 of [Returned by the King](https://anilist.co/manga/170724) (08:13 22 November 2026)
--   📖 Read chapter 57 of [Too Many Heroes for the Demon Lord](https://anilist.co/manga/202986) (08:10 22 November 2026)
--   📖 Read chapter 117 of [Genius Archer's Livestreaming](https://anilist.co/manga/180166) (08:06 22 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
