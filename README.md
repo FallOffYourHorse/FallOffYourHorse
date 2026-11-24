@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Mumu Mujeok](https://anilist.co/manga/220174) (00:27 23 November 2026)
--   📖 Plans to read [Mumu Mujeok](https://anilist.co/manga/220174) (00:14 23 November 2026)
--   📖 Read chapter 112 of [The Dragon Slayer's Regression on Another Level](https://anilist.co/manga/185978) (21:13 22 November 2026)
--   📖 Read chapter 161 of [A Flame Reborn](https://anilist.co/manga/173233) (21:09 22 November 2026)
--   📖 Read chapter 103 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (21:05 22 November 2026)
+-   📖 Read chapter 1 - 4 of [Sekai Saikyou no Honoo Mahoutsukai](https://anilist.co/manga/219200) (01:18 24 November 2026)
+-   📖 Plans to read [Sekai Saikyou no Honoo Mahoutsukai](https://anilist.co/manga/219200) (01:09 24 November 2026)
+-   📖 Read chapter 70 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (01:09 24 November 2026)
+-   📖 Plans to read [The Baby Fairy Is a Villainess](https://anilist.co/manga/189119) (01:00 24 November 2026)
+-   📖 Read chapter 12 of [Sinip Gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (00:59 24 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
