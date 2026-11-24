@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (11:47 24 November 2026)
 -   📖 Read chapter 1 - 4 of [Sekai Saikyou no Honoo Mahoutsukai](https://anilist.co/manga/219200) (01:18 24 November 2026)
 -   📖 Plans to read [Sekai Saikyou no Honoo Mahoutsukai](https://anilist.co/manga/219200) (01:09 24 November 2026)
 -   📖 Read chapter 70 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (01:09 24 November 2026)
 -   📖 Plans to read [The Baby Fairy Is a Villainess](https://anilist.co/manga/189119) (01:00 24 November 2026)
--   📖 Read chapter 12 of [Sinip Gongmuwoneun Villain Japgo Toegeunhamnida](https://anilist.co/manga/218531) (00:59 24 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
