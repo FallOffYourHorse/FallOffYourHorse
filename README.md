@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 24 of [Ryuu to Itsuki](https://anilist.co/manga/189354) (03:46 25 November 2026)
--   📖 Plans to read [Ryuu to Itsuki](https://anilist.co/manga/189354) (01:45 25 November 2026)
--   📖 Read chapter 10 of [Chowolmuje](https://anilist.co/manga/219032) (01:45 25 November 2026)
--   📖 Read chapter 27 of [Hoegwijawa Maengin Seongnyeo](https://anilist.co/manga/217902) (01:42 25 November 2026)
--   📖 Read chapter 312 - 313 of [Omniscient Reader](https://anilist.co/manga/119257) (01:38 25 November 2026)
+-   📖 Read chapter 226 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:19 25 November 2026)
+-   📖 Read chapter 98 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (11:16 25 November 2026)
+-   📖 Read chapter 312 - 317 of [Omniscient Reader](https://anilist.co/manga/119257) (06:44 25 November 2026)
+-   📖 Read chapter 255 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (05:10 25 November 2026)
+-   📖 Read chapter 187 of [Marriage Toxin](https://anilist.co/manga/147329) (04:48 25 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
