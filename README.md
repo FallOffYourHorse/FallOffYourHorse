@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 42 of [Ichyeojin Deulpan](https://anilist.co/manga/211558) (03:17 26 November 2026)
--   📖 Read chapter 1 - 9 of [Waiting in the Wheat Field](https://anilist.co/manga/214900) (18:31 25 November 2026)
--   📖 Plans to read [Waiting in the Wheat Field](https://anilist.co/manga/214900) (18:03 25 November 2026)
--   📖 Read chapter 226 of [Teenage Mercenary](https://anilist.co/manga/126297) (11:19 25 November 2026)
--   📖 Read chapter 98 of [The Apocalypse-Level Death Knight Returns](https://anilist.co/manga/195334) (11:16 25 November 2026)
+-   📖 Read chapter 1 - 12 of [The Transfer Assassin](https://anilist.co/manga/213441) (14:20 26 November 2026)
+-   📖 Plans to read [The Transfer Assassin](https://anilist.co/manga/213441) (11:41 26 November 2026)
+-   📖 Read chapter 339 - 340 of [Nano Machine](https://anilist.co/manga/120980) (11:40 26 November 2026)
+-   📖 Read chapter 14 of [Madoseoreul Jupda Mabeopsaga Doeda](https://anilist.co/manga/217943) (11:33 26 November 2026)
+-   📖 Read chapter 104 of [The Genius Prismatic Mage](https://anilist.co/manga/187172) (11:28 26 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
