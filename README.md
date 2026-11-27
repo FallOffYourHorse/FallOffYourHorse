@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 of [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (03:22 27 November 2026)
 -   📖 Read chapter 161 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (23:08 26 November 2026)
 -   📖 Read chapter 1 - 29 of [The Transfer Assassin](https://anilist.co/manga/213441) (23:01 26 November 2026)
 -   📖 Read chapter 17 - 19 of [Segyemyeolmangjeon](https://anilist.co/manga/216894) (21:22 26 November 2026)
 -   📖 Read chapter 9 of [Yoimiya Nagi ga Manager ni Yashoku wo Tsukuru Wake](https://anilist.co/manga/217046) (20:46 26 November 2026)
--   📖 Plans to read [The Transfer Assassin](https://anilist.co/manga/213441) (11:41 26 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
