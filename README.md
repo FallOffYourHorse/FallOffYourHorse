@@ -49,10 +49,10 @@ I have an AniList to keep up with stuff I've watched and read!
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 - 80 of [Regression of the Third Prince](https://anilist.co/manga/194672) (22:15 27 November 2026)
--   📖 Read chapter 12 of [Cyberpunk Hyeopgaekjeon](https://anilist.co/manga/219549) (22:04 27 November 2026)
--   📖 Read chapter 175 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:03 27 November 2026)
--   📖 Read chapter 102 of [The Reincarnated Assassin Is a Swordmaster](https://anilist.co/manga/168823) (21:55 27 November 2026)
--   📖 Read chapter 105 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (21:51 27 November 2026)
+-   📖 Read chapter 158 of [Killer Peter](https://anilist.co/manga/170688) (17:24 28 November 2026)
+-   📖 Read chapter 170 of [The Lazy Lord Masters the Sword](https://anilist.co/manga/135325) (17:23 28 November 2026)
+-   📖 Read chapter 59 of [Reincarnated as the Grand Duke’s Third Son](https://anilist.co/manga/203471) (17:20 28 November 2026)
+-   📖 Read chapter 17 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (17:17 28 November 2026)
+-   📖 Read chapter 18 of [Yongsaneun Swil Su Eopda](https://anilist.co/manga/217324) (17:13 28 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
